@@ -1,3 +1,6 @@
+---
+title: README
+---
 # Readme
 This is the public repository for the website [jache.re](https://jache.re).
 

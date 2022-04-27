@@ -11,4 +11,4 @@ La jachère strives to be such a place. A little corner of the internet that is 
 
 La jachère runs on a Raspberry Pi[^1] in Biel/Bienne, Switzerland, and is stewarded by [thgie.ch](https://thgie.ch). More information on the deployment process of this website can be found under [Jachère Publishing](notes/jachere-publishing.md).
 
-[^1]: Hopefully [solar-powered](notes/Solar%20Sensitivities.md) soonish
+[^1]: Hopefully solar-powered soonish

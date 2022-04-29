@@ -4,7 +4,7 @@ author: Adrian Demleitner
 date: 2022-04-17
 ---
 # Jachère Deployment and Publishing
-As of April 2022, [jache.re](https://jache.re) is running on a Raspberry Pi 4, served as static files through [Nginx](https://www.nginx.com). The content of la Jachère is managed and collaboratively edited through a [git repository](https://github.com/thgie/jache.re), currently residing at Github.
+As of April 2022, [jache.re](https://jache.re) is running on a Raspberry Pi 4, served as static files through [Nginx](https://www.nginx.com). The content of la Jachère is managed and collaboratively edited through a [git repository](https://git.sr.ht/~thgie/jache.re), currently residing at [sourcehut](https://sourcehut.org/).
 
 The deployment is triggered by a git hook, which is a bash script that is run at a specific event in the git process. In this case it is the post-merge event/hook, which is triggered after a pull and merge.
 

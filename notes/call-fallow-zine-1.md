@@ -17,6 +17,7 @@ Although being of computing origin, la Jachère understands technology in its br
 
 - Deadline: **21. June 2022** (more or less… deadlines are thresholds to play with)
 - All languages are accepted, but we can only give feedback on  **English, German and French** content at the moment
+- Send your material to [adrian@thgie.ch](mailto:adrian@thgie.ch)
 
 ## About this call
 Technology is an essential part of being us, although it doesn't make us unique. Our technology is part of our particular assemblage which we might call human. Our time, dubbed the Anthropocene, is marked by an overflow of technology. An overflow that actively harms and destroys our planet with its floras and faunas, and ourselves on individual and societal levels. And we are all aware of that. 

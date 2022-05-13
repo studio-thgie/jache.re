@@ -1,3 +1,9 @@
+---
+title: "Call for entries - Fallow Zine 1"
+author: Adrian Demleitner
+date: 2022-05-13
+---
+
 # Call for entries
 ## Fallow Zine 1
 La Jachère is a small corner of the internet that wants to create an anti-capitalist space by practices of resting and letting rest. More about that approach to ideology under [about](about.md). For the first Fallow Zine, la Jachère is interested in contributions about the following topics, but not limited to them. 

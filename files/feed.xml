@@ -6,6 +6,13 @@
   <link>https://jache.re</link>
   <description>Jachère means fallow means Brache. A little corner of the internet that is freed of economic reasoning, instead trying to root and entangle itself with the local and being environmentally aware.</description>
   <item>
+    <title>Jachère Solar Setup</title>
+    <link>https://jache.re/notes/jachere-solar-setup.html</link>
+    <description>This entry outlines the current hardware and solar power setup of this tiny server.</description>
+    <pubDate>2022-05-30</pubDate>
+  </item>
+
+  <item>
     <title>Call for entries - Fallow Zine 1</title>
     <link>https://jache.re/notes/call-fallow-zine-1.html</link>
     <description>For the first Fallow Zine, la Jachère is interested in contributions about the following topics, but not limited to them: Lazy tech or tech for the lazies. Tech that falls into place, fits, is just enough. Tech for rest, pause, have a break, take a breath Tech for preservation, of the status quo, of energy, of a moment, of equilibrium.</description>

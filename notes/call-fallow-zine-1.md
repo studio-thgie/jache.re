@@ -15,7 +15,7 @@ La Jachère is a small corner of the internet that wants to create an anti-capit
 
 Although being of computing origin, la Jachère understands technology in its broadest sense, techne. Regarding the topics, that can mean anything from automating code, fermenting, hammocks and wind energy to practices of sleeping. Basically every kind of technology that makes you work less, not more, spend less energy, not more (which is a critical aspect that needs reflection, because often we just externalize work and energy through the capitalist system).[^1]
 
-- Deadline: **21. June 2022** (more or less… deadlines are thresholds to play with)
+- Deadline: I plan to publish this autumn, so feel free to send me stuff until then :)
 - All languages are accepted, but we can only give feedback on  **English, German and French** content at the moment
 - Send your material or inquiries to [adrian@thgie.ch](mailto:adrian@thgie.ch)
 

@@ -143,6 +143,7 @@ main ol a {
     display: inline-block;
     z-index: 10;
     text-decoration: none;
+    margin: 0 17px;
 }
 main p a:hover,
 main ul a:hover,
@@ -158,10 +159,11 @@ main ol a:before {
     border: 1px solid #181818;
     position: absolute;
     left: -15px;
-    top: 0;
+    top: -1px;
     border-radius: 20px;
     text-decoration: none;
     z-index: -1;
+    transition: .25s;
 }
 main p a:hover:before,
 main ul a:hover:before,
@@ -202,6 +204,15 @@ blockquote p:before {
 }
 blockquote p:after {
     content: "”";
+}
+blockquote a {
+    color: white;
+}
+blockquote a:before {
+    border-color: white;
+}
+blockquote a:hover:before {
+    background-color: white;
 }
 
 pre,

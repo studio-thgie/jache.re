@@ -1,3 +1,7 @@
+---
+title: Unmedia
+author: TMO
+---
 # Unmedia (abstract)
 
 By [TMO](https://write.as/tmo/)

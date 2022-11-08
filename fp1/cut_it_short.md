@@ -1,3 +1,7 @@
+---
+title: Cut it short
+author: Pixel
+---
 # Cut it Short
 By [Pixel](https://www.pixouls.xyz).
 

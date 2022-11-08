@@ -1,3 +1,7 @@
+---
+title: Humane Technology
+author: Boris Marinov
+---
 # Humane technology
 By [Boris Marinov](https://boris-marinov.github.io/).
 

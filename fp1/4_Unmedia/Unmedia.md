@@ -25,3 +25,5 @@ The index for **"Unmedia"** is below. About 2,100 words, cut into seven sections
 5) `Lost to Time(lines) and (Cyber)space`
 6) `Dancing Around The Zeitgeist In The Room`
 7) `The Permanent Vacation (Conclusion)`
+
+Read the complete text on [Unmedia](https://write.as/tmo/unmedia-by-tmo).

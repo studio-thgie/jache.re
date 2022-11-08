@@ -209,10 +209,10 @@ blockquote a {
     color: white;
 }
 blockquote a:before {
-    border-color: white;
+    border-color: white !important;
 }
 blockquote a:hover:before {
-    background-color: white;
+    background-color: white !important;
 }
 
 pre,

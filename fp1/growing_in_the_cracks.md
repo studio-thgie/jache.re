@@ -10,6 +10,8 @@ All photos and illustrations (c) by Shane Finan
 
 That was the general idea Shane approached me with. We discussed some ways of letting the illustrations growing out of cracks in the finished zine. But that might be a thing for an enhanced version of this issue 😅 and who knows when that will happen… (sorry Shane!)
 
+I love the idea of looking at how our human infrastructures are taken over by flora when we are not constantly combat those beautiful plants.
+
 ![fallow0](/files/fp1/fallow0.JPG)
 ![fallow1](/files/fp1/fallow1.JPG)
 ![fallow2](/files/fp1/fallow2.JPG)

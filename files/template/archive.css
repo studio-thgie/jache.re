@@ -208,6 +208,9 @@ blockquote p:after {
 blockquote a {
     color: white;
 }
+blockquote a:hover {
+    color: black;
+}
 blockquote a:before {
     border-color: white !important;
 }

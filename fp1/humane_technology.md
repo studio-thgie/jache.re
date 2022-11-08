@@ -29,4 +29,4 @@ An inhumane technology is something that you _pick up to “do your job” and l
 
 Inhumane technologies often _look better than humane ones_, especially to the untrained eye - they are so shiny, so innovative, they look like they bring the promise of a better future. Compared to them, humane technologies _seem plain and uninteresting_. However, all that changes when we put things in perspective.
 
-Read the complete text on [Human Tech](https://boris-marinov.github.io/humane-tech/).
+Read the complete text on [Humane Technology](https://boris-marinov.github.io/humane-tech/).

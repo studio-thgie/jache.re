@@ -13,16 +13,16 @@ A good chunk of it occupies itself to different degrees with the refusal of tech
 So let's do that for now, ok? Get yourself comfy, and let us collaboratively refuse the onslaught of technology. Have a tea, eat some cookies, enjoy the moment. Here is what's in for you in this issue.
 
 - Automation
-	- [index](fp1/1_Cut_it_short/index.md) by [Pixel](https://www.pixouls.xyz)
-	- [index](fp1/2_Suonen/index.md)
+	- [Cut it short](fp1/cut_it_short.md) by [Pixel](https://www.pixouls.xyz)
+	- [Suonen](fp1/suonen.md)
 - Reflection and Refusal
-	- [index](fp1/3_Human_Tech/index.md) by [Boris Marinov](https://boris-marinov.github.io/)
-	- [index](fp1/4_Unmedia/index.md) by [TMO](https://write.as/tmo/)
+	- [Humane Tech](fp1/humane_technology.md) by [Boris Marinov](https://boris-marinov.github.io/)
+	- [Unmedia](fp1/unmedia.md) by [TMO](https://write.as/tmo/)
 - Resting
-	- [index](fp1/5_Hammocks/index.md)
+	- [Hammocks](fp1/hammocks.md)
 	- Alarmclock by Stewia
 - Aesthetics
-	- [index](fp1/7_Growing_in_the_cracks/index.md) by [Shane Finan](https://shanefinan.org/)
-	- [index](fp1/8_Tomatoes/index.md) by [Vasilii Kolobkov](https://orangeshoelaces.net/)
+	- [Growing in the crack](fp1/growing_in_the_cracks.md) by [Shane Finan](https://shanefinan.org/)
+	- [Tomatoes](fp1/tomatoes.md) by [Vasilii Kolobkov](https://orangeshoelaces.net/)
 
-![lazy_1](/files/fp1/lazy_1.png)
+![If your feeling lazy today, just know that last weekend my mom told my to vacuum my room so I youtubed vacuum noises and took a nap](/files/fp1/lazy_1.png)

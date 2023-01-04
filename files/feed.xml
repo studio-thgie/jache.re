@@ -5,6 +5,21 @@
   <title>Jachère, Brache, Fallow</title>
   <link>https://jache.re</link>
   <description>Jachère means fallow means Brache. A little corner of the internet that is freed of economic reasoning, instead trying to root and entangle itself with the local and being environmentally aware.</description>
+  
+  <item>
+    <title>Release - Fallow Zine 1</title>
+    <link>https://jache.re/fp1/index.html</link>
+    <description>This is the first Fallow Zine, a small zine that sprang forth from La Jachère. So, let's dive in. Get yourself comfy, and let us collaboratively refuse the onslaught of technology. Have a tea, eat some cookies, enjoy the moment.</description>
+    <pubDate>2023-01-04</pubDate>
+  </item>
+  
+  <item>
+    <title>Isopods!</title>
+    <link>https://jache.re/notes/isopods.html</link>
+    <description>The Jachère now officially hosts some isopods. Since small critters are amongst the main inhabitants of a fallow/Brache/jachère they absolutely deserve their own entry on this website… Isopods are fantastic. They are really old and they don't give a crap about your opinions.</description>
+    <pubDate>2022-08-29</pubDate>
+  </item>
+
   <item>
     <title>Jachère Solar Setup</title>
     <link>https://jache.re/notes/solar-setup.html</link>

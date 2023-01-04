@@ -10,6 +10,6 @@ La jachère strives to be such a place. A little corner of the internet that is 
 ## Technicalities
 - The base for this website is a public repository living on [thgie/jache.re](https://codeberg.org/thgie/jache-re).
 - Information on the deployment process of this website can be found under [Jachère Publishing](notes/jachere-publishing.md).
-- ~~Information about the hardware setup reside under [solar-setup](notes/solar-setup.md)~~. As of currently, the websites resides on the Codeberg premises. My raspberry pi died, kind of.
+- ~~Information about the hardware setup reside under [solar-setup]. As of currently, the websites resides on the Codeberg premises. My raspberry pi died, kind of.
 
 You can contact me/us at any time under [y@thgie.ch](mailto:y@thgie.ch).

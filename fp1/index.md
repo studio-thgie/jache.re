@@ -5,6 +5,8 @@ author: Adrian Demleitner
 # Introduction
 This is the first Fallow Zine, a small zine that sprang forth from La Jachère. This zine is basically a simple attempt to think collaboratively about subjects that the Jachère/Fallow/Brache project concerns itself with. If you are interest to know what these are, please have a look at the [about](about.md) page. 
 
+There is also a playfully layouted version of this zine [with Hotglue](https://thgie.hotglue.me/?Fallow%20Zine%201). Definitly check that out as well!
+
 ## Lazy tech or tech for the lazies
 If you are interested in this issue's theme, there was a [call for entries](notes/call-fallow-zine-1.md) that is a bit more detailed. The Fallow Zine is open-ended. If you have something to add, please send it in!
 
@@ -24,7 +26,6 @@ So, let's dive in. Get yourself comfy, and let us collaboratively refuse the ons
 	- [Unmedia](fp1/unmedia.md) by [TMO](https://write.as/tmo/)
 - Resting
 	- [Hammocks](fp1/hammocks.md)
-	- Alarm clock by Stewia
 - Aesthetics
 	- [Growing in the cracks](fp1/growing_in_the_cracks.md) by [Shane Finan](https://shanefinan.org/)
 	- [Tomatoes](fp1/tomatoes.md) by [Vasilii Kolobkov](https://orangeshoelaces.net/)

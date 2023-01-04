@@ -8,8 +8,8 @@ author: Adrian Demleitner
 La jachère strives to be such a place. A little corner of the internet that is freed of economic reasoning, instead trying to root and entangle itself with the local and being environmentally aware. For now la jachère is a collaboratively edited archive of work in progress thoughts as well as texts. Other formats and aspects might arise at another time.
 
 ## Technicalities
-- The base for this website is a public repository living on [~thgie/jache.re](https://git.sr.ht/~thgie/jache.re).
+- The base for this website is a public repository living on [thgie/jache.re](https://codeberg.org/thgie/jache-re).
 - Information on the deployment process of this website can be found under [Jachère Publishing](notes/jachere-publishing.md).
-- Information about the hardware setup reside under [solar-setup](notes/solar-setup.md).
+- ~~Information about the hardware setup reside under [solar-setup](notes/solar-setup.md)~~. As of currently, the websites resides on the Codeberg premises. My raspberry pi died, kind of.
 
 You can contact me/us at any time under [y@thgie.ch](mailto:y@thgie.ch).

@@ -24,6 +24,7 @@ tags:
 - [Exporting from Obsidian…](#exporting-from-obsidian)
 	- […to documents](#to-documents)
 	- […to websites](#to-websites)
+- [Related](#Related)
 
 
 I'm pretty happy with my research and writing setup and I always recommend people to do this or that. So for once, I try to write-up my current workflow and the tools involved. There is only simple rule in place, that pretty much defines what tools I'm using: Own your data!
@@ -141,3 +142,6 @@ If you don't know what a citation style is yet, just leave out the `--csl=/Users
 
 ### …to websites
 #todo, but I personally use [pancake.sh](https://codeberg.org/thgie/pancake.sh) for that. It's a bunch of scripts I wrote myself to generate a website from an Obsidian vault.
+
+## Related
+- [Research](notes/Research.md)

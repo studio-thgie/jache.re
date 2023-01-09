@@ -8,12 +8,12 @@ title: Research
 - [Field Notes](notes/Field%20Notes.md)
 - [Prototypes](notes/Prototypes.md)
 - [Thematic analysis](notes/Thematic%20analysis.md)
-- [[Observations]]
+- [[notes/Observations]]
 - [[Interviews]]
 - [[Mapping]]
 
 ## Processes
-- [[Open Source Research Workflow]]
+- [Research and writing workflow](notes/Research%20and%20writing%20workflow.md)
 - [[Entwicklung von Narrativen]]
 
 ## Research Basics
@@ -23,5 +23,4 @@ title: Research
 - [Personal Knowledge Management](notes/Personal%20Knowledge%20Management.md)
 
 ## Various
-- [RPG as a Method](notes/RPG%20as%20a%20Method.md)
 - [Zine as Format](notes/Zine%20as%20Format.md)

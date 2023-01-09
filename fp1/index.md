@@ -3,7 +3,7 @@ title: "Fallow Zine 1 - Introduction"
 author: Adrian Demleitner
 ---
 # Introduction
-This is the first Fallow Zine, a small zine that sprang forth from La Jachère. This zine is basically a simple attempt to think collaboratively about subjects that the Jachère/Fallow/Brache project concerns itself with. If you are interest to know what these are, please have a look at the [about](about.md) page. 
+This is the first Fallow Zine, a small zine that sprang forth from La Jachère. This zine is basically a simple attempt to think collaboratively about subjects that the Jachère/Fallow/Brache project concerns itself with. If you are interest to know what these are, please have a look at the [about](pages/about.md) page. 
 
 There is also a playfully layouted version of this zine [with Hotglue](https://thgie.hotglue.me/?Fallow%20Zine%201). Definitly check that out as well!
 

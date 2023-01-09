@@ -1,8 +1,17 @@
 # Isopods
-The Jachère now officially hosts some isopods. Since small critters are amongst the main inhabitants of a fallow/Brache/jachère they absolutely deserve their own entry on this website…
 
-Isopods are fantastic. They are really old and they don't give a crap about your opinions. [^1]
+## Schedule
+### Feeding
+1x a week some veggie/mushroom/fruit and 1x week some specialised food or dry (dog food, fish flakes)
 
-## Footnotes
+### Misting
+> If I notice the isopods are huddling on the wet side, I increase the misting frequency or amount until they stop huddling on the moist side. Conversely, if I notice them huddling on the dry side, I decrease the misting until they stop huddling on the dry side.
 
-[^1]: [https://en.wikipedia.org/wiki/Isopoda](https://en.wikipedia.org/wiki/Isopoda)
+Some say daily, some say weekly.
+
+## Impressions
+Springtails, lots of them.
+![](files/20220819_063837_6140.jpeg)
+
+Armadilidium klugii "Montenegro"
+![](files/20220819_064223_1410.jpeg)

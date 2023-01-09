@@ -13,7 +13,6 @@ Unter Animismus, wie ich den Begriff brauche, verstehe ich nicht eine anthropolo
 - Psycological; Things have human feelings and intentions, ascribing life
 - Design (edd);  relationships, narratives, identity, imagination, conversations, consciousness, integrity, materiality, and evolvability.
 
-
 Form a pyschological view, children see the world (less and less) animistic until late childhood. Then only few objects become important through what Habermas describes Geliebte Dinge. A animistic approach in design essentially tries to design this time of wonder and awe back into things.
 
 Things that are as in the late stages of childhood animism easily lend themselves to an animistic imagination.

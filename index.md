@@ -9,4 +9,4 @@ author: Adrian Demleitner
 
 La jachère strives to be such a place. A little corner of the internet that is freed of economic reasoning, instead trying to root and entangle itself with the local and being environmentally aware. For now la jachère is a collaboratively edited archive of work in progress thoughts as well as texts. Other formats and aspects might arise at another time.
 
-La jachère runs on a solar-powered Raspberry Pi in Biel/Bienne, Switzerland, and is stewarded by <a rel="me" href="https://post.lurk.org/@thgie">thgie</a>. 
+ ~~Information about the hardware setup reside under [solar-setup]~~. As of currently, the websites resides on the Codeberg premises. My raspberry pi died, kind of. This fallow is stewarded by <a rel="me" href="https://post.lurk.org/@thgie">thgie</a>. 

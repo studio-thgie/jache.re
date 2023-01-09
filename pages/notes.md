@@ -4,4 +4,4 @@ author: Adrian Demleitner
 ---
 # Notes
 - [Research](notes/Research.md)
-- [Isopods](notes/Isopods.md)
+- [isopods-and-others](notes/isopods-and-others.md)

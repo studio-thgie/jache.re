@@ -24,7 +24,7 @@ tags:
 - [Exporting from Obsidian…](#exporting-from-obsidian)
 	- […to documents](#to-documents)
 	- […to websites](#to-websites)
-- [Related](#Related)
+- [Related](#related)
 
 
 I'm pretty happy with my research and writing setup and I always recommend people to do this or that. So for once, I try to write-up my current workflow and the tools involved. There is only simple rule in place, that pretty much defines what tools I'm using: Own your data!

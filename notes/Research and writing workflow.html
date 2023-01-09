@@ -30,26 +30,27 @@
         <p><em>This is a work in progress and might be heavily expanded upon in the near or far future.</em></p>
         <p><strong>Table of Content</strong></p>
         <ul>
-        <li><a href="/notes/research-workflow.html#introduction">Introduction</a></li>
-        <li><a href="/notes/research-workflow.html#over-tool-and-workflow-outline">Overview: Tool and workflow outline</a></li>
-        <li><a href="/notes/research-workflow.html#tools">Tools</a>
+        <li><a href="/notes/Research and writing workflow.html#introduction">Introduction</a></li>
+        <li><a href="/notes/Research and writing workflow.html#over-tool-and-workflow-outline">Overview: Tool and workflow outline</a></li>
+        <li><a href="/notes/Research and writing workflow.html#tools">Tools</a>
         <ul>
-        <li><a href="/notes/research-workflow.html#firefox">Firefox</a></li>
-        <li><a href="/notes/research-workflow.html#zotero">Zotero</a></li>
-        <li><a href="/notes/research-workflow.html#obsidian">Obsidian</a></li>
-        <li><a href="/notes/research-workflow.html#pandoc">pandoc</a></li>
+        <li><a href="/notes/Research and writing workflow.html#firefox">Firefox</a></li>
+        <li><a href="/notes/Research and writing workflow.html#zotero">Zotero</a></li>
+        <li><a href="/notes/Research and writing workflow.html#obsidian">Obsidian</a></li>
+        <li><a href="/notes/Research and writing workflow.html#pandoc">pandoc</a></li>
         </ul></li>
-        <li><a href="/notes/research-workflow.html#import-notes-and-annotations">Import notes and annotations…</a>
+        <li><a href="/notes/Research and writing workflow.html#import-notes-and-annotations">Import notes and annotations…</a>
         <ul>
-        <li><a href="/notes/research-workflow.html#from-zotero">…from Zotero</a></li>
-        <li><a href="/notes/research-workflow.html#from-websites">…from websites</a></li>
+        <li><a href="/notes/Research and writing workflow.html#from-zotero">…from Zotero</a></li>
+        <li><a href="/notes/Research and writing workflow.html#from-websites">…from websites</a></li>
         </ul></li>
-        <li><a href="/notes/research-workflow.html#writing-thinking">Writing, thinking</a></li>
-        <li><a href="/notes/research-workflow.html#exporting-from-obsidian">Exporting from Obsidian…</a>
+        <li><a href="/notes/Research and writing workflow.html#writing-thinking">Writing, thinking</a></li>
+        <li><a href="/notes/Research and writing workflow.html#exporting-from-obsidian">Exporting from Obsidian…</a>
         <ul>
-        <li><a href="/notes/research-workflow.html#to-documents">…to documents</a></li>
-        <li><a href="/notes/research-workflow.html#to-websites">…to websites</a></li>
+        <li><a href="/notes/Research and writing workflow.html#to-documents">…to documents</a></li>
+        <li><a href="/notes/Research and writing workflow.html#to-websites">…to websites</a></li>
         </ul></li>
+        <li><a href="/notes/Research and writing workflow.html#Related">Related</a></li>
         </ul>
         <p>I’m pretty happy with my research and writing setup and I always recommend people to do this or that. So for once, I try to write-up my current workflow and the tools involved. There is only simple rule in place, that pretty much defines what tools I’m using: Own your data!</p>
         <p>Data that you are producing needs to be valued as work in the current capitalist environment. So if you didn’t get paid for it, you still (have to) own it. It also makes it easier to shift tools and setups if you own your data. Owning data means being freely able to read, move and copy, transform, or delete it.</p>
@@ -154,10 +155,14 @@
         <li>Pandoc path: <strong>Use their guide in the little note to find this value</strong>, you can use mine (<code>/usr/local/bin/pandoc</code>) on macOS</li>
         <li>Extra Pandoc arguments: <strong>This is important</strong></li>
         </ul>
-        <div class="sourceCode" id="cb1"><pre class="sourceCode sh"><code class="sourceCode bash"><span id="cb1-1"><a href="/notes/research-workflow.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">--bibliography=/Users/adrian/path/to/Export.bib</span> <span class="at">--citeproc</span> <span class="at">--csl</span><span class="op">=</span>/Users/adrian/path/to/Citation-Style.csl</span></code></pre></div>
+        <div class="sourceCode" id="cb1"><pre class="sourceCode sh"><code class="sourceCode bash"><span id="cb1-1"><a href="/notes/Research and writing workflow.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">--bibliography=/Users/adrian/path/to/Export.bib</span> <span class="at">--citeproc</span> <span class="at">--csl</span><span class="op">=</span>/Users/adrian/path/to/Citation-Style.csl</span></code></pre></div>
         <p>If you don’t know what a citation style is yet, just leave out the <code>--csl=/Users/adrian/path/to/Citation-Style.csl</code> part. This little piece of information will let pandoc know, that you used references in your text, and tries to replace them accordingly during export.</p>
         <h3 id="to-websites">…to websites</h3>
         <p>#todo, but I personally use <a href="https://codeberg.org/thgie/pancake.sh">pancake.sh</a> for that. It’s a bunch of scripts I wrote myself to generate a website from an Obsidian vault.</p>
+        <h2 id="related">Related</h2>
+        <ul>
+        <li><a href="notes/Research.html">Research</a></li>
+        </ul>
     </main>
 
     <footer class="text-sm">

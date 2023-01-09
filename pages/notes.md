@@ -3,5 +3,9 @@ title: Notes
 author: Adrian Demleitner 
 ---
 # Notes
-- [Research](notes/Research.md)
+- [Alienation](notes/Alienation.md)
+- [Animism](notes/Animism.md)
+- [Care (German)](notes/Care.md)
 - [Isopod colonies](notes/Isopod%20colonies.md)
+- [Game Studies](notes/Game%20Studies.md)
+- [Research](notes/Research.md)

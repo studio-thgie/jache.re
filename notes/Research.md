@@ -8,7 +8,7 @@ title: Research
 - [Field Notes](notes/Field%20Notes.md)
 - [Prototypes](notes/Prototypes.md)
 - [Thematic analysis](notes/Thematic%20analysis.md)
-- [[notes/Observations]]
+- [Observations](notes/Observations.md)
 - [[Interviews]]
 - [[Mapping]]
 

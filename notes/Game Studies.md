@@ -1,10 +1,24 @@
+---
+title: Game Studies
+author: Adrian Demleitner 
+---
+# Game Studies
+
+**Table of Contents**
+
+- [Vocabulary](#Vocabulary)
+- [Methodologies](#Methodologies)
+	- [HGP (Horror Game Politics)](#HGP%20(Horror%20Game%20Politics))
+	- [Introduction to Game Analysis](#Introduction%20to%20Game%20Analysis)
+
 ## Vocabulary
 - critical path / ideal experience
 - emergence vs. progression gameplay
 - spaces
 - rules, mechanics
+- #todo
 
-## Research Approaches
+## Methodologies 
 ### HGP (Horror Game Politics)
 
 - Pfister, E. (n.d.). How to analyse a Video game from a historical, source-critical perspective: The HGP-Method [Billet]. _Horror - Game - Politics_. Retrieved 17 September 2022, from [https://hgp.hypotheses.org/1754](https://hgp.hypotheses.org/1754)
@@ -28,3 +42,6 @@ Clara Fernández-Vara's approach proposes to read games like texts, akin to the 
 - Formal Aspects: Construction, Rules and controls, Design, visual styles, etc, Formalism/Structuralism
 
 The book delivers a lot in where to gather data for your research and how to deal with it, but little in how to analyse the data. The book is mainly geared towards writing a text as output.
+
+## Video Games 
+- [Ball Raider](notes/Ball%20Raider.md)

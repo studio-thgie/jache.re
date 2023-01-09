@@ -1,4 +1,4 @@
-# Isopods
+# Isopod colonies
 
 ## Schedule
 ### Feeding

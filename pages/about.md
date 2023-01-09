@@ -12,4 +12,4 @@ La jachère strives to be such a place. A little corner of the internet that is 
 - Information on the deployment process of this website can be found under [Jachère Publishing](notes/jachere-publishing.md).
 - ~~Information about the hardware setup reside under [solar-setup]~~. As of currently, the websites resides on the Codeberg premises. My raspberry pi died, kind of.
 
-You can contact me and the [Isopods](notes/Isopods.md) at any time under [y@thgie.ch](mailto:y@thgie.ch).
+You can contact me and the [Isopod colonies](notes/Isopod%20colonies.md) at any time under [y@thgie.ch](mailto:y@thgie.ch).

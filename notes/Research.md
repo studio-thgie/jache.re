@@ -17,10 +17,10 @@ title: Research
 - [[Entwicklung von Narrativen]]
 
 ## Research Basics
-- [[Writing Practice]]
-- [[Reading Practice]]
 - [What are Research Blogs](notes/What%20are%20Research%20Blogs.md)
 - [Personal Knowledge Management](notes/Personal%20Knowledge%20Management.md)
+- [[Writing Practice]]
+- [[Reading Practice]]
 
 ## Various
 - [Zine as Format](notes/Zine%20as%20Format.md)

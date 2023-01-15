@@ -28,5 +28,8 @@ An important tool in the process of TA is the use of a reflexivity journal.
 5. analysis of themes
 6. thick description / report of themes
 
+## Bibliography
+Braun, V., Clarke, V., Hayfield, N., & Terry, G. (2019). Thematic Analysis. In P. Liamputtong (Ed.), _Handbook of Research Methods in Health Social Sciences_ (pp. 843–860). Springer Singapore. [https://doi.org/10.1007/978-981-10-5251-4_103](https://doi.org/10.1007/978-981-10-5251-4_103)
+
 ## Sources
 - https://en.wikipedia.org/wiki/Thematic_analysis

@@ -6,16 +6,17 @@ author: Adrian Demleitner
 
 **Table of Contents**
 
-- [Vocabulary](#Vocabulary)
-- [Methodologies](#Methodologies)
-	- [HGP (Horror Game Politics)](#HGP%20(Horror%20Game%20Politics))
-	- [Introduction to Game Analysis](#Introduction%20to%20Game%20Analysis)
+- [Vocabulary](#vocabulary)
+- [Methodologies](#methodologies)
+	- [HGP (Horror Game Politics)](#hgp-horror-game-politics)
+	- [Introduction to Game Analysis](#introduction-to-game-analysis)
 
 ## Vocabulary
 - critical path / ideal experience
 - emergence vs. progression gameplay
 - spaces
 - rules, mechanics
+- presentation (Nitsche): mood, atmosphere, vibes, juicibess (Juul), expressive content (in visual analysis)
 - #todo
 
 ## Methodologies 

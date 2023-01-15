@@ -29,6 +29,6 @@ So weit Bob Waldingers Tipps zum Instant-Glück. Doch Beziehungen verbessern ist
 
 ## Related
 - [Care](notes/Care.md)
-- [What is a good life?](notes/What%20is%20a%20good%20life?.md)
+- [What is a good life](notes/What%20is%20a%20good%20life.md)
 
 [^1]: von https://www.derbund.ch/fuenf-hacks-fuer-ein-gutes-leben-116021953609

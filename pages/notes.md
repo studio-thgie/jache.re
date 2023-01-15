@@ -10,4 +10,4 @@ author: Adrian Demleitner
 - [Isopod colonies](notes/Isopod%20colonies.md)
 - [Game Studies](notes/Game%20Studies.md)
 - [Research](notes/Research.md)
-- [What is a good life?](notes/What%20is%20a%20good%20life?.md)
+- [What is a good life](notes/What%20is%20a%20good%20life.md)

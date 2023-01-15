@@ -14,4 +14,4 @@
 6.  **You can’t fake it until you make it**. Without cultivating sincerity and kindness, your rituals will be hollow. A fake ritual is not a ritual at all, no matter how much it looks like one.
 
 ## Related
-- [What is a good life?](notes/What%20is%20a%20good%20life?.md)
+- [What is a good life](notes/What%20is%20a%20good%20life.md)

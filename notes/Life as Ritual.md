@@ -12,3 +12,6 @@
 4.  **Ritual is even better than good habits**. Habits are inflexible, and that’s a liability. Confucian ritual is flexible, and performing it properly entails willingness to adjust yourself to different contexts.
 5.  **Never stop studying**. Except for a few geniuses, seeing the patterns of the world can be tough. Reading widely and asking questions when you’re confused is, itself, part of ritual.
 6.  **You can’t fake it until you make it**. Without cultivating sincerity and kindness, your rituals will be hollow. A fake ritual is not a ritual at all, no matter how much it looks like one.
+
+## Related
+- [What is a good life?](notes/What%20is%20a%20good%20life?.md)

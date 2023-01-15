@@ -27,4 +27,8 @@ Wie oft sehen Sie Freunde und Bekannte, die Ihnen guttun? Einmal pro Monat? Einm
 
 So weit Bob Waldingers Tipps zum Instant-Glück. Doch Beziehungen verbessern ist natürlich keine einmalige Entscheidung, sondern ein Prozess. «Während Sie gehen, können Sie Sekunde für Sekunde entscheiden, wem Sie Ihre Aufmerksamkeit schenken», schreibt Waldinger: «Woche für Woche können Sie Ihre Beziehungen priorisieren und sich dafür entscheiden, mit den Menschen zusammen zu sein, die Ihnen wichtig sind. Jahr für Jahr können Sie durch die Beziehungen, die Sie pflegen, Sinn und Bedeutung finden.»
 
+## Related
+- [Care](notes/Care.md)
+- [What is a good life?](notes/What%20is%20a%20good%20life?.md)
+
 [^1]: von https://www.derbund.ch/fuenf-hacks-fuer-ein-gutes-leben-116021953609

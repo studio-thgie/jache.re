@@ -7,9 +7,9 @@ author: Adrian Demleitner
 - [Notes](#notes)
 - [Bread](#bread)
 	- [Sourdough starter](#sourdough-starter)
-	- [70% Hydration, no fold sourdough](#70-hydration-no-fold-sourdough)
+	- [70% Hydration, no fold sourdough](#hydration-no-fold-sourdough)
 - [Journal](#journal)
-	- [Sunday, 15th January 2023](sunday-15th-january-2023)
+	- [Sunday, 15th January 2023](#sunday-15th-january-2023)
 
 ## Notes
 - Hydration: the ration of flour to water. 1 part water and 1 part flour would be 100% hydration.

@@ -1,0 +1,26 @@
+---
+title: Easy Hoshigaki (dried persimon)
+author: Adrian Demleitner 
+---
+# Easy Hoshigaki (dried persimon)
+Hoshigaki is pretty straight forward.
+
+- Peel unripe persimon 
+- Let new skin dry and harden
+- Then massage persimon on a daily base to soften pulp inside
+- Wait until crumbled up and sugar is crystalizing outside
+
+In my easy variant, I don't hang the persimon, I'll just put them on a piece of cardboard on a heater. I made the experience, that fruit flies get on the naked persimon, and leave behind scars for mold. Placed on the heater, the fruit flies don't touch the fruits.
+
+![](files/20230109_193132_2780.jpeg)
+
+![](files/20230109_193517_4030.jpeg)
+
+![](files/20230109_194826_0880.jpeg)
+
+![](files/20230115_144201_7160.jpeg)
+
+![](files/20230108_113713_6400.jpeg)
+
+## Related
+[Fermenting, pickling, and other related food practices](notes/Fermenting,%20pickling,%20and%20other%20related%20food%20practices.md)

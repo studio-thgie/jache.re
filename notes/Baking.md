@@ -33,21 +33,22 @@ If, in this process, you have to much material, don't discard it. Just make some
 - ratio: 5 parts flour, 3.5 parts water, 1.5 parts sourdough starter (100% hydration)
 - for example: 330g flour, 230ml water, 100g sourdough, 5-10g salt
 
-- [ ] mix, incorporate everything within 30sec, no kneading
+- mix: incorporate everything within 30sec, no kneading
 	- 1h resting
-- [ ] add salt
+- add salt
 	- 30min resting
-- [ ] fold, wet hands, fold four corners into middle
+- fold: wet hands, fold four corners into middle
 	- 30min resting
-- [ ] fold, ditto
+- fold. ditto
 	- 30min resting
-- [ ] fold, ditto
+- fold: ditto
 	- 30min resting
-- [ ] shape 1/2, flip onto floured workspace, fold corners in, flip again to let rest on seam
+- shape 1/2: flip onto floured workspace, fold corners in, flip again to let rest on seam
 	- 30min resting
-- [ ] shape 2/2, shape into ball by slightly pull top under, best if you watch a video on this part, tough to explain in words
+- shape 2/2: shape into ball by slightly pull top under, best if you watch a video on this part, tough to explain in words
 	- 3h rest in proofing basket
-- [ ] bake
+	- it would be possible to do this step here over night in the fridge, for about 12 - 15h of slow proofing. take out and let warm up for 1 - 2h.
+- bake
 	- preheat casserolle in oven
 	- flip onto baking paper in soup dish, make cuts
 	- 45min at 240° in casserolle with lid

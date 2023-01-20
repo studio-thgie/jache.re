@@ -7,8 +7,8 @@ There are pretty much probably more games in my possession, then mirrored by the
 
 ### Video Games…
 - […I played](#i-played)
-- […I want to play one day](i-want-to-play-one-day)
-- […I own and are not sure what to do with](i-own-and-are-not-sure-what-to-do-with)
+- […I want to play one day](#i-want-to-play-one-day)
+- […I own and are not sure what to do with](#i-own-and-are-not-sure-what-to-do-with)
 
 ## Legend
 - ⭐️ Rating/Note

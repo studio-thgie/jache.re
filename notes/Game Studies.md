@@ -45,4 +45,4 @@ Clara Fernández-Vara's approach proposes to read games like texts, akin to the 
 The book delivers a lot in where to gather data for your research and how to deal with it, but little in how to analyse the data. The book is mainly geared towards writing a text as output.
 
 ## Video Games 
-[Ball Raider](notes/Ball%20Raider.md), [Video Games](notes/Video%20Games.md)
+[Ball Raider](notes/Ball%20Raider.md)  [Video Games](notes/Video%20Games.md)

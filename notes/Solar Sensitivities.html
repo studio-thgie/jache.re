@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/"/>
+    <title>Solar Sensitivities</title>
+
+    <meta name="generator" content="pandoc" />
+        
+    <link rel="stylesheet" href="/files/template/archive.css">
+
+</head>
+<body>
+
+    <nav role="navigation">
+        <a target="_self" href="/">/</a>
+        
+        <ul class="nav-h">
+	        <li><a target="_self" href="/pages/journal.html">Notes</a></li>
+	        <li><a target="_self" href="/pages/notes.html">Notes</a></li>
+	        <li><a target="_self" href="/pages/texts-and-talks.html">Notes</a></li>
+	        <li><a target="_self" href="/fp1/index.html">Fallow Zine 1</a></li>
+        </ul>
+
+    </nav>
+
+    <main role="main">
+        <h1 id="solar-sensitivities-1">Solar Sensitivities <a href="/notes/Solar Sensitivities.html#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></h1>
+        <p>This is the base note for a new line of inquiry that grew out of a reflection on what to do with my own practice in these times of crisis. I’m very much invested into technology, especially digital ones. The last 10 to 50 years have shown, that our collective imagination of technology does a lot of harm to the planet, to flora and fauna, and to ourselves. Harm that would not be necessary and which by far outweights the good. Solar Sensitivities then is an attempt to bring my own practice into accordance with my values.</p>
+        <h2 id="solar-powered-server">Solar-powered server</h2>
+        <p>This is the original inspirational document by low-tech magazine: <a href="https://homebrewserver.club/low-tech-website-howto.html">How to build a Low-Tech website: Software &amp; Hardware</a>. The easiest solution… is probably to just buy the PiJuice shield and solar panel. But it feels a bit to quick. I would love to learn just a bit more about electricity. Pidora has a good step by step over view on <a href="https://pidora.ca/how-to-build-a-solar-powered-raspberry-pi/">how to build a solar powered raspi server</a>. The shield has the ability to safely turn on and off the device. <a href="https://www.activecountermeasures.com/making-a-solar-powered-raspberry-pi/">This article by active countermeasures</a> (🙄) opts for the USB powerbank, which I also like.</p>
+        <p><em>How much power does a raspi w/o desktop need?</em></p>
+        <h3 id="research-on-raspberry-pi-and-batteries">Research on Raspberry Pi and Batteries</h3>
+        <p>So it seems a <a href="https://www.pidramble.com/wiki/benchmarks/power-consumption">raspi 4 needs between 2.7 to 3.4 W</a>. <a href="https://core-electronics.com.au/tutorials/solar-powered-pi.html#Size">Core electronics has a good primer</a> on how much energy is needed and how much is produced. The biggest PiJuice solar panel produces 44W, whereas the low-tech magazine setup has a 50 Wp (?) panel.</p>
+        <p>I have to ask a specialist (Ramon ;)) on how some of the details work. Does the solar panel charge battery pack and server at the same time? Did I get all of the watt<a href="/notes/Solar Sensitivities.html#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>, watt-hour, ampere things right?</p>
+        <ul>
+        <li>Batterypower and solarpanel calculations
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=lPyDtuzYE5s">https://www.youtube.com/watch?v=lPyDtuzYE5s</a></li>
+        <li><a href="https://www.youtube.com/watch?v=TJBGbufexEM">https://www.youtube.com/watch?v=TJBGbufexEM</a></li>
+        </ul></li>
+        </ul>
+        <h3 id="how-to-setup-a-solar-panel">How to setup a solar panel…</h3>
+        <p>The cable that come out of the panel look weird. Easy peasy, according to this source <a href="https://footprinthero.com/how-to-connect-a-solar-panel-to-a-charge-controller">https://footprinthero.com/how-to-connect-a-solar-panel-to-a-charge-controller</a>. Just requires having the right setup :) Needed to order some more things. Also see <a href="/notes/Solar Sensitivities.html#Update%202022-05-09">Update 2022-05-09</a>.</p>
+        <h2 id="journal">Journal</h2>
+        <h3 id="update-2022-05-09">Update 2022-05-09</h3>
+        <p>I bought myself a large panel (110W) and an easy MPPT. That is a little thing that stabilises the energy that comes out of the panel. Because the sun-shine fluctuates, and with it the energy-current, it can be problematic for the things you attach to the panel. This particular MPPT by revolt<a href="/notes/Solar Sensitivities.html#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> also has USB outlets, which is nice. If it produces to much power, maybe we can even charge some other devices.</p>
+        <p>I do need to learn how to set up the panel now, and if I miss anything… Oook I was missing a few things.</p>
+        <ul>
+        <li>an MPPT should not be setup without a battery hooked up to it. That could damage the MPPT. So I had to order a battery as well</li>
+        <li>The cables that came out of the solar panel are the MC4 type. I did order proper cables into the MPPT, but they lack the MC4 adapters on the other end, so I had to order that as well. ### Update 2022-05-17 The setup works!</li>
+        </ul>
+        <figure>
+        <img src="files/A2E6A83D-48AC-4C50-9792-7B5CC4762E7C.jpeg" alt="An electronic setup with a solar panel, a car battery, a little device called MPPT that regulates the power coming from the solar panel and a raspberry pi. All four are connected with red and black cables. The display of the MPPT shows 13V and the raspberry pi has a red LED lit up." /><figcaption aria-hidden="true">An electronic setup with a solar panel, a car battery, a little device called MPPT that regulates the power coming from the solar panel and a raspberry pi. All four are connected with red and black cables. The display of the MPPT shows 13V and the raspberry pi has a red LED lit up.</figcaption>
+        </figure>
+        <p>The solar panel charges the car battery and that one in turn powers the raspberry pi server. The battery is to small to power the server through the night. I was a bit too cheap on that end. I’ll have to test if I can have the system charge a second battery, that I’m having laying around, that powers the server then. Otherwise I need to upgrade the car battery. But those I should be able to find used.</p>
+        <h3 id="update-2022-07-10">Update 2022-07-10</h3>
+        <p>I figured no good place in my home to attach the solarpanel in a good spot. But I might be able to put the whole system (panel, batteries, and server) in the community garden, where we have an allotment. I asked my contact and he said, they’ll discuss it. Here are my sketches to explain what I intend to do.</p>
+        <p><img src="agenda/files/image%201%201.jpg" /></p>
+        <h3 id="update-2022-08-08">Update 2022-08-08</h3>
+        <p>I actually had a raspberry pi zero laying around! The little thing is more then enough to serve static files. I even have a little php-based application running on it next to my two static sites <a href="thgie.ch">thgie.ch</a> and <a href="jache.re">jache.re</a>. The rather small 6000AH battery lasts for three days more or less. I still weren’t able to figure out where and how the solar panel will be placed.</p>
+        <h2 id="inspiration-and-entanglements">Inspiration and entanglements</h2>
+        <ul>
+        <li><a href="reading/@HowBuildLowtech2018.html">How to Build a Low-tech Website?</a></li>
+        <li><a href="http://solarprotocol.net/">Solar Protocol</a></li>
+        <li><a href="https://compudanzas.net/uxn_tutorial.html">uxn</a></li>
+        <li><a href="https://computingwithinlimits.org/2022/">LIMITS conference</a></li>
+        <li><a href="http://100r.co/site/home.html">100r</a></li>
+        <li><a href="http://lowcarbonmethods.com/index.html">low carbon research methods</a></li>
+        <li><a href="https://superflux.in/index.php/work/the-intersection/#">the intersection, by superflux</a></li>
+        <li><a href="https://www.diymethods.net/">DIY Methods 2022 Conference</a></li>
+        </ul>
+        <section class="footnotes footnotes-end-of-document" role="doc-endnotes">
+        <hr />
+        <ol>
+        <li id="fn1" role="doc-endnote"><p>Will the title hold? We will see. But it’s poetic, and I like it. I could spin a whole theme around it.<a href="/notes/Solar Sensitivities.html#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+        <li id="fn2" role="doc-endnote"><p>https://www.electricityforum.com/what-is-a-watt<a href="/notes/Solar Sensitivities.html#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+        <li id="fn3" role="doc-endnote"><p>https://www.revolt-power.de/Digital-Solar-Laderegler-20A-12V-24V-Auto-Switch–NX-6816-919.shtml<a href="/notes/Solar Sensitivities.html#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+        </ol>
+        </section>
+    </main>
+
+    <footer class="text-sm">
+        <p class="flex">
+            <a href="pages/about.html">About</a>
+            &mdash;
+            <a href="https://webring.xxiivv.com/#jachere" target="_blank">
+                <img width="28" src="https://webring.xxiivv.com/icon.black.svg" alt="XXIIVV webring"/>
+            </a>
+        </p>
+        <p>All content on <a href="https://jache.re">jache.re</a> is released and distributed under the <a href="LICENSE.html">Anti-Capitalist Attribution Cooperative License</a>.</p>
+    </footer>
+</body>
+</html>

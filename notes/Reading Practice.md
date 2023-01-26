@@ -1,2 +1,0 @@
-## Related
-[[notes/Reading Notes]]

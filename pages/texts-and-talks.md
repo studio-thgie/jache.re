@@ -4,6 +4,7 @@ author: Adrian Demleitner
 ---
 # Texts and Talks
 ## Things I wrote
+
 | Date | Title | Where |
 | --- | --- | --- |
 | Sep 2022 | [Geschichten zur Aneignung und Entfremdung von Elektroschrott](text-and-talks/vigia-eletkroschrott/Geschichten%20zur%20Aneignung%20und%20Entfremdung%20von%20Elektroschrott.md) | [Vigia Tech Mag](https://vigia.tech/) |
@@ -13,6 +14,7 @@ author: Adrian Demleitner
 | Feb 2018 | [Cyborgs and the Humanities](text-and-talks/various_texts/Cyborgs%20and%20the%20Humanities.md) | [Avenu Mag](https://avenue.jetzt/) |
 
 ## Things I presented
+
 | Date     | Title                                                                                                                                                                                                                                    | Where                                                                                                               |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Mai 2022 | [Inclusive and Participatory Interfaces for Photo Archives as New Research Opportunity](text-and-talks/photo_archives_2022/Inclusive%20and%20Participatory%20Interfaces%20for%20Photo%20Archives%20as%20New%20Research%20Opportunity.md) | [Photo Archives VIII](https://www.khi.fi.it/en/aktuelles/veranstaltungen/2022/05/photo-archives-viii.php)                     |
@@ -26,6 +28,7 @@ author: Adrian Demleitner
 | Sep 2017 | [Smart Curation - Algorithmic Phenomenology](text-and-talks/various_texts/Smart%20Curation%20-%20Algorithmic%20Phenomenology.md)                                                                                                         |                                                                                                                               |
 
 ## Material that developed during my Bachelor and Master studies
+
 | Date     | Title                                                                       |
 | -------- | --------------------------------------------------------------------------- |
 | Jan 2022 | [MA Design Thesis](MA%20Design%20Thesis.md)                       |

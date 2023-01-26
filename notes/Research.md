@@ -4,11 +4,16 @@ title: Research
 # Research
 *Notes related to research in general*
 
-## Methods
+## Fields
+- [Game Studies](notes/Game%20Studies.md)
+- [Visual- and Design Rhetoric](notes/Visual-%20and%20Design%20Rhetoric.md)
+
+## Methodologies
 - [Field Notes](notes/Field%20Notes.md)
+- [Literature Review](notes/Literature%20Review.md)
 - [Prototypes](notes/Prototypes.md)
-- [Thematic analysis](notes/Thematic%20analysis.md)
 - [Observations](notes/Observations.md)
+- [Thematic analysis](notes/Thematic%20analysis.md)
 - [[Interviews]]
 - [[Mapping]]
 
@@ -19,8 +24,5 @@ title: Research
 ## Research Basics
 - [What are Research Blogs](notes/What%20are%20Research%20Blogs.md)
 - [Personal Knowledge Management](notes/Personal%20Knowledge%20Management.md)
-- [[Writing Practice]]
-- [[Reading Practice]]
-
-## Various
-- [Zine as Format](notes/Zine%20as%20Format.md)
+- [Writing Practice](notes/Writing%20Practice.md)
+- [[notes/Reading Practice]]

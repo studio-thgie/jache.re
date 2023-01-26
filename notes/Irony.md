@@ -9,3 +9,6 @@ Taken from Contingency, Irony, and Solidarity [^1]
 > — Richard Rorty, Contingency, Irony, and Solidarity. Cambridge: Cambridge University Press, 1989, p.73
 
 [^1]: https://en.wikipedia.org/wiki/Ironism
+
+## Related
+- [What is a good life](notes/What%20is%20a%20good%20life.md)

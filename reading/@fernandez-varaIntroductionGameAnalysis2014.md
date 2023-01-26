@@ -4,12 +4,23 @@ authors: Clara Fernández-Vara
 year: 2014
 tags: read
 ---
-## Introduction to Game Analysis
+# Introduction to Game Analysis
+
+- [Bibliography](#bibliography)
+- [Notes](#notes)
+- [Abstract](#abstract)
+- [Reading Notes](#reading-notes)
+
 ## Bibliography
-Fernández-Vara, C. (2014). _Introduction to Game Analysis_. Routledge. [https://doi.org/10.4324/9780203794777](https://doi.org/10.4324/9780203794777)
+Fernández-Vara, C. (2014a). _Introduction to Game Analysis_. Routledge. [https://doi.org/10.4324/9780203794777](https://doi.org/10.4324/9780203794777)
+
+Fernández-Vara, C. (2014b). _Introduction to Game Analysis_. Routledge. [https://doi.org/10.4324/9780203794777](https://doi.org/10.4324/9780203794777)
+
 
 ## Notes
 %% begin notes %%%% end notes %%
+
+
 ## Abstract
 Game analysis allows us to understand games better, providing insight into the player-game relationship, the construction of the game, and its sociocultural relevance. As the field of game studies grows, videogame writing is evolving from the mere evaluation of gameplay, graphics, sound, and replayablity, to more reflective writing that manages to convey the complexity of a game and the way it is played in a cultural context. 
 
@@ -321,4 +332,4 @@ In a historical analysis you could for for example on the following: production 
 -   conclusion
 
 
-%% Import Date: 2023-01-09T15:29:43.670+01:00 %%
+%% Import Date: 2023-01-23T13:29:24.959+01:00 %%

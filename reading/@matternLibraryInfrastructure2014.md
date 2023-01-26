@@ -59,7 +59,7 @@ In the last part Shannon Mattern goes into what she recommended along the text: 
 ## Related
 - [[notes/Infrastructure]]
 - [[Libraries]]
-- [[Archives]]
+- [[notes/Archives]]
 
 ## Bibliography
 Mattern, S. (2014). Library as Infrastructure. Places Journal. https://doi.org/10.22269/140609

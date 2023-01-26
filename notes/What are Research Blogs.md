@@ -15,7 +15,7 @@ tags:
 - Collaborative: Topic or disciplinary identities help to develop a brand.
 - Multi-Author: Strong branding, linked to university, media outlet or professional/scientific bodies or journals.
 
-## What is [[Writing Practice]]
+## What is [[notes/Writing Practice]]
 - Reflecting on literature
 - Capture fringe thoughts
 - Hypothesis and Questions

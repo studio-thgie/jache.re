@@ -29,3 +29,6 @@ revision of your text together with friends.
 
 [^1]: https://www.starkerstart.uni-frankfurt.de/92177255/Schreibtypentest
 [^2]: https://tu-dresden.de/karriere/weiterbildung/ressourcen/dateien/schreibzentrum/infothek/schreibtypentest?lang=en
+
+## Related
+[Writing Practice](notes/Writing%20Practice.md)

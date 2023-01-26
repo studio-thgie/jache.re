@@ -1,6 +1,6 @@
 ---
-title: {{title}}
-authors: {{authors}}
+title: "{{title}}"
+authors: "{{authors}}"
 year: {{date | format("YYYY")}}
 tags: {% for tag in tags %}{{tag.tag}}{% if not loop.last %}, {% endif %}{% endfor %}
 ---
@@ -13,17 +13,17 @@ tags: {% for tag in tags %}{{tag.tag}}{% if not loop.last %}, {% endif %}{% endf
 
 ## Bibliography
 {{bibliography}}
-{% if abstractNote %}
 
 ## Notes
 {% persist "notes" %}
 {% endpersist %}
-
-
+{% if abstractNote %}
 ## Abstract
 {{abstractNote}}
-{% endif %}
-{% if markdownNotes %}
+{% endif %}{% if markdownNotes %}
 ## Reading Notes
 {{markdownNotes}}
 {% endif %}
+## Related
+{% persist "related" %}
+{% endpersist %}

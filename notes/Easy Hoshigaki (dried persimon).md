@@ -23,4 +23,4 @@ In my easy variant, I don't hang the persimon, I'll just put them on a piece of 
 ![](files/20230108_113713_6400.jpeg)
 
 ## Related
-[Fermenting, pickling, and other related food practices](notes/Fermenting,%20pickling,%20and%20other%20related%20food%20practices.md)
+[Fermenting and pickling](notes/Fermenting%20and%20pickling.md)

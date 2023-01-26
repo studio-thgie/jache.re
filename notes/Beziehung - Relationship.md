@@ -20,3 +20,6 @@ Eine Beziehung entsteht in jenem Moment, in welchem ein Mensch und ein Ding begi
 Die meisten dieser Beziehungen sind nicht bewusster Natur. So stehe ich zum Beispiel mit der Luft in Beziehung, da ich von ihr abhängig bin. Ich kann aber auch bewusst in eine Beziehung treten, indem ich mir ein Ding kaufe oder mich dazu entscheide, mich um ein Ding zu kümmern — vielleicht bin ich ja an dessen Erhalt interessiert.
 
 Die Aussage, dass Dinge uns ebenso beeinflussen ist auf Heidegger abgestützt. Eine Beziehung verändert also auch immer die teilhabenden Parteien, von deren es durchaus auch mehr als zwei sein können.
+
+## Related
+- [Care](notes/Care.md)

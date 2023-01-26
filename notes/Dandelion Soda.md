@@ -13,3 +13,6 @@ Collect four handful of dandelion heads, cut off the petals, add 80g sugar and p
 ![A plate full with dandelion petals, all yellow and fluffed up.](/files/c1f61c36e8f380a9.jpeg)
 
 ![Dandelion petals in a large fermentation glass, submerged in water.](/files/a5afdb9a72f0fd68.jpeg)
+
+## Related
+- [Fermenting and pickling](notes/Fermenting%20and%20pickling.md) 

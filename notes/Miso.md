@@ -7,3 +7,6 @@ Für 10kg Mugi Miso: 5.1 : 2.8 : 2
 
 - From https://culturesforhealth.com/blogs/recipes/soy-recipe-how-to-make-mugi-miso
 - Good paste recipe https://www.justonecookbook.com/how-to-make-miso/
+
+## Related
+- [Fermenting and pickling](notes/Fermenting%20and%20pickling.md) 

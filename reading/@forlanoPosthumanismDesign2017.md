@@ -1,12 +1,28 @@
 ---
-title: Posthumanism and Design
-authors: Laura Forlano
+title: "Posthumanism and Design"
+authors: "Laura Forlano"
 year: 2017
+tags: 
 ---
+# Posthumanism and Design
 
-[@forlanoPosthumanismDesign2017]
+- [Bibliography](#bibliography)
+- [Notes](#notes)
+- [Abstract](#abstract)
+- [Reading Notes](#reading-notes)
 
+## Bibliography
+Forlano, L. (2017). Posthumanism and Design. _She Ji: The Journal of Design, Economics, and Innovation_, _3_(1), 16–29. [https://doi.org/10.1016/j.sheji.2017.08.001](https://doi.org/10.1016/j.sheji.2017.08.001)
+
+## Notes
+%% begin notes %%%% end notes %%
+
+## Abstract
+Since at least the mid-1980s, design has been dominated by a human-centered and user-centered paradigm. Currently, the implications of technological and environmental transformations are challenging designers to focus on complex socio-technical systems. This article traces emergent discussions around posthumanism from across a range of disciplines and perspectives, and considers examples from emerging design practices that emphasize the interrelations between human and nonhuman actors. Specifically, this article reviews literature from actor-network theory (ANT), feminist new materialism, object-oriented ontology, non-representational theory, and transhumanism to inform the development of new methodologies and practices in the field of design. Finally, this article presents critiques of posthumanism from critical race theory and decolonial theory to consider how emergent design perspectives might better support values such as equality and justice for humans and nonhumans that have been traditionally ignored in design processes.
+
+## Reading Notes
 **Extracted Annotations (6/10/2021, 9:45:58 PM)**
+
 "While not identified explicitly as posthuman design, these examples illustrate that considerations of the nonhuman—whether animals and the natural environment, or things and the artificial world—require new forms of expertise and open up new problems, questions, opportunities, and solutions for the field of design that it is not yet equipped for." ([Forlano 2017:19](zotero://open-pdf/library/items/3MCXE5K8?page=4))
 
 "1) Who or what— human/nonhuman, human/animal, individual/organizational/network 11 —are the user(s), and for whom or what should the design be desirable? 2) How, and in what ways—competitively/collaboratively, hierarchically/horizontally—are capabilities, agency, and power distributed across human, machines, and natural systems? 3) What new knowledge(s), questions, stakeholders, and partnerships are needed in order to adequately design for this problem? 4) How are ethics, 12 values, and responsibilities reflected and embedded throughout the design process?" ([Forlano 2017:19](zotero://open-pdf/library/items/3MCXE5K8?page=4))
@@ -46,3 +62,8 @@ year: 2017
 "At the same time, these particular critiques of OOO and decentering the human seem to have much in common with feminist new materialism, in that they aim not to essentialize distinct categories, but rather to complicate them and illustrate the ways the human and nonhuman, nature and culture are mutually co-constitutive. Posthuman design might take up these critiques seriously in order to make way for a truly decolonized design practice." ([Forlano 2017:29](zotero://open-pdf/library/items/3MCXE5K8?page=14))
 
 "With new epistemologies and ontologies to help make sense of the current conditions, it is likely that design practices will also need to evolve in order to stay relevant and to cope with new problems and questions." ([Forlano 2017:29](zotero://open-pdf/library/items/3MCXE5K8?page=14))
+
+## Related
+%% begin related %%%% end related %%
+
+%% Import Date: 2023-01-27T07:23:38.384+01:00 %%

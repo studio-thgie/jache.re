@@ -1,6 +1,6 @@
 ---
-title: Introduction to Game Analysis
-authors: Clara Fernández-Vara
+title: "Introduction to Game Analysis"
+authors: "Clara Fernández-Vara"
 year: 2014
 tags: read
 ---
@@ -12,20 +12,15 @@ tags: read
 - [Reading Notes](#reading-notes)
 
 ## Bibliography
-Fernández-Vara, C. (2014a). _Introduction to Game Analysis_. Routledge. [https://doi.org/10.4324/9780203794777](https://doi.org/10.4324/9780203794777)
-
-Fernández-Vara, C. (2014b). _Introduction to Game Analysis_. Routledge. [https://doi.org/10.4324/9780203794777](https://doi.org/10.4324/9780203794777)
-
+Fernández-Vara, C. (2014). _Introduction to Game Analysis_. Routledge. [https://doi.org/10.4324/9780203794777](https://doi.org/10.4324/9780203794777)
 
 ## Notes
-%% begin notes %%%% end notes %%
-
+%% begin notes %%Hello World%% end notes %%
 
 ## Abstract
 Game analysis allows us to understand games better, providing insight into the player-game relationship, the construction of the game, and its sociocultural relevance. As the field of game studies grows, videogame writing is evolving from the mere evaluation of gameplay, graphics, sound, and replayablity, to more reflective writing that manages to convey the complexity of a game and the way it is played in a cultural context. 
 
 Introduction to Game Analysis serves as an accessible guide to analyzing games using strategies borrowed from textual analysis. Clara Fernández-Vara’s concise primer provides instruction on the basic building blocks of game analysis—examination of context, content and reception, and formal qualities—as well as the vocabulary necessary for talking about videogames' distinguishing characteristics. Examples are drawn from a range of games, both digital and non-digital—from Bioshock and World of Warcraft to Monopoly—and the book provides a variety of exercises and sample analyses, as well as a comprehensive ludography and glossary.
-
 
 ## Reading Notes
 # Notes on Introduction to Game Analysis
@@ -331,5 +326,10 @@ In a historical analysis you could for for example on the following: production 
 -   rewrite
 -   conclusion
 
+## Related
+%% begin related %%
+- [Game Studies](notes/Game%20Studies.md)
+- [Video Games](notes/Video%20Games.md)
+%% end related %%
 
-%% Import Date: 2023-01-23T13:29:24.959+01:00 %%
+%% Import Date: 2023-01-27T07:24:49.920+01:00 %%

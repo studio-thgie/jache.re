@@ -3,6 +3,7 @@ title: Journal
 ---
 # Journal
 ## 2023
+- 29 Jan: [End of Month Post: January 2023](journal/2023-01-29.md)
 - 24 Jan: [Midjourney's Site of Production](journal/2023-01-24.md)
 - 08 Jan: [A new year's update](journal/2023-01-08.md)
 

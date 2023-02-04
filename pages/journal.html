@@ -28,25 +28,10 @@
 
     <main role="main">
         <h1 id="journal">Journal</h1>
-        <h2 id="section">2023</h2>
-        <ul>
-        <li>29 Jan: <a href="journal/2023-01-29.html">End of Month Post: January 2023</a></li>
-        <li>24 Jan: <a href="journal/2023-01-24.html">Midjourney’s Site of Production</a></li>
-        <li>08 Jan: <a href="journal/2023-01-08.html">A new year’s update</a></li>
-        </ul>
-        <h2 id="section-1">2022</h2>
-        <ul>
-        <li>26 Oct: <a href="journal/2022-10-26.html">From archival practices to game studies</a></li>
-        <li>19 Aug: <a href="journal/2022-08-19.html">My reseach and writing workflow</a></li>
-        <li>16 July: <a href="journal/2022-07-16.html">It matters what code we write code with</a></li>
-        <li>05 July: <a href="journal/2022-07-05.html">On COMPOSTs, soil and gardening</a></li>
-        <li>17 June: <a href="journal/2022-06-17.html">Post DHCH and towards easier days</a></li>
-        <li>20 May: <a href="journal/2022-05-20.html">May, when summer arrives</a></li>
-        <li>09 Apr: <a href="journal/2022-04-09.html">computing with limits</a></li>
-        <li>15 Mar: <a href="journal/2022-03-15.html">post achievement practice</a></li>
-        <li>07 Mar: <a href="journal/2022-03-07.html">into the media^alps</a></li>
-        <li>21 Feb: <a href="journal/2022-02-21.html">Introduction</a></li>
-        </ul>
+        <pre class="dataview"><code>TABLE title, date, tags
+FROM &quot;journal&quot;
+WHERE !contains(tags, &quot;research journal&quot;)
+SORT date DESC</code></pre>
     </main>
 
     <footer class="text-sm">

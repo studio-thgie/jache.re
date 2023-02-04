@@ -6,6 +6,7 @@ author: Adrian Demleitner
 - Expected playtime according to https://howlongtobeat.com
 - 🔁 means game is repeatable
 
+
 ```dataview
 TABLE played, finished, memo
 FROM "db/games"

@@ -514,14 +514,6 @@ nav {
     gap: 1rem;
 }
 
-nav a {
-    text-decoration: none;
-}
-
-nav a:hover {
-    text-decoration: underline;
-}
-
 @media (max-width: 786px) {
     nav {
         display: block;

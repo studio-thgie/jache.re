@@ -138,6 +138,8 @@ sub {
 /* table styles */
 table {
     width: 100%;
+    table-layout: auto;
+    min-width: 1024px;
 }
 
 th {
@@ -147,6 +149,7 @@ th {
 
 td {
     vertical-align: top;
+    padding-right: 2rem;
 }
 
 ul.dataview {
@@ -161,9 +164,12 @@ ul.dataview li {
 ul.dataview li span {
     font-size: 0.85rem;
     display: inline-block;
-    padding: 2px 12px;
-    border: 1px solid #bfbfbf;
-    border-radius: 20px;
+}
+ul.dataview li span::after {
+	content: ",";
+}
+ul.dataview li:last-child span::after {
+	content: none;
 }
 
 .dataview.small-text {
@@ -390,8 +396,8 @@ figure {
 }
 
 p>img {
-    margin: 3rem;
     width: 100%;
+    margin-bottom: 0.5rem;
     max-width: 1024px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
 }
@@ -413,10 +419,6 @@ figure figcaption {
 @media (max-width: 768px) {
     body {
         padding: 1rem;
-    }
-
-    p>img {
-        margin: 1rem 0 1rem 0;
     }
 
     figure>img {
@@ -454,7 +456,7 @@ hr {
 /* lists */
 ul,
 ol {
-    padding-left: 1.25rem;
+    padding-left: 1.75rem;
 }
 
 ul {
@@ -521,6 +523,24 @@ nav {
     ul.nav-h li {
         margin-left: 0rem;
         margin-right: 1rem;
+    }
+}
+
+/* gallery */
+p.gallery {
+    max-width: none;
+    column-count: 3;
+}
+
+@media (max-width: 1280px) {
+    p.gallery {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 768px) {
+    p.gallery {
+        column-count: 1;
     }
 }
 

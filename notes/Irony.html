@@ -73,5 +73,15 @@
         </p>
         <p>All content, where not noted otherwise on <a href="https://jache.re">jache.re</a> is released and distributed under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0 license</a>.</p>
     </footer>
+
+    <script>
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('p > img').forEach(el => {
+                el.parentNode.classList.add('gallery');
+            })
+        })
+
+    </script>
 </body>
 </html>

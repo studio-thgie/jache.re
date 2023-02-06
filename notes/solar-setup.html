@@ -81,7 +81,7 @@
         were listed under solar equipment, so let’s hope nothing burns
         down.</p>
         <figure>
-        <img src="/files/images/jachere-solar-setup.png"
+        <img src="files/jachere-solar-setup.png"
         alt="An electronic setup with a solar panel, a car battery, a little device called MPPT that regulates the power coming from the solar panel and a raspberry pi. All four are connected with red and black cables. The display of the MPPT shows 13V and the raspberry pi has a red LED lit up." />
         <figcaption aria-hidden="true">An electronic setup with a solar
         panel, a car battery, a little device called MPPT that regulates
@@ -118,8 +118,10 @@
     <script>
 
         document.addEventListener('DOMContentLoaded', () => {
-            document.querySelectorAll('p > img').forEach(el => {
-                el.parentNode.classList.add('gallery');
+            document.querySelectorAll('p').forEach(el => {
+                if(el.querySelectorAll('img').length > 1) {
+                    el.classList.add('gallery')
+                }
             })
         })
 

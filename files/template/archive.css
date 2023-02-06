@@ -359,6 +359,8 @@ blockquote a:hover:before {
 pre,
 blockquote {
     max-width: 768px;
+    margin-left: 0;
+    margin-right: 0;
     padding: 2rem;
     background: rgba(0, 0, 0, 0.725);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.125);
@@ -509,6 +511,7 @@ ul.nav-h a:hover {
 nav {
     display: flex;
     gap: 1rem;
+    margin-bottom: 1.75rem;
 }
 
 @media (max-width: 786px) {

@@ -8,7 +8,7 @@ Hoshigaki is pretty straight forward.
 - Peel unripe persimon 
 - Let new skin dry and harden
 - Then massage persimon on a daily base to soften pulp inside
-- Wait until crumbled up and sugar is crystalizing outside
+- Wait until crumbled up and sugar is crystalizing outside, making the persimon whiteish
 
 In my easy variant, I don't hang the persimon, I'll just put them on a piece of cardboard and sometimes on a heater. I made the experience, that fruit flies get on the naked persimon, and leave behind scars for mold. Placed on the heater, the fruit flies don't touch the fruits.
 

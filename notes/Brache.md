@@ -9,19 +9,19 @@ coordinates: [47.137399, 7.253128]
 
 Located at 47.137399 latitude, 7.253128 longitude.
 
-![](files/brache/1/20230204_102035_0420.jpeg)
-![](files/brache/1/20230204_102146_2060.jpeg)
-![](files/brache/1/20230204_102256_9500.jpeg)
-![](files/brache/1/20230204_102400_9190.jpeg)
-![](files/brache/1/20230204_102428_8960.jpeg)
-![](files/brache/1/20230204_102532_1930.jpeg)
-![](files/brache/1/20230204_102623_7940.jpeg)
-![](files/brache/1/20230204_102643_4860.jpeg)
-![](files/brache/1/20230204_102859_2380.jpeg)
-![](files/brache/1/20230204_102926_2000.jpeg)
-![](files/brache/1/20230204_103021_6390.jpeg)
-![](files/brache/1/20230204_103031_3870.jpeg)
-![](files/brache/1/20230204_103040_0930.jpeg)
+![](files/20230204_102035_0420.jpeg)
+![](files/20230204_102146_2060.jpeg)
+![](files/20230204_102256_9500.jpeg)
+![](files/20230204_102400_9190.jpeg)
+![](files/20230204_102428_8960.jpeg)
+![](files/20230204_102532_1930.jpeg)
+![](files/20230204_102623_7940.jpeg)
+![](files/20230204_102643_4860.jpeg)
+![](files/20230204_102859_2380.jpeg)
+![](files/20230204_102926_2000.jpeg)
+![](files/20230204_103021_6390.jpeg)
+![](files/20230204_103031_3870.jpeg)
+![](files/20230204_103040_0930.jpeg)
 
 ## Sources 
 - [https://de.wikipedia.org/wiki/Brache](https://de.wikipedia.org/wiki/Brache)

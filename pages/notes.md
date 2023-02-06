@@ -13,4 +13,5 @@ author: Adrian Demleitner
 - [Practices](notes/Practices.md)
 - [Reading Notes](notes/Reading%20Notes.md)
 - [Research](notes/Research.md)
+- [Video Games](notes/Video%20Games.md)
 - [What is a good life](notes/What%20is%20a%20good%20life.md)

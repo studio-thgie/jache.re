@@ -13,7 +13,7 @@ system: Amiga
 - Credit screen, opacity oscilating red font on black
 	- produced by The Golden Gate crew
 	- written by Heinz Luem
-	- graphics by [Orlando Budelacci (Petermann)](notes/Orlando%20Budelacci%20(Petermann).md)
+	- graphics by [Orlando Petermann](notes/Orlando%20Petermann.md)
 	- (c) 1997 Robtek
 - Game is hardly playable, the ball is a bright green color and breaks brutaly with the redish artwork in the background. Level 1 not solved after several attempts. The input is keyboard only and clunky. The interaction of the ball with the paddle seems random and not very accurate.
 - Screen to enter name for scores. Text only.
@@ -49,5 +49,5 @@ I'm mainly interested in the divergence between artwork and gameplay, as well as
 
 ## Related
 - Various Links to metainfo and review in personal Zotero library
-- [Orlando Budelacci (Petermann)](notes/Orlando%20Budelacci%20(Petermann).md)
+- [Orlando Petermann](notes/Orlando%20Petermann.md)
 - [Video Games](notes/Video%20Games.md)

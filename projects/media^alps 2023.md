@@ -29,10 +29,18 @@ pip install chatterbot==1.0.4 pytz
 ## Schedule
 ### Saturday I
 - Setup chatterbot
+	- More or less follow instructions
 - Fun with terminals
+	- Folder and files structures
+	- Navigate and find
+	- Create and edit
+	- Fork Bomb for lunch
 ### Saturday II
-- Play with chatbot
+- Chatterbot tutorial
+- Producing some conversations by hand
+- Cleaning up some chat data
 ### Sunday
+- 
 
 ## Ressources and thoughts
 - https://realpython.com/build-a-chatbot-python-chatterbot/

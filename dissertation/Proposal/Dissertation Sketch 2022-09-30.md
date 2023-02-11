@@ -1,7 +1,6 @@
 # Dissertation Sketch 2022-09-30
 - Eine spannende Frage in Bezug auf mein PHD wäre auch noch, wie Technologie Ästhetik ermöglicht. Im Grunde genommen ginge es darum, der inhaltlichen Analyse auch eine infrastrukturelle zur Seite zu stellen.
 
-
 ## Addendum [2022-10-01](daily/2022-10-01.md)
 Der eigene Fokus soll auf dem Zusammenspiel von Programmierung und Design liegen. Code und Software Entwicklung als kreatives Medium, welches von der Gegenwarts-Technologie beeinflusst wird, sowie das Design der Spiele massgeblich mitformt.
 

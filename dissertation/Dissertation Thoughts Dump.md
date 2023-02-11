@@ -1,4 +1,10 @@
 # Dissertation Thoughts Dump
+## 2023-02-10
+The endless circulation of the retro game image in todays media landscape. (poping up as a reaction to the Images in Social Media workshop)
+
+## 2023-02-09
+Something about reconstructing the images of the past. How the inages vanish with the technology and how emulation is not a replacement. Also something something semiology about how the image was related to the screen and to the room around it. How that is lost as well. So preservation of these images could also be a subject, because screenshots and video recordings don't preserve the ergodic animage.
+
 ## 2023-01-11
 - Materiality of digital born graphics
 - Close reading AI generated images

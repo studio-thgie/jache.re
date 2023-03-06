@@ -7,6 +7,12 @@ tag: studies/decol-dh
 - *2022-03-06*: An important thread through reading sessions week 1 and 2 is the power of definition. What counts as DH? Who counts as DH scholar? This definition has structural implications. Who gets included? Who gets funded? This thread is continued through the definition of DH/Tech history, for example in mappings of the early internet and how that produced an image of a backwards global south in terms of internet infrastructure. Last but not least, that is why the CARE principles are important. They add definition on how to act ethically within the DH. "Nothing about us, without us".
 - The CARE principles are very specific for, about and with indigenous data. How could such an approach for other data look like, for example for archives of historic photography in and on Switzerland? Are there such examples?
 
+## Notes
+- FAIR is data seen from the i-perspective
+- CARE is data seen as being an integral part of oneself/one's community, from within
+
+![](assets/Pasted%20image%2020230306155100.png)
+
 ## Sources
 - Session 2
 	- [Beyond the Margins: Intersectionality and Digital Humanities](reading/risamMarginsIntersectionalityDigital2019.md)

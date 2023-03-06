@@ -2,7 +2,7 @@
 title: "Vibrant matter: a political ecology of things"
 authors: "Jane Bennett"
 year: 2009
-tags: 
+tag: 
 ---
 # Vibrant matter: a political ecology of things
 

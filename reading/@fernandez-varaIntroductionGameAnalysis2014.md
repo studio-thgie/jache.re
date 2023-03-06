@@ -2,7 +2,7 @@
 title: "Introduction to Game Analysis"
 authors: "Clara Fernández-Vara"
 year: 2014
-tags: read
+tag: read
 ---
 # Introduction to Game Analysis
 

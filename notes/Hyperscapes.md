@@ -13,10 +13,10 @@ I like the questions that the approach of the exhibition opens, but I don't like
 
 ## Impressions
 f
-![](files/20230106_132401_0960.jpeg)
+![](assets/20230106_132401_0960.jpeg)
 
-![](files/20230106_132746_7440.jpeg)
+![](assets/20230106_132746_7440.jpeg)
 
-![](files/20230106_134425_7640.jpeg)
+![](assets/20230106_134425_7640.jpeg)
 
-![](files/20230106_135633_9310.jpeg)
+![](assets/20230106_135633_9310.jpeg)

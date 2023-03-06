@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"c2774831e824155b","x":-453,"y":-270,"width":400,"height":196,"type":"file","file":"notes/Confederatio Ludens.md"},
-		{"id":"a4626b218b523893","x":81,"y":-270,"width":300,"height":400,"type":"file","file":"files/IMG_0304.jpg"}
-	],
-	"edges":[
-		{"id":"609d2dfe02ba9edd","fromNode":"c2774831e824155b","fromSide":"right","toNode":"a4626b218b523893","toSide":"left"}
-	]
-}

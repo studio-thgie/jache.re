@@ -1,5 +1,5 @@
 ---
-played: yes
+played: true
 finished: 2021
 playtime_estimate:
 memo: "All time favourite"

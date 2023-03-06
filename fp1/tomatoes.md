@@ -20,7 +20,7 @@ Amongst the many threads woven into our mails we've sent every few weeks was the
 
 I found this photo equaly fitting and beautiful for this zine's focus. What's there not to love about weathered technologies, in this case homesteading and shelter, clashing and weaving into each other. 
 
-![IMG_20220731_174247_s](/files/fp1/IMG_20220731_174247_s.jpg)
+![IMG_20220731_174247_s](assets/fp1/IMG_20220731_174247_s.jpg)
 *[CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) by Vasilii Kolobkov*
 
 [^1]: https://en.wikipedia.org/wiki/Curonian_Spit

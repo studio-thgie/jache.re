@@ -30,4 +30,4 @@ So, let's dive in. Get yourself comfy, and let us collaboratively refuse the ons
 	- [Growing in the cracks](fp1/growing_in_the_cracks.md) by [Shane Finan](https://shanefinan.org/)
 	- [Tomatoes](fp1/tomatoes.md) by [Vasilii Kolobkov](https://orangeshoelaces.net/)
 
-![If your feeling lazy today, just know that last weekend my mom told my to vacuum my room so I youtubed vacuum noises and took a nap](/files/fp1/lazy_1.png)
+![If your feeling lazy today, just know that last weekend my mom told my to vacuum my room so I youtubed vacuum noises and took a nap](assets/fp1/lazy_1.png)

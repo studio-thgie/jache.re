@@ -1,5 +1,5 @@
 ---
-played: yes
+played: true
 finished: 🔁
 memo: "Dreamy and calming"
 ---

@@ -2,7 +2,7 @@
 title: Digitale Spiele und Geschichte: ein kurzer Leitfaden für Student*innen, Forscher*innen und Geschichtsinteressierte
 authors: Eugen Pfister, Tobias Winnerling
 year: 2020
-tags: read
+tag: read
 ---
 # Digitale Spiele und Geschichte: ein kurzer Leitfaden für Student*innen, Forscher*innen und Geschichtsinteressierte
 

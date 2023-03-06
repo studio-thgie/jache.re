@@ -1,5 +1,5 @@
 ---
-played: yes
+played: true
 finished: 2022
 playtime_estimate:
 memo: "Funny, heartwarming and innocent"

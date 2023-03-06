@@ -2,7 +2,7 @@
 title: "Speculative everything: design, fiction, and social dreaming"
 authors: "Anthony Dunne, Fiona Raby"
 year: 2013
-tags: Philosophy, Design
+tag: Philosophy, Design
 ---
 # Speculative everything: design, fiction, and social dreaming
 

@@ -13,7 +13,7 @@ url: 'https://reallifemag.com/dreaming-in-color/'
 
 ## Page Notes
 I wanted to read this article because I love Kon's movies and I'm curious what the link to social media is.
-Tags: #anime #social-media #media-analysis 
+tag: #anime #social-media #media-analysis 
 
 ## Highlights
 - Mima’s stalker, who goes by Mimania (or Memania), creates a website called MimasRoom.com where he details his obsession by posing as Mima on the internet. — [Updated on 2022-08-19 16:17:24](https://hyp.is/pWBcZh_JEe2X2C9BmDPMMA/reallifemag.com/dreaming-in-color/) — Group: #Public
@@ -31,6 +31,9 @@ Tags: #anime #social-media #media-analysis
 - In Paprika, the internet, like the unconscious, becomes a theater for the excess libidinal energies otherwise excised from waking life. — [Updated on 2022-08-19 16:23:01](https://hyp.is/blP8QB_KEe2m85-lf0zOMQ/reallifemag.com/dreaming-in-color/) — Group: #Public
 
 - Paprika better reflects the risk of artificial intelligence — not that the technology itself will become sentient, but that it will be manipulated by those already in power — [Updated on 2022-08-19 16:23:36](https://hyp.is/g1bZyB_KEe2X2stR4Tkrkw/reallifemag.com/dreaming-in-color/) — Group: #Public
+
+
+
 
 
 

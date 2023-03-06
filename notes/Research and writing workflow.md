@@ -115,7 +115,7 @@ First, you need to export a Zotero collection or your whole library (not recomme
 
 - Right-click the collection you want to export and chose **Export Collection…**
 
-![](files/Screenshot%202022-08-19%20at%2020.28.33.png)
+![](assets/Screenshot%202022-08-19%20at%2020.28.33.png)
 
 The settings you should have ticked are:
 
@@ -127,7 +127,7 @@ Use the path to the Zotero BibTeX export file and put it into *Citation database
 
 As a last step, go into the **pandoc** plugin settings and put the following preferences:
 
-![](files/Screenshot%202022-08-19%20at%2020.31.41.png)
+![](assets/Screenshot%202022-08-19%20at%2020.31.41.png)
 
 - Export files from HTML or markdown: **Markdown**
 - Export folder: **Whatever you want**, I like mine in the same place all the time

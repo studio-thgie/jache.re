@@ -36,7 +36,7 @@ Peter asked me to do this presentation, because I'm a future phd candidate and b
 	- near certain death w/o maintenance
 3. contextualising pia
 	- organisation of the project
-	- ![[image 10.jpg]]
+	- ![[assets/image 10.jpg]]
 	- two temporalities that directly influence our methods
 		- now: dissertations based on work on/with prototype
 		- after: visions/imaginaries of of project ending and beyond

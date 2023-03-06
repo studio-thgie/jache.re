@@ -16,7 +16,7 @@ There seems to be a gradient or spectrum between cartography and info-graphics. 
 
 > In this model, three continua exist: (1) the continuum from private realm interaction where individuals explore spatial data to public realm interaction where a wide audience may use a published map, (2) the continuum from spatial data exploration in which the focus is revealing unknowns to map use in which ‘‘knowns’’ are presented, and (3) the continuum from high human-map interaction to low human-map interaction.
 
-![[Screenshot 2021-09-29 at 13.39.40.jpg]]
+![[assets/Screenshot 2021-09-29 at 13.39.40.jpg]]
 ![](../files/Screen)
 
 "query, reexpression, multiple views, linked views, animation, and dimensionality" are the basic actions that one can perform on cartographic visualisations. 

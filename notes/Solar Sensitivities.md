@@ -37,7 +37,7 @@ I do need to learn how to set up the panel now, and if I miss anything… Oook I
 ### Update 2022-05-17
 The setup works! 
 
-![An electronic setup with a solar panel, a car battery, a little device called MPPT that regulates the power coming from the solar panel and a raspberry pi. All four are connected with red and black cables. The display of the MPPT shows 13V and the raspberry pi has a red LED lit up.](files/A2E6A83D-48AC-4C50-9792-7B5CC4762E7C.jpeg)
+![An electronic setup with a solar panel, a car battery, a little device called MPPT that regulates the power coming from the solar panel and a raspberry pi. All four are connected with red and black cables. The display of the MPPT shows 13V and the raspberry pi has a red LED lit up.](assets/A2E6A83D-48AC-4C50-9792-7B5CC4762E7C.jpeg)
 
 The solar panel charges the car battery and that one in turn powers the raspberry pi server.  The battery is to small to power the server through the night. I was a bit too cheap on that end. I'll have to test if I can have the system charge a second battery, that I'm having laying around, that powers the server then. Otherwise I need to upgrade the car battery. But those I should be able to find used. 
 

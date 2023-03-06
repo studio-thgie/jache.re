@@ -2,7 +2,7 @@
 title: "Posthumanism and Design"
 authors: "Laura Forlano"
 year: 2017
-tags: 
+tag: 
 ---
 # Posthumanism and Design
 

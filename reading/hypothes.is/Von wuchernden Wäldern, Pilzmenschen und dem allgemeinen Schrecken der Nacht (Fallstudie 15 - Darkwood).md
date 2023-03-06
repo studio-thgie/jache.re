@@ -29,3 +29,6 @@ url: 'https://hgp.hypotheses.org/1194'
     - Annotation: Rhetorische Analyse im Sinne von Barthes Mythologien
 
 
+
+
+

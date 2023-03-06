@@ -34,6 +34,6 @@ Technologically, the interface operates on top of open-source practices such as 
 
 This proposal is produced as part of the interdisciplinary work on the SNSF research project "Participatory Knowledge Practices in Analogue and Digital Image Archives" (PIA) with the participation of the Seminar for Cultural Studies and European Ethnology (University of Basel), Institute of Design Research (Bern Academy of the Arts), Digital Humanities Lab (University of Basel) and Department of Mathematics and Computer Science (University of Basel). The project is collectively led by Walter Leimgruber (University of Basel), Peter Fornaro (University of Basel) and Ulrike Felsing (Bern Academy of the Arts).
 
-- [Full presentation paper as preview, unpublished](files/Paper-Draft_V1.odt)
+- [Full presentation paper as preview, unpublished](assets/Paper-Draft_V1.odt)
 
-![](files/photoarchives.gif)
+![](assets/photoarchives.gif)

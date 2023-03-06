@@ -1,5 +1,5 @@
 ---
-played: yes
+played: true
 finished: 
 playtime_estimate:
 memo: "All time favourite"

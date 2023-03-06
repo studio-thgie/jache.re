@@ -8,19 +8,19 @@ coordinates: [47.137399, 7.253128]
 
 Located at 47.137399 latitude, 7.253128 longitude.
 
-![](files/20230204_102035_0420.jpeg)
-![](files/20230204_102146_2060.jpeg)
-![](files/20230204_102256_9500.jpeg)
-![](files/20230204_102400_9190.jpeg)
-![](files/20230204_102428_8960.jpeg)
-![](files/20230204_102532_1930.jpeg)
-![](files/20230204_102623_7940.jpeg)
-![](files/20230204_102643_4860.jpeg)
-![](files/20230204_102859_2380.jpeg)
-![](files/20230204_102926_2000.jpeg)
-![](files/20230204_103021_6390.jpeg)
-![](files/20230204_103031_3870.jpeg)
-![](files/20230204_103040_0930.jpeg)
+![](assets/20230204_102035_0420.jpeg)
+![](assets/20230204_102146_2060.jpeg)
+![](assets/20230204_102256_9500.jpeg)
+![](assets/20230204_102400_9190.jpeg)
+![](assets/20230204_102428_8960.jpeg)
+![](assets/20230204_102532_1930.jpeg)
+![](assets/20230204_102623_7940.jpeg)
+![](assets/20230204_102643_4860.jpeg)
+![](assets/20230204_102859_2380.jpeg)
+![](assets/20230204_102926_2000.jpeg)
+![](assets/20230204_103021_6390.jpeg)
+![](assets/20230204_103031_3870.jpeg)
+![](assets/20230204_103040_0930.jpeg)
 
 ## Sources 
 - [https://de.wikipedia.org/wiki/Brache](https://de.wikipedia.org/wiki/Brache)

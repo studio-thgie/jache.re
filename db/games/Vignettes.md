@@ -1,5 +1,6 @@
 ---
-abandoned: yes
+played: true
+abandoned: true
 memo: "Entertaining and nice to look at"
 ---
 

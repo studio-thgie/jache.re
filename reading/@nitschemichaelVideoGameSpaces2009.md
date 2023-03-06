@@ -2,7 +2,7 @@
 title: "Video Game Spaces: Image, Play, and Structure in 3D Worlds"
 authors: "Nitsche, Michael"
 year: 2009
-tags: video games, Video games, Video Games, Affichage tridimensionnel, Electronic resource, Jeux vidéo, three-dimensional, Three-dimensional display systems
+tag: video games, Video games, Video Games, Affichage tridimensionnel, Electronic resource, Jeux vidéo, three-dimensional, Three-dimensional display systems
 ---
 # Video Game Spaces: Image, Play, and Structure in 3D Worlds
 

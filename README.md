@@ -8,4 +8,4 @@ For now la jachère is a collaboratively edited archive of work in progress thou
 
 La jachère runs on a Raspberry Pi in Biel/Bienne, Switzerland, and is stewarded by [thgie.ch](https://thgie.ch). More information on the deployment process of this website can be found under [Jachere Deployment and Publishing](https://jache.re/notes/jachere-publishing.html).
 
-![pancake](files/template/pancake.jpg)
+![pancake](assets/template/pancake.jpg)

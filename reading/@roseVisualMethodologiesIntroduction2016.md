@@ -2,7 +2,7 @@
 title: "Visual methodologies: an introduction to researching with visual materials"
 authors: "Gillian Rose"
 year: 2016
-tags: Visual communication, Bildanalyse, Visuelle Wahrnehmung, Semiotik, Textanalyse, Bildwissenschaft, Communication visuelle, Éducation visuelle, Media Studies, Qualitative research Methodology, visual literacy, Visual literacy, Visuelle Kommunikation, Visuelle Medien
+tag: Visual communication, Bildanalyse, Visuelle Wahrnehmung, Semiotik, Textanalyse, Bildwissenschaft, Communication visuelle, Éducation visuelle, Media Studies, Qualitative research Methodology, visual literacy, Visual literacy, Visuelle Kommunikation, Visuelle Medien
 ---
 # Visual methodologies: an introduction to researching with visual materials
 

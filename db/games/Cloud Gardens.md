@@ -1,5 +1,5 @@
 ---
-played: yes
+played: true
 finished:
 playtime_estimated: 7 - 23
 memo: ""

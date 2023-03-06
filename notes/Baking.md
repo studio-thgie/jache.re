@@ -58,26 +58,26 @@ If, in this process, you have to much material, don't discard it. Just make some
 ### Sunday, 15th January 2023
 In this recipe I added afformentioned bread spices, rather roughly ground by hand. The flour part is a mix of 1/3 einkorn (some old sort of wheat) and 2/3 [Ruchmehl](https://de.wikipedia.org/wiki/Ruchmehl), which is a flour where parts of the grains outer shell layers are left in.
 
-![](files/AB9DC5E4-1954-4B47-A494-8FF2DC58119C.jpeg)
+![](assets/AB9DC5E4-1954-4B47-A494-8FF2DC58119C.jpeg)
 During the folding phase.
 
-![](files/20230115_135519_2220.jpeg)
+![](assets/20230115_135519_2220.jpeg)
 That's between shaping 1/2 and 2/2.
 
-![](files/20230115_135827_3750.jpeg)
+![](assets/20230115_135827_3750.jpeg)
 I used rice flour to seam the proofing basket. I made bad experience with white flour, and rice flour keeps the dough from sticking.
 
-![](files/20230115_162249_9260.jpeg)
+![](assets/20230115_162249_9260.jpeg)
 Finished proofing, flipped into soup-dish.
 
-![](files/20230115_163740_2480.jpeg)
+![](assets/20230115_163740_2480.jpeg)
 Cut and put into preheated casserolle.
 
-![](files/20230115_172350_3680.jpeg)
+![](assets/20230115_172350_3680.jpeg)
 After baking with lid.
 
-![](files/20230115_173931_9940.jpeg)
+![](assets/20230115_173931_9940.jpeg)
 Finished baking.
 
-![](files/20230115_173942_3470.jpeg)
+![](assets/20230115_173942_3470.jpeg)
 Closeup.

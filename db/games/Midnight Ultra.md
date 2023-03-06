@@ -1,5 +1,5 @@
 ---
-abandoned: yes
+abandoned: true
 memo: "Weird, but in a bad way"
 ---
 

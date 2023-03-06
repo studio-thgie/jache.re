@@ -24,7 +24,7 @@ Make sure, that your setup fits your needs. The solar panel should produce enoug
 
 The cables coming from the solar panel use the MC4 connector style. It's a connector system that is rainproof. I didn't know it and had to buy spare connectors in order to connect to the MPPT. I'm still not sure if I have the correct cables, but they were listed under solar equipment, so let's hope nothing burns down. 
 
-![An electronic setup with a solar panel, a car battery, a little device called MPPT that regulates the power coming from the solar panel and a raspberry pi. All four are connected with red and black cables. The display of the MPPT shows 13V and the raspberry pi has a red LED lit up. ](files/jachere-solar-setup.jpeg)
+![An electronic setup with a solar panel, a car battery, a little device called MPPT that regulates the power coming from the solar panel and a raspberry pi. All four are connected with red and black cables. The display of the MPPT shows 13V and the raspberry pi has a red LED lit up. ](assets/jachere-solar-setup.jpeg)
 
 [^1]: 30th May 2022
 [^2]: For example [https://spellfoundry.com/raspberry-pi-battery-runtime-calculator/](https://spellfoundry.com/raspberry-pi-battery-runtime-calculator/)

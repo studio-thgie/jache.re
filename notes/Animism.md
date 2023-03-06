@@ -23,6 +23,6 @@ I do not understand animism an anthropological category, but the philosophical c
 - [Animism as epistemological interface](notes/Animism%20as%20epistemological%20interface.md)
 
 
-![](files/Screenshot%202021-07-11%20at%2020.57.14.jpg)
+![](assets/Screenshot%202021-07-11%20at%2020.57.14.jpg)
 
 https://www.instagram.com/p/CJqxwnCp9dS/

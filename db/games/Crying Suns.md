@@ -1,6 +1,6 @@
 ---
 played:
-playtime_estimate: 15 - 44
+playtime_estimated: 15 - 44
 ---
 
 ## Related

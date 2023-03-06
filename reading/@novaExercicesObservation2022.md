@@ -2,7 +2,7 @@
 title: Exercices d'observation
 authors: Nicolas Nova, Laurent Monnet
 year: 2022
-tags: Anthropologie Méthodologie, Observation (psychologie), Perception visuelle
+tag: Anthropologie Méthodologie, Observation (psychologie), Perception visuelle
 ---
 # Exercices d'observation
 

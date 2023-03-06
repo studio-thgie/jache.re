@@ -1,5 +1,5 @@
 ---
-played: yes
+played: true
 finished: 2023-01-25
 playtime_estimate: 8 - 27 
 playtime: 13

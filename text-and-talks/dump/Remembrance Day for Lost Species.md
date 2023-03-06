@@ -4,7 +4,7 @@ Today is Remembrance Day for Lost Species. I chose to remember the *Pied Raven*,
 
 [Pied raven - Wikipedia](https://en.wikipedia.org/wiki/Pied_raven)
 
-![](files/Pasted%20image%2020230123155737.png)
+![](assets/Pasted%20image%2020230123155737.png)
 
 ## Related
 - [Care](notes/Care.md) 

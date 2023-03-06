@@ -16,6 +16,9 @@ Zettlr[^1] or Obsidian[^2] are built like that, on top of a an archive of markdo
 ## Structure of a note
 - The title should be something like a very short sentence; More then just two nouns but less then being wrapped within your views. Like `Technologische Artefakte ohne Narrative` or `The Design Process and its Stages`.
 
+## Related
+- [Note Taking Habits](notes/Note%20Taking%20Habits.md)
+
 ## Sources
 [^1]: https://www.zettlr.com
 [^2]: https://obsidian.md

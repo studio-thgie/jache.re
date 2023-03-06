@@ -23,9 +23,9 @@ This fact is not mirrored in how we tell our own history, which is usually a his
 ## How to build a hammock in 5 Minutes
 There are many ways of creating hammocks. I found an easy one on instructables.com. Have a go at it and rest well.
 
-- [Download PDF](/files/fp1/hammock-in-5-minutes.pdf)
+- [Download PDF](assets/fp1/hammock-in-5-minutes.pdf)
 - [Source on instructables.com](https://www.instructables.com/hammock-in-5-minutes/)
 
 ## Thoughts in a hammock
-![Thoughts in a Hammock.](/files/fp1/40.jpg)
+![Thoughts in a Hammock.](assets/fp1/40.jpg)
 Crane, Walter. “Thoughts in a Hammock.” The English Illustrated Magazine. 2 (1884): 82-87. Hathi Trust version of a copy in the Pennsylvania State University Library. Web. 8 January 2021.

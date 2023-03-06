@@ -12,13 +12,13 @@ That was the general idea Shane approached me with. We discussed some ways of le
 
 I love the idea of looking at how our human infrastructures are taken over by flora when we are not constantly combat those beautiful plants.
 
-![fallow0](/files/fp1/fallow0.JPG)
-![fallow1](/files/fp1/fallow1.JPG)
-![fallow2](/files/fp1/fallow2.JPG)
+![fallow0](assets/fp1/fallow0.JPG)
+![fallow1](assets/fp1/fallow1.JPG)
+![fallow2](assets/fp1/fallow2.JPG)
 
 ---
 
-![limin0004](/files/fp1/limin0004.JPG)
-![limin0007](/files/fp1/limin0007.JPG)
-![limin0009](/files/fp1/limin0009.JPG)
-![limin0012](/files/fp1/limin0012.JPG)
+![limin0004](assets/fp1/limin0004.JPG)
+![limin0007](assets/fp1/limin0007.JPG)
+![limin0009](assets/fp1/limin0009.JPG)
+![limin0012](assets/fp1/limin0012.JPG)

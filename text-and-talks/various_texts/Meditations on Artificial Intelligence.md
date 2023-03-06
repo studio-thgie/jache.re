@@ -90,7 +90,7 @@ Lasst uns doch zusammen diesen Denkraum aufmachen. Lasst uns ein Zusammen-mit-AI
 
 Frei nach Haraways neuem radikalen Claim: “Make kin, not babies.”
 
-![Sticker that says Make kin, not babies.](files/make-kin-not-babies.jpg)
+![Sticker that says Make kin, not babies.](assets/make-kin-not-babies.jpg)
 
 ## Meditations on AI
 

@@ -28,14 +28,17 @@ url: 'https://reallifemag.com/the-sounds-of-silence/'
 - The success of technologies like Playtronica points to a real desire for communication between human and non-human worlds, something that we seem more ready to believe in when it involves technological mediation. — [Updated on 2021-06-04 08:12:39](https://hyp.is/0vXPWsT7Eeu5eD-b-qwlkw/reallifemag.com/the-sounds-of-silence/) — Group: #Public
     - Annotation: Where is this comming from?
 - The more our interactions with the world are mediated by technologies that gloss over the frictions and ambiguities by which we acquire meaning for each other, the more we drift towards commodification, because it is through ambiguity that we resist quantifiability. — [Updated on 2021-06-04 08:17:24](https://hyp.is/fDXDQMT8EeucI3vpsTopOQ/reallifemag.com/the-sounds-of-silence/) — Group: #Public
-    - Tags:  #ambiquity  #uncertainity 
+    - tag:  #ambiquity  #uncertainity 
 
 - But the ambition of perfect communication between entities is a trap. The interaction of machines and human bodies can be exciting terrain precisely because it is fraught with complex processes of negotiation. Ambiguity and complexity is engagement: when we fail to recognize this, and instead prioritize the generalized efficiency of conversions between different sorts of data, we edge towards the commodification of all our interactions. — [Updated on 2021-06-04 08:17:45](https://hyp.is/ui1tUsQzEeuIMSttmNvYmg/reallifemag.com/the-sounds-of-silence/) — Group: #Public
-    - Tags:  #ambiquity  #uncertainity 
+    - tag:  #ambiquity  #uncertainity 
 
 - On his blog, theorist Steven Shaviro takes up Marx’ notion of commodity fetishism, writing that “commodities actually are alive: more alive, perhaps, than we ourselves are. They ‘appear,’ or stand forth, or ‘shine’ (the word Marx uses is scheinen) as autonomous beings” — they seem to possess the ability to act and feel independently of us. Animating the world via technological appendages doesn’t increase our engagement with it; instead, it bolsters processes of commodification, because, according to Shaviro, the commodities possess more agency than we ourselves do. Emphasizing interactivity for interactivity’s sake renders the world meaningless until it is activated by technology — then technology (and capital) becomes the dominant life force. — [Updated on 2021-06-04 08:20:21](https://hyp.is/8PNI2MT8EeuQGNdHocxG-w/reallifemag.com/the-sounds-of-silence/) — Group: #Public
     - Annotation: Fetish, and by extension animism, Marx and IoT brought together.
 - Our relationship with technology, though, is a chaotic one; in fact all interaction is by definition chaotic. Any form of play that does not center this chaos — which instead envisages human-machine interaction as a seamless unbroken circuit — will always subordinate the human to the level of object, rather than elevating an object to the level of the human. In attempting to make the world more animate, we risk de-animating ourselves. — [Updated on 2021-06-04 08:29:15](https://hyp.is/LtYAIsT-EeucJ7v37fyEeg/reallifemag.com/the-sounds-of-silence/) — Group: #Public
+
+
+
 
 
 

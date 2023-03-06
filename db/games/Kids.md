@@ -1,5 +1,5 @@
 ---
-played: yes
+played: true
 finished: 2020
 playtime_estimate:
 memo: ""

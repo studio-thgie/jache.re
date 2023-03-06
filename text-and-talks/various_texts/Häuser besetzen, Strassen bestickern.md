@@ -28,10 +28,10 @@ Nun ist es aber so, dass wir Raum nicht nur brauchen, sondern uns dieser auch fo
  
  In diesem Sinne, lasst uns unseren Lebensraum besetzen, mit Squats und Sticker.
 
- ![Aufnahme der Author:in bei der Hecht Besetzung, Weihnachten 1988, als sechsjähriges Kind](files/hecht-besetzung.jpeg)
+ ![Aufnahme der Author:in bei der Hecht Besetzung, Weihnachten 1988, als sechsjähriges Kind](assets/hecht-besetzung.jpeg)
  
  *Aufnahme der Author:in bei der Hecht Besetzung, Weihnachten 1988, als sechsjähriges Kind*
 
-![Sticker der die Aktion um die Hecht-Besetzung begleitete](files/hecht-sticker.jpeg)
+![Sticker der die Aktion um die Hecht-Besetzung begleitete](assets/hecht-sticker.jpeg)
 
 *Sticker der die Aktion um die Hecht-Besetzung begleitete*

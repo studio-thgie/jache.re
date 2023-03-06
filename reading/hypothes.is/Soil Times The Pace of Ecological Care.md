@@ -17,7 +17,7 @@ url: >-
 - »Soils have become a matter of concern and care not just for what they provide for humans but for ensuring the subsistence of soil communities more broadly.« — [Updated on 2022-12-15 16:44:13](https://hyp.is/U2vWxHyPEe2JYrf3hoQTJQ/www.akademie-solitude.de/de/solitude-journal/soil-times-the-pace-of-ecological-care/) — Group: #Public
     - Annotation: Soil enables us to get into direct relation with the land, place and the environment we're embedded in.
 - productionism — [Updated on 2022-12-15 16:46:57](https://hyp.is/q1p4mnyPEe2kSuMglOcDIg/www.akademie-solitude.de/de/solitude-journal/soil-times-the-pace-of-ecological-care/) — Group: #Public
-    - Tags:  #keyword 
+    - tag:  #keyword 
 
 - We’re Treating Soil Like Dirt. — [Updated on 2022-12-15 16:47:40](https://hyp.is/znNuNnyPEe21ffOGpTymNg/www.akademie-solitude.de/de/solitude-journal/soil-times-the-pace-of-ecological-care/) — Group: #Public
     - Annotation: wordplay, the connotations are interesting
@@ -66,6 +66,9 @@ url: >-
 - Desituated storylines of Anthropos-centered relations need to be challenged if are we to offer situated humans a place within, rather than above, other earth creatures, in acknowledgment of specific modes of agency: a vital task for environmental thought and practice, across the social sciences and humanities, but also for exceeding collective imaginations. — [Updated on 2022-12-19 08:37:54](https://hyp.is/DKwn3H9wEe20GBuR93edWw/www.akademie-solitude.de/de/solitude-journal/soil-times-the-pace-of-ecological-care/) — Group: #Public
     - Annotation: what perspective do we inhibit in the future?
 - One could say that successful scientific models owe part of their power to their figurative potential. Beyond science, the foodweb is a charged figuration of soil relations, which I read here as going in the sense of restoring what Thompson calls the »spirit of the soil,« by which he points at an understanding of human activity as part of the life of the earth and »the spirit of raising food and eating it as an act of communion with some larger whole.« — [Updated on 2022-12-19 08:39:24](https://hyp.is/Qm0U2n9wEe2whA_Q07XYtw/www.akademie-solitude.de/de/solitude-journal/soil-times-the-pace-of-ecological-care/) — Group: #Public
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 # Meditations on Artificial Intelligence
 Nov 11, 2017 
 
-![](files/1_w-HwzV78lW6CSH-5FEsqJg-1-847d5703-4b47-4b4c-ae0d-954aac8f8585-351668f5-82d7-4a5f-862e-cd3013e06ab7.jpg)
+![](assets/1_w-HwzV78lW6CSH-5FEsqJg-1-847d5703-4b47-4b4c-ae0d-954aac8f8585-351668f5-82d7-4a5f-862e-cd3013e06ab7.jpg)
 
 Das IAMAI Kurzfestival in Bern hatte uns, Julia Geiser und mich, angefragt einen Beitrag zu leisten. Wir haben uns für einen Inputvortag mit anschliessender partizipativer Runde entschieden.
 

@@ -28,7 +28,7 @@ In research, you always collect, manage, and consume material such as scientific
 
 I have four main tools in my setup:
 
-- [Obsidian](https://obsidian.md/)
+- Obsidian, https://obsidian.md
 - [Zotero](https://www.zotero.org/)
 - [hypothes.is](https://hypothes.is/)
 - [Tropy](https://www.tropy.org/)

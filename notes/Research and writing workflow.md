@@ -27,6 +27,7 @@ I'm pretty happy with my research and writing setup. It works well enough for me
 In research, you always collect, manage, and consume material such as scientific papers, other textual material, images and videos etc. Guided by your inquiry, research question or project, you produce something new out of the collected and worked on material and your own thoughts. In the last stage, you want to hand your new thing over to other people.
 
 I have four main tools in my setup:
+
 - [Obsidian](https://obsidian.md/)
 - [Zotero](https://www.zotero.org/)
 - [hypothes.is](https://hypothes.is/)

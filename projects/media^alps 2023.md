@@ -62,6 +62,7 @@ pip install chatterbot==1.0.4 pytz
 	- [optional] Shellscript
 		- echo, ./, chmod, xargs, for and if
 	- Fork Bomb for lunch
+
 ### Saturday II
 - Setup chatterbot
 	- Windows: Install wsl and cmdr
@@ -71,8 +72,9 @@ pip install chatterbot==1.0.4 pytz
 - Chatterbot tutorial
 - Producing some conversations by hand
 - Cleaning up some chat data
+
 ### Sunday
-- 
+- ? 
 
 ## Ressources and thoughts
 - https://realpython.com/build-a-chatbot-python-chatterbot/

@@ -63,12 +63,10 @@
         </ul>
         <div class="sourceCode" id="cb1"><pre
         class="sourceCode sh"><code class="sourceCode bash"><span id="cb1-1"><a href="/projects/media^alps 2023.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">conda</span> deactivate</span>
-<span id="cb1-2"><a href="/projects/media^alps 2023.html#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="ex">conda</span> create <span class="at">--name</span> chatterbot python=3.8</span>
-<span id="cb1-3"><a href="/projects/media^alps 2023.html#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="ex">conda</span> activate chatterbot</span>
+<span id="cb1-2"><a href="/projects/media^alps 2023.html#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="ex">conda</span> create <span class="at">--name</span> chatterbot-env python=3.8</span>
+<span id="cb1-3"><a href="/projects/media^alps 2023.html#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="ex">conda</span> activate chatterbot-env</span>
 <span id="cb1-4"><a href="/projects/media^alps 2023.html#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="ex">pip</span> install chatterbot==1.0.4 pytz</span></code></pre></div>
         <ul>
-        <li>chatterbot==1.0.4 pytz works fine<br />
-        </li>
         <li>sqalchemy on windows needs fix <a
         href="https://stackoverflow.com/a/66181432">https://stackoverflow.com/a/66181432</a><br />
         </li>
@@ -80,61 +78,89 @@
         <li><a
         href="https://realpython.com/build-a-chatbot-python-chatterbot">ChatterBot:
         Build a Chatbot With Python</a></li>
+        <li><a href="https://chatterbot.readthedocs.io/en/stable/">About
+        Chatterbot</a></li>
         </ul>
         <h2 id="terminal-showcase">Terminal Showcase</h2>
         <ul>
         <li><code>telnet towel.blinkenlights.nl</code></li>
         <li><code>telnet mapscii.me</code></li>
-        <li><code>sampler --config test.yml</code></li>
+        <li><code>sampler --config ~/kDrive/Temporary/sampler.yml</code></li>
+        <li>https://github.com/agarrharr/awesome-cli-apps</li>
+        <li>https://www.tecmint.com/best-linux-terminal-console-games/</li>
+        <li>https://tilde.club/ and https://breadpunk.club/</li>
         </ul>
         <h2 id="schedule">Schedule</h2>
         <h3 id="saturday-i">Saturday I</h3>
         <ul>
+        <li>Introduction
+        <ul>
+        <li>Shell and terminals, and why do they still exist</li>
+        <li>The written word as a foundation of todays computing</li>
+        <li>Two types of shell users
+        <ul>
+        <li>Sysadmins</li>
+        <li>hell-a-cute people
+        https://j3s.sh/thought/write-posix-shell.html</li>
+        </ul></li>
+        </ul></li>
         <li>“Fun” with terminals
         <ul>
         <li>Fundamentals
         <ul>
-        <li>man, –help</li>
+        <li>man</li>
         <li>history, ctrl + r</li>
         </ul></li>
         <li>Navigate folder and files structures
         <ul>
-        <li>pwd, ls, cd (.., -), relative and absolute path</li>
-        <li>[exercise] manually search for a specific file</li>
+        <li>pwd, ls, cd</li>
+        <li>relative and absolute path, invisible files</li>
+        <li>., .., -, ~, /</li>
+        <li>[exercise] Explore a bit and see if you find your way around
+        the places your usually hanging</li>
         </ul></li>
         <li>Create, read and delete
         <ul>
-        <li>touch, mkdir, cat, head, tail, rm</li>
+        <li>touch, mkdir, open, cat, head, tail, rm (-r) !!!</li>
+        <li>[exercise] Create folder structure, some files, open and
+        delete them</li>
         </ul></li>
-        <li>Combine and find
+        <li>Move, Find and combine
         <ul>
-        <li>&amp;&amp;, where, find</li>
-        <li>[exercise] Find and cat/head/tail over a folder structure I
+        <li></li>
+        <li>cp, mv</li>
+        <li>[exercise] Find and cat over a folder structure I
         prepared.</li>
         </ul></li>
-        <li>[optional] Shellscript
+        <li>System
         <ul>
-        <li>echo, ./, chmod, xargs, for and if</li>
+        <li>top, kill</li>
         </ul></li>
-        <li>Fork Bomb for lunch ### Saturday II</li>
-        </ul></li>
-        <li>Setup chatterbot
+        <li>Fork Bomb for lunch
         <ul>
-        <li>Windows: Install wsl and cmdr</li>
-        <li>Install miniconda</li>
-        <li>More or less follow instructions</li>
+        <li><code>:(){ :|:&amp; };:</code></li>
         </ul></li>
-        <li>nano</li>
-        <li>Chatterbot tutorial</li>
-        <li>Producing some conversations by hand</li>
-        <li>Cleaning up some chat data ### Sunday</li>
-        <li></li>
+        </ul></li>
         </ul>
-        <h2 id="ressources-and-thoughts">Ressources and thoughts</h2>
+        <h3 id="lunch-break">Lunch Break</h3>
+        <ul>
+        <li>See if anybody needs tech support regarding
+        wsl/cmder/conda</li>
+        </ul>
+        <h3 id="saturday-ii">Saturday II</h3>
+        <ul>
+        <li>Introduction nano</li>
+        <li>Setup conda environment</li>
+        <li>Chatterbot tutorial
         <ul>
         <li>https://realpython.com/build-a-chatbot-python-chatterbot/</li>
-        <li>Why do terminals exist?
-        https://www.quora.com/Why-are-terminals-and-command-prompts-still-used-in-operating-systems</li>
+        </ul></li>
+        <li>Producing some conversations by hand</li>
+        <li>Cleaning up some chat data</li>
+        </ul>
+        <h3 id="sunday">Sunday</h3>
+        <ul>
+        <li>?</li>
         </ul>
     </main>
 

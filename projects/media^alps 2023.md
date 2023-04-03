@@ -28,52 +28,65 @@ Our medium is text, a bot our mirror. A bit less poetically: we'll attempt to cr
 
 ```sh
 conda deactivate
-conda create --name chatterbot python=3.8
-conda activate chatterbot
+conda create --name chatterbot-env python=3.8
+conda activate chatterbot-env
 pip install chatterbot==1.0.4 pytz
 ```
 
-- chatterbot==1.0.4 pytz works fine  
 - sqalchemy on windows needs fix [https://stackoverflow.com/a/66181432](https://stackoverflow.com/a/66181432)  
 - find on windows needs alias [https://superuser.com/a/1219235](https://superuser.com/a/1219235)
 
 ## Tutorial
 - [ChatterBot: Build a Chatbot With Python](https://realpython.com/build-a-chatbot-python-chatterbot)
+- [About Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
 
 ## Terminal Showcase
 - `telnet towel.blinkenlights.nl`
 - `telnet mapscii.me`
-- `sampler --config test.yml`
+- `sampler --config ~/kDrive/Temporary/sampler.yml`
+- https://github.com/agarrharr/awesome-cli-apps
+- https://www.tecmint.com/best-linux-terminal-console-games/
+- https://tilde.club/ and https://breadpunk.club/
 
 ## Schedule
 ### Saturday I
+- Introduction
+	- Shell and terminals, and why do they still exist
+	- The written word as a foundation of todays computing
+	- Two types of shell users
+		- Sysadmins
+		- hell-a-cute people https://j3s.sh/thought/write-posix-shell.html
 - "Fun" with terminals
 	- Fundamentals
-		- man, --help
+		- man
 		- history, ctrl + r
 	- Navigate folder and files structures
-		- pwd, ls, cd (.., -), relative and absolute path
-		- [exercise] manually search for a specific file
+		- pwd, ls, cd
+		- relative and absolute path, invisible files
+		- ., .., -, ~, /
+		- [exercise] Explore a bit and see if you find your way around the places your usually hanging
 	- Create, read and delete
-		- touch, mkdir, cat, head, tail, rm
-	- Combine and find
-		- &&, where, find
-		- [exercise] Find and cat/head/tail over a folder structure I prepared.
-	- [optional] Shellscript
-		- echo, ./, chmod, xargs, for and if
+		- touch, mkdir, open, cat, head, tail, rm (-r) !!!
+		- [exercise] Create folder structure, some files, open and delete them
+	- Move, Find and combine
+		- 
+		- cp, mv
+		- [exercise] Find and cat over a folder structure I prepared.
+	- System
+		- top, kill
 	- Fork Bomb for lunch
+		- `:(){ :|:& };:`
+
+### Lunch Break
+ - See if anybody needs tech support regarding wsl/cmder/conda
+
 ### Saturday II
-- Setup chatterbot
-	- Windows: Install wsl and cmdr
-	- Install miniconda
-	- More or less follow instructions
-- nano
+- Introduction nano
+- Setup conda environment
 - Chatterbot tutorial
+	- https://realpython.com/build-a-chatbot-python-chatterbot/
 - Producing some conversations by hand
 - Cleaning up some chat data
-### Sunday
-- 
 
-## Ressources and thoughts
-- https://realpython.com/build-a-chatbot-python-chatterbot/
-- Why do terminals exist? https://www.quora.com/Why-are-terminals-and-command-prompts-still-used-in-operating-systems
+### Sunday
+- ?

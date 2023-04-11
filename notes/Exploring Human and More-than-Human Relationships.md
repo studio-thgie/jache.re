@@ -4,10 +4,18 @@ tag: studies/more-than-human
 # Exploring Human and More-than-Human Relationships
 *Multimodal Approaches*
 
-
 ## Notes
+- *2023-04-06* Feedback
+	- Keep the woman talking about the heron in the piece
+	- Think about mapping what the beaver does, it's infrastructures on my own work, or process
+	- Concentrate on the interaction between humans and more-than-humans
+	- Continue with the interview
+	- Have a look at the affective agency on the beaver
+	- How will I deal with the absence of the beaver? Have a look at how documentaries work: Assemblages of info-bits, leaving the arc/story to the viewer
+	- Where to get a trap cam?
+	- Is there any archival material on the beaver in Biel/Bienne
 - *2023-04-02* Just-sound recording session today. I did the thing where you hear what the mic hears and it was very intense. Sound as sense becomes exagerated. It's very interesting to point the mic in all kinds of directions and control the listening like this. I haven't listened to the recordings yet, but I'm actually looking forward to what it does to me. The enhanced soundscape produces zones of sound, that became visual in my mind. Like spheres where some sounds were prevalent and others diminuished. It also made me aware of the different layers of infrastructures, which interact with each other and can be experience differently, depending on the mode of transportation.
-- *2023-04-01* While reading John Berger's "Why look at animals?", the beaver got mentioned two times. The second time, that it's one of the last visible animals, with intelligence. There could be an interesting link to topics of industrialism.
+- *2023-04-01* While reading John Berger's "Why look at animals?", the beaver got mentioned two times. The second time, that it's one of the last visible animals with intelligence. That is sad. There could be an interesting link to topics of industrialism.
 - *2023-03-23* We could show our recordings. Some feedback I got included concentrating more on the sound recording and listening process. Two thoughts arising afterwards:
 	-   focus on the absence of the beaver but it's presence through difference
 	-   maybe make an interview but put it in the background, passing, like some people walking by
@@ -26,6 +34,9 @@ I am very interested in how these water-infrastructures come together and change
 ## Readings
 - Session 4
 	- [Keywords in sound: acoustemology](reading/novakKeywordsSound2015.md#acoustemology)
+	- [About looking](reading/bergerLooking2015.md)
+	- [Listening after the animals: sound and pastoral care in the zoo](reading/riceListeningAnimalsSound2021.md)
+	- [Questioning Acoustemology: an interview with Steven Feld](reading/riceQuestioningAcoustemologyInterview2021.md)
 - Session 3
 	- [Sound, Anthropology of](reading/coxSoundAnthropology2018.md)
 	- [Listening to Noise and Silence: Towards a Philosophy of Sound Art](reading/voegelinListeningNoiseSilence2010.md)

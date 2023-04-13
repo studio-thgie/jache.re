@@ -4,7 +4,18 @@ tag: studies/more-than-human
 # Exploring Human and More-than-Human Relationships
 *Multimodal Approaches*
 
+## Outlook
+The idea behind this project is the comming together of different water infrastructures, some human-made, some non-human-made. The small river Suze traverses the city of Biel/Bienne. At one point, a small dam, two smaller streams are forked off. I assume this was made for industrial reasons, as well as being able to control the water flow. The whole of Seeland was a giant water-mediating project, in order to gain land. The smaller stream is generally in a bad shape, highly mediated and not the prettiest thing. Further down they "renaturalized" it, in parallel to newly built appartments. Now, in the "renaturalized" part a beaver built his home, a beaver dam. The beaver's infrastructure dammed up the water, and it was endangering the gardenish area of the new appartments. The city decided nonetheless to let the beaver where it is and install overflow-pipes, that ensure the proper flow of the water-stream. I am very interested in how these water-infrastructures come together and change their respective environments.
+
+## Waiting, hopeing for a beaver to appear
+After many recording session, video- and sound-wise, I have yet to see an actual beaver. I might never see one. But, I have gotten in touch with the place, and I love that. I love to get in touch with place. It's a mere 8 to 10 minute stretch of a walk, from dam to dam. Again and again, I am politly visiting, as outlined by Donna Haraway when talking about the practice of Vinciane Despret.
+
+> Referring both to her own practice for observing scientists and also to the practices of ethologist Thelma Rowell observing her Soay sheep, Despret affirmed “a particular epistemological position to which I am committed, one that I call a virtue: the virtue of politeness.” In every sense, Despret’s cultivation of politeness is a curious practice. She trains her whole being, not just her imagination, in Arendt’s words, “to go visiting.” Visiting is not an easy practice; it demands the ability to find others actively interesting, even or especially others most people already claim to know all too completely, to ask questions that one’s interlocutors truly find interesting, to cultivate the wild virtue of curiosity, to retune one’s ability to sense and respond—and to do all this politely! What is this sort of politeness? It sounds more than a little risky. Curiosity always leads its practitioners a bit too far off the path, and that way lie stories.
+
+The more often I visit, the more stories come into presence, or layers, or threads. Birds, path, plants, felled or not, bicycles, sounds, pulled long or formed spherical, reflections in the water, all woven together. Not into a chaotic whole, but into a walkable pattern. Street, dam, path, bridge, long stretch, street, path, dam, path, street, depening on where one is starting. I will continue with recording and attempt to layer, or weave, the material into a listenable pattern. One that recreates my all-over-all, or summarized experience of the place through sonic and visual material.
+
 ## Notes
+- *2023-04-13* Another recording session, this time in the evening, when the sun set. I feel like stalking the beaver. I concentrated on some video recordings of the traces of the beaver. I could also collect two new birds on my birder app. I entered the industrial area and filmed some of the felled trees and bushes, and also took some of the sticks and tree-shavings the beaver left with me.
 - *2023-04-06* Feedback
 	- Keep the woman talking about the heron in the piece
 	- Think about mapping what the beaver does, it's infrastructures on my own work, or process
@@ -19,17 +30,11 @@ tag: studies/more-than-human
 - *2023-03-23* We could show our recordings. Some feedback I got included concentrating more on the sound recording and listening process. Two thoughts arising afterwards:
 	-   focus on the absence of the beaver but it's presence through difference
 	-   maybe make an interview but put it in the background, passing, like some people walking by
-- *2023-03-05* Second recording session, same topic. Light and wind were in favour. This time I decided not to cut anything, just recordings. I'd love to present them and talk about the idea.
-- *2023-02-26* I followed up my idea of make some recordings about the beaver dam. It was very cold and very windy. Even with a windshield, the sound was in a bad shape. The light also wasn't the best and the image is pale.
 - *2023-03-17* Reading the two texts on [Listening](reading/novakKeywordsSound2015.md) and the [Anthropology of Sound](reading/coxSoundAnthropology2018.md) made me accutely aware how intense these discourses were already debatted in anthropology. The latter text was mainly a collection of different aspects of the anthropology of sound and mentioned projects in each. The first was an easy accessible text on what listening actually is. Cox mentioned a project that listened into sounds of the ocean and now I want to build a DIY hydrophone. But actually I could just use my iPhone to make underwater recordings.
 - *2023-03-08* I found the paper [Multimodality: Reshaping Anthropology](reading/westmorelandMultimodalityReshapingAnthropology2022a.md) extremely tough to access. Many key parts are deeply rooted in inner discourse that I have little knowledge of. I will have to revisit my notes at some times to recall the text.
 - *2023-03-06* As a multimodal approach is dependent on technology – such as recording gear, the cloud, and algorithms – such an approach needs to be reflected upon and considered in order to not simply reproduce injustice and inequalities prevalent in that domain. A multimodal approach is no inherently democratic.
-
-## Recordings
-### Water Infrastructures
-The idea behind this project is the comming together of different water infrastructures, some human-made, some non-human-made. The small river Suze traverses the city of Biel/Bienne. At one point, a small dam, two smaller streams are forked off. I assume this was made for industrial reasons, as well as being able to control the water flow. The whole of Seeland was a giant water-mediating project, in order to gain land. The smaller stream is generally in a bad shape, highly mediated and not the prettiest thing. Further down they "renaturalized" it, in parallel to newly built appartments. Now, in the "renaturalized" part a beaver built his home, a beaver dam. The beaver's infrastructure dammed up the water, and it was endangering the gardenish area of the new appartments. The city decided nonetheless to let the beaver where it is and install overflow-pipes, that ensure the proper flow of the water-stream.
-
-I am very interested in how these water-infrastructures come together and change their respective environments.
+- *2023-03-05* Second recording session, same topic. Light and wind were in favour. This time I decided not to cut anything, just recordings. I'd love to present them and talk about the idea.
+- *2023-02-26* I followed up my idea of make some recordings about the beaver dam. It was very cold and very windy. Even with a windshield, the sound was in a bad shape. The light also wasn't the best and the image is pale.
 
 ## Readings
 - Session 4

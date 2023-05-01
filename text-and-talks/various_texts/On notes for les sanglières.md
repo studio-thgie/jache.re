@@ -1,5 +1,5 @@
 # On notes for les sanglières
-*Adrian Demleitner, University of Bern Spring Semester 2023
+*Adrian Demleitner, University of Bern Spring Semester 2023<br>
 **Exploring Human and More-than-Human Relationships***
 
 The piece *notes for les sanglièrs* by Elsa Brès is a preview of things to come, literally and speculatively. Literally, since it contains material from a film yet to be released. Speculatively, because it intensely engages with revolutionary politics and interspecies relations.

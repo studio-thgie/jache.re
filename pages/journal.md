@@ -4,6 +4,7 @@ title: Journal
 # Journal
 | Title                                                               | Date              | Tags                                             |
 | ------------------------------------------------------------------- | ----------------- | ------------------------------------------------ |
+| [Labour Day – Erster Mai](journal/2023-05-01.md)                  | May 01, 2023      | work, journal, reflexion                         |
 | [Spring appreciation and catching up post](journal/2023-04-11.md) | April 11, 2023    | catching up                                      |
 | [On Concentration and Reading Practice](journal/2023-03-06.md)    | March 06, 2023    | adhd, reading-practice                           |
 | [End of month post: January 2023](journal/2023-01-29.md)          | January 29, 2023  | journal, reflexion                               |
@@ -19,6 +20,8 @@ title: Journal
 | [Into the media^alps](journal/2022-03-07.md)                      | March 07, 2022    | event, workshop                                  |
 | [Post achievement practice](journal/2022-03-15.md)                | March 07, 2022    | reflexion, practice                              |
 | [Introduction](journal/2022-02-21.md)                             | February 21, 2022 | log, reflection                                  |
+
+
 
 
 

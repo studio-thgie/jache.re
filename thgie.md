@@ -12,4 +12,5 @@ My last few working positions involved being a scientific software programmer in
 -   contact me at [adrian@thgie.ch](mailto:adrian@thgie.ch) or [+41766811337](tel:0041766811337)
 
 ---
-thgie was my chosen moniker for a long time. It's actually just eight spelled backwards and there is no deeper meaning attached to this. 
+
+\* ***thgie** was my chosen moniker for a long time. It's actually just eight spelled backwards and there is no deeper meaning attached to this. 

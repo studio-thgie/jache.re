@@ -13,4 +13,4 @@ My last few working positions involved being a scientific software programmer in
 
 ---
 
-\* ***thgie** was my chosen moniker for a long time. It's actually just eight spelled backwards and there is no deeper meaning attached to this. 
+\* **thgie** was my chosen moniker for a long time. It's actually just eight spelled backwards and there is no deeper meaning attached to this. 

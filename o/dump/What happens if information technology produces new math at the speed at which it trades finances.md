@@ -1,0 +1,1 @@
+What happens if information technology produces new math at the speed at which it trades finances.

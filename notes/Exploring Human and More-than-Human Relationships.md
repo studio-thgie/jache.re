@@ -21,6 +21,7 @@ The more often I visit, the more I listen, the more stories come into presence, 
 I will continue with recording and attempt to layer, or weave, the material into a listenable pattern. One that recreates my all-over-all, or summarized experience of the place through sonic and visual material.
 
 ## Notes
+- 2023-05-07 I watched some beaver documentaries to learn how beavers are framed in popular media. They're mostly coined by two benefitial factors: economics and environmental. [Beavers Without Borders](https://www.youtube.com/watch?v=q4Mmjm22GiY) is a good example of what I might call beaver propaganda, basically saying, just reintroduce the beaver as quick and as hard as possible.
 - *2023-04-13* Another recording session, this time in the evening, when the sun set. I feel like stalking the beaver. I concentrated on some video recordings of the traces of the beaver. I could also collect two new birds on my birder app. I entered the industrial area and filmed some of the felled trees and bushes, and also took some of the sticks and tree-shavings the beaver left with me.
 - *2023-04-06* Feedback
 	- Keep the woman talking about the heron in the piece
@@ -41,6 +42,11 @@ I will continue with recording and attempt to layer, or weave, the material into
 - *2023-03-06* As a multimodal approach is dependent on technology – such as recording gear, the cloud, and algorithms – such an approach needs to be reflected upon and considered in order to not simply reproduce injustice and inequalities prevalent in that domain. A multimodal approach is no inherently democratic.
 - *2023-03-05* Second recording session, same topic. Light and wind were in favour. This time I decided not to cut anything, just recordings. I'd love to present them and talk about the idea.
 - *2023-02-26* I followed up my idea of make some recordings about the beaver dam. It was very cold and very windy. Even with a windshield, the sound was in a bad shape. The light also wasn't the best and the image is pale.
+
+## Related
+- [On Beavers](notes/On%20Beavers.md)
+- [On notes for les sanglières](o/v/On%20notes%20for%20les%20sanglières.md)
+- [multimodal_ethnographies_as_practices_of_visiting](o/v/multimodal_ethnographies_as_practices_of_visiting.md)
 
 ## Readings
 - Session 5

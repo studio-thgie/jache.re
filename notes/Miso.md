@@ -1,6 +1,16 @@
-- Ratio: 1 part soy beans: 0.55 parts koji : 0.4 parts salt – For 10kg Mugi Miso: 5.1 : 2.8 : 2
-- It will be around double weight after cooking
+# Miso
+
+I like myself some proper barley miso and although it takes time, it is effortless to make. Mix soy beans, koji and salt and then wait. You can't do anything wrong, believe me…
+
+Koji is a mushroom that grows through a grain, for example rice or barley, and transforms the grain starches into sugars. It also produced enzymes that will work on the soy beans and transform them into miso paste. There are different koji strains. With some of them sake is made, and others are better in making soy sauce.
+
+I use the following guideline when mixing up 
+
+- Ratio: 1 part dry soy beans: 0.55 parts dry grains : 0.4 parts salt – For 10kg Mugi Miso: 5.1 : 2.8 : 2
+- It will be around double weight after cooking and letting "ferment"
 - My miso usually molds as hell were it has contact with air. I just scrape that off before harvesting
+- It is said that a good miso needs a cold winter, a mild spring and a hot summer to fully ripen. That means that you should start the process in autumn and can harvest during summer. I leave my miso outside on the balcony
+- If you put weights on it, the fluids coming to the top is shoyu, or soy sauce. Otherwise, the miso stays wetter
 
 ![](assets/photo_5945069091352066710_y.jpg)
 The dry ingredients, soy beans and barley

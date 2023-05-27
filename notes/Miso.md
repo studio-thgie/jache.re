@@ -15,8 +15,9 @@ The dry ingredients, soy beans and barley
 ![](assets/photo_5965095312672537200_y.jpg)
 ![](assets/photo_5965095312672537201_y.jpg)
 
+*The koji is growing. First filaments are visible.*
+
 ![](assets/photo_5965095312672537202_y.jpg)
-The koji is growing
 
 ### Mixing soy beans and barley koji
 ![](assets/IMG_7879.mp4)

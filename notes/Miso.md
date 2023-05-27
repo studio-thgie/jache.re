@@ -20,15 +20,16 @@ The dry ingredients, soy beans and barley
 ![](assets/photo_5965095312672537202_y.jpg)
 
 ### Mixing soy beans and barley koji
-![](assets/IMG_7879.mp4)
-Soy beans ASMR
 
+Soy beans ASMR…
+![](assets/IMG_7879.mp4)
+
+Digging into and mixing the soy beans with the koji.
 ![](assets/IMG_7897.mp4)
-Getting into it with my hands
 
 ## Sources
-- From https://culturesforhealth.com/blogs/recipes/soy-recipe-how-to-make-mugi-miso
-- Good paste recipe https://www.justonecookbook.com/how-to-make-miso/
+- From [https://culturesforhealth.com/blogs/recipes/soy-recipe-how-to-make-mugi-miso](https://culturesforhealth.com/blogs/recipes/soy-recipe-how-to-make-mugi-miso)
+- Good paste recipe [https://www.justonecookbook.com/how-to-make-miso/](https://www.justonecookbook.com/how-to-make-miso/)
 
 ## Related
 - [Fermenting and pickling](notes/Fermenting%20and%20pickling.md) 

@@ -6,17 +6,17 @@
 The dry ingredients, soy beans and barley
 
 ### Making barley koji
+
+1. Barley cooked and added to a container that keeps the warmth and some of the humidity
+2. A mix of roasted rice flour and koji spores for better dispersement
+3. The koji container on a heating element keeping it slightly warm
+
 ![](assets/photo_5965095312672537199_y.jpg)
-Barley cooked and added to a container that keeps the warmth and some of the humidity
-
 ![](assets/photo_5965095312672537200_y.jpg)
-A mix of roasted rice flour and koji spores for better dispersement
-
 ![](assets/photo_5965095312672537201_y.jpg)
-The koji container on a heating element keeping it slightly warm
 
 ![](assets/photo_5965095312672537202_y.jpg)
-The mushroom is growing
+The koji is growing
 
 ### Mixing soy beans and barley koji
 ![](assets/IMG_7879.mp4)

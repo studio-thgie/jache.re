@@ -2,7 +2,7 @@
 tag: studies/more-than-human
 ---
 # Exploring Human and More-than-Human Relationships
-*Multimodal Approaches*
+*Multimodal Approaches, University of Bern, WS23*
 
 ## Outlook
 *…aka some thoughts made in the beginning of the course*
@@ -62,8 +62,14 @@ I will continue with recording and attempt to layer, or weave, the material into
 - Some thoughts [on Beavers](notes/On%20Beavers.md)
 - A film review made for the course: [On notes for les sanglières](o/v/On%20notes%20for%20les%20sanglières.md)
 - Presentation Text for the final piece: [Multimodal ethnographies as practices of visiting](o/v/multimodal_ethnographies_as_practices_of_visiting.md)
+- Reflection on the production of the final piece: [Interspecies infrastructure in the becoming](o/v/Interspecies%20infrastructure%20in%20the%20becoming.md)
 
-## Readings
+## Reading Notes
+- Session 7
+	- We were supposed to read from [Mushroom at the End of the World - Anna Tsing](reading/various/Mushroom%20at%20the%20End%20of%20the%20World%20-%20Anna%20Tsing.md), but since I worked through the book two times already I skipped this reading.
+- Session 6
+	- [Sawt, Bodies, Species: Sonic Pluralism in Morocco](reading/aubrySawtBodiesSpecies2023.md)
+	- [Geontologies: a requiem to late liberalism](reading/povinelliGeontologiesRequiemLate2016.md)
 - Session 5
 	- [A Multi-Species Etho-Ethnographic Approach to Filmmaking](reading/fijnMultiSpeciesEthoEthnographicApproach2012.md)
 	- [A sensory approach for multispecies anthropology](reading/fijnSensoryApproachMultispecies2021.md)

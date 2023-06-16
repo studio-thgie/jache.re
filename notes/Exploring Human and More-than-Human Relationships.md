@@ -5,23 +5,38 @@ tag: studies/more-than-human
 *Multimodal Approaches*
 
 ## Outlook
-The idea behind this project is the comming together of different water infrastructures, some human-made, some non-human-made. The small river Suze traverses the city of Biel/Bienne. At one point, a small dam, two smaller streams are forked off. I assume this was made for industrial reasons, as well as being able to control the water flow. The whole of Seeland was a giant water-mediating project, in order to gain land. The smaller stream is generally in a bad shape, highly mediated and not the prettiest thing. Further down they "renaturalized" it, in parallel to newly built appartments. Now, in the "renaturalized" part a beaver built his home, a beaver dam. The beaver's infrastructure dammed up the water, and it was endangering the gardenish area of the new appartments. The city decided nonetheless to let the beaver where it is and install overflow-pipes, that ensure the proper flow of the water-stream. I am very interested in how these water-infrastructures come together and change their respective environments.
+*…aka some thoughts made in the beginning of the course*
+
+The idea behind this project is the coming together of different water infrastructures, some human-made, some non-human-made. The small river Suze traverses the city of Biel/Bienne. At one point, a small dam, two smaller streams are forked off. I assume this was made for industrial reasons, as well as being able to control the water flow. The whole of Seeland was a giant water-mediating project, in order to gain land. The smaller stream is generally in a bad shape, highly mediated and not the prettiest thing. Further down they "renaturalized" it, in parallel to newly built apartments. Now, in the "renaturalized" part a beaver built his home, a beaver dam. The beaver's infrastructure dammed up the water, and it was endangering the gardenish area of the new apartments. The city decided nonetheless to let the beaver where it is and install overflow-pipes, that ensure the proper flow of the water-stream. I am very interested in how these water-infrastructures come together and change their respective environments.
 
 ## Waiting, hoping for a [beaver](notes/On%20Beavers.md) to appear
+*…aka thoughts made before working on the final piece*
+
 At first the place pulled me in through it's urban wilderness, in lack of a better word, unfolding from it being forgotten and unused. Seemingly nobody makes a claim to it, and the place can rest, not unlike a fallow. This wilderness is a pleasant contrast to the otherwise constantly cleaned city-space. It eminates a specific kind of tranquility, in which other-than-human can go about their ways in their own manner. 
 
 When I started to listen in I needed to relearn the place. It was an exhausting process. The once calm path became intense and teaming with sonical life. So many birds, so many industrial outlets, cars, and the unbearable loud and stinging white noise of the dam. Some thing became more present, such as the clickedyclack of passing bicycles. Or the crow colony from two blocks over. The water, once central to my visuality, almost completely vanished. 
 
-After many recording session, video- and sound-wise, I have yet to see an actual beaver. I might never see one. But, I have gotten in touch with the place, and I love that. I love to get in touch with place. It's a mere 8 to 10 minute stretch of a walk, from dam to dam. Again and again, I am politly visiting, as outlined by Donna Haraway when talking about the practice of Vinciane Despret.
+After many recording session, video- and sound-wise, I have yet to see an actual beaver. I might never see one. But, I have gotten in touch with the place, and I love that. I love to get in touch with place. It's a mere 8 to 10 minute stretch of a walk, from dam to dam. Again and again, I am politely visiting, as outlined by Donna Haraway when talking about the practice of Vinciane Despret.
 
 > Referring both to her own practice for observing scientists and also to the practices of ethologist Thelma Rowell observing her Soay sheep, Despret affirmed “a particular epistemological position to which I am committed, one that I call a virtue: the virtue of politeness.” In every sense, Despret’s cultivation of politeness is a curious practice. She trains her whole being, not just her imagination, in Arendt’s words, “to go visiting.”
 
-The more often I visit, the more I listen, the more stories come into presence, or layers, or threads. Birds, path, plants, felled or not, bicycles, sounds, pulled long or formed spherical, reflections in the water, all woven together. Not into a chaotic whole, but into a walkable pattern. Street, dam, path, bridge, long stretch, street, path, dam, path, street, depening on where one is starting.
+The more often I visit, the more I listen, the more stories come into presence, or layers, or threads. Birds, path, plants, felled or not, bicycles, sounds, pulled long or formed spherical, reflections in the water, all woven together. Not into a chaotic whole, but into a walkable pattern. Street, dam, path, bridge, long stretch, street, path, dam, path, street, deepening on where one is starting.
 
-I will continue with recording and attempt to layer, or weave, the material into a listenable pattern. One that recreates my all-over-all, or summarized experience of the place through sonic and visual material.
+I will continue with recording and attempt to layer, or weave, the material into a listenable pattern. One that recreates my all-over-all, or summarised experience of the place through sonic and visual material.
 
-## Notes
-- 2023-05-07 I watched some beaver documentaries to learn how beavers are framed in popular media. They're mostly coined by two benefitial factors: economics and environmental. [Beavers Without Borders](https://www.youtube.com/watch?v=q4Mmjm22GiY) is a good example of what I might call beaver propaganda, basically saying, just reintroduce the beaver as quick and as hard as possible.
+## Journal
+- *2023-05-25* Feedback from the final presentation
+	- formally it was spot on, 
+	- my own relationship with the situation with the 
+	- traces are very nice
+	- interspecies dam is spot on
+	- human dam is very dominant in the beginning
+	- texts are very heavy, but was ok in this context
+	- collage, maybe montage: Christian Transcultural Montage (transspecies montage)
+	- what language will i use to frame the beaver? the frames were very constructed; how to get out of the anthropocene, aesthetically
+	- how can images/montage be polite; self-reflective
+	- maybe be not to to self-reflective (over-interintelectualizing)
+- *2023-05-07* I watched some beaver documentaries to learn how beavers are framed in popular media. They're mostly coined by two benefitial factors: economics and environmental. [Beavers Without Borders](https://www.youtube.com/watch?v=q4Mmjm22GiY) is a good example of what I might call beaver propaganda, basically saying, just reintroduce the beaver as quick and as hard as possible.
 - *2023-04-13* Another recording session, this time in the evening, when the sun set. I feel like stalking the beaver. I concentrated on some video recordings of the traces of the beaver. I could also collect two new birds on my birder app. I entered the industrial area and filmed some of the felled trees and bushes, and also took some of the sticks and tree-shavings the beaver left with me.
 - *2023-04-06* Feedback
 	- Keep the woman talking about the heron in the piece
@@ -44,9 +59,9 @@ I will continue with recording and attempt to layer, or weave, the material into
 - *2023-02-26* I followed up my idea of make some recordings about the beaver dam. It was very cold and very windy. Even with a windshield, the sound was in a bad shape. The light also wasn't the best and the image is pale.
 
 ## Related
-- [On Beavers](notes/On%20Beavers.md)
-- [On notes for les sanglières](o/v/On%20notes%20for%20les%20sanglières.md)
-- [multimodal_ethnographies_as_practices_of_visiting](o/v/multimodal_ethnographies_as_practices_of_visiting.md)
+- Some thoughts [on Beavers](notes/On%20Beavers.md)
+- A film review made for the course: [On notes for les sanglières](o/v/On%20notes%20for%20les%20sanglières.md)
+- Presentation Text for the final piece: [Multimodal ethnographies as practices of visiting](o/v/multimodal_ethnographies_as_practices_of_visiting.md)
 
 ## Readings
 - Session 5

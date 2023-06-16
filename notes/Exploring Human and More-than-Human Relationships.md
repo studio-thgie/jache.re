@@ -2,7 +2,7 @@
 tag: studies/more-than-human
 ---
 # Exploring Human and More-than-Human Relationships
-*Multimodal Approaches, University of Bern, WS23*
+*Multimodal Approaches, University of Bern, FS23*
 
 ## Outlook
 *…aka some thoughts made in the beginning of the course*

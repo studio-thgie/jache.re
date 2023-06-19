@@ -4,7 +4,7 @@ html {
 
 html,
 body {
-    font: 16px/1.6 'Trebuchet MS', sans-serif;
+    font: 16px/1.6 'Courier New', monospace;
 }
 
 body {
@@ -146,10 +146,13 @@ th {
     text-align: left;
     text-transform: capitalize;
 }
+tr.odd {
+    background-color: rgba(0, 0, 0, 0.05);
+}
 
-td {
+th, td {
     vertical-align: top;
-    padding-right: 2rem;
+    padding: 4px 10px;
 }
 
 ul.dataview {
@@ -330,14 +333,6 @@ blockquote p {
 
 blockquote p:last-child {
     margin: 0;
-}
-
-blockquote p:before {
-    content: "“";
-}
-
-blockquote p:after {
-    content: "”";
 }
 
 blockquote a {

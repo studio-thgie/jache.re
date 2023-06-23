@@ -2,8 +2,9 @@
 title: Journal
 ---
 # Journal
-| Title                                                               | Date              | Tags                                             |
-| ------------------------------------------------------------------- | ----------------- | ------------------------------------------------ |
+
+| Title                                                             | Date              | Tags                                             |
+| ----------------------------------------------------------------- | ----------------- | ------------------------------------------------ |
 | [Summertime](journal/2023-05-29.md)                               | May 29, 2023      | journal, reflexion                               |
 | [Labour Day – Erster Mai](journal/2023-05-01.md)                  | May 01, 2023      | work, journal, reflexion                         |
 | [Spring appreciation and catching up post](journal/2023-04-11.md) | April 11, 2023    | catching up                                      |

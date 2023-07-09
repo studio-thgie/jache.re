@@ -5,6 +5,7 @@ title: Journal
 
 | Title                                                                  | Date              | Tags                                             |
 | ---------------------------------------------------------------------- | ----------------- | ------------------------------------------------ |
+| [Festivals as transitional spaces](journal/2023-07-09.md)            | July 09, 2023     | nifff, film, festival                            |
 | [Amphetamins and the multi-species discourse](journal/2023-06-23.md) | June 23, 2023     | journal, adhd, more-than-human                   |
 | [Summertime](journal/2023-05-29.md)                                  | May 29, 2023      | journal, reflexion                               |
 | [Labour Day – Erster Mai](journal/2023-05-01.md)                     | May 01, 2023      | work, journal, reflexion                         |

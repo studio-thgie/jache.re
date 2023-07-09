@@ -7,7 +7,7 @@
     <base href="/"/>
     <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
 
-    <meta name="generator" content="pandoc" />
+    <meta name="generator" content="pancake.sh" />
     $for(author-meta)$
     <meta name="author" content="$author-meta$" />
     $endfor$
@@ -34,6 +34,12 @@
 
     <main role="main">
         $body$
+
+        $if(date-meta)$
+        <p>
+            Posted on <span>$date-meta$</span>.
+        </p>
+        $endif$
     </main>
 
     <footer class="text-sm">

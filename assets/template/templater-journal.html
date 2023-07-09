@@ -27,6 +27,7 @@
     </nav>
 
     <main role="main">
+        
         <p>&lt;%* const dv = app.plugins.plugins[“dataview”].api; const
         te = await
         dv.queryMarkdown(<code>TABLE WITHOUT ID         link(file.link, title) AS "Title",         date as Date, join(tag) as Tags     FROM "journal"     SORT date DESC</code>);</p>
@@ -37,8 +38,7 @@
         while((result = reg.exec(table)) !== null) { table =
         table.replace(result[0], result[0].replaceAll(’ ‘,’%20’)); }</p>
         <p>tR += table; %&gt;</p>
-
-            </main>
+    </main>
 
     <footer class="text-sm">
         <p class="flex">

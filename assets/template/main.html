@@ -33,13 +33,13 @@
     </nav>
 
     <main role="main">
-        $body$
-
         $if(date-meta)$
-        <p>
+        <p style="font-size: 0.9rem; font-style: italic;">
             Posted on <span>$date-meta$</span>.
         </p>
         $endif$
+
+        $body$
     </main>
 
     <footer class="text-sm">

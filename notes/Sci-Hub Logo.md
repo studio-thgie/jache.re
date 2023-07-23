@@ -4,7 +4,7 @@ To make a shitty thing half-right, I upscaled, vectorized and prepared the raven
 
 Thank you, Kate McLelland for this wonderful raven 💖 🐦‍⬛[^1]
 
-![](assets/kate-mclelland-ominous-raven-complete-sticker.png)
+![](assets/kate-mclelland-ominous-raven-vectorized.svg)
 
 Download [Kate McLelland - Ominous Raven](assets/kate-mclelland-ominous-raven.zip) sticker set.
 

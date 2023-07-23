@@ -4,8 +4,8 @@ To make a shitty thing half-right, I upscaled, vectorized and prepared the raven
 
 Thank you, Kate McLelland for this wonderful raven 💖 🐦‍⬛[^1]
 
-![](assets/kate-mclelland-omnious-raven-complete-sticker.png)
+![](assets/kate-mclelland-ominous-raven-complete-sticker.png)
 
-Download [Kate McLelland - Omnious Raven](assets/kate-mclelland-omnious-raven.zip) sticker set.
+Download [Kate McLelland - Ominous Raven](assets/kate-mclelland-ominous-raven.zip) sticker set.
 
 [^1]: The emoji shows a blackbird, not a raven… I know my birds!

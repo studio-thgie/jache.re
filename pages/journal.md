@@ -5,6 +5,7 @@ title: Journal
 
 | Title                                                                  | Date              | Tags                                             |
 | ---------------------------------------------------------------------- | ----------------- | ------------------------------------------------ |
+| [A post at the end of summer vacation](journal/2023-08-13.md)        | August 13, 2023   | vacation, summer, chill                          |
 | [Festivals as transitional spaces](journal/2023-07-09.md)            | July 09, 2023     | nifff, film, festival                            |
 | [Amphetamins and the multi-species discourse](journal/2023-06-23.md) | June 23, 2023     | journal, adhd, more-than-human                   |
 | [Summertime](journal/2023-05-29.md)                                  | May 29, 2023      | journal, reflexion                               |

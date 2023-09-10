@@ -1,5 +1,8 @@
 ---
 title: Field Notes
+tags: Glossary
+created: 2023-08-18T10:08
+updated: 2023-08-18T14:37
 ---
 # Field Notes
 

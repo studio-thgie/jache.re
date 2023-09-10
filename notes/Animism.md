@@ -1,5 +1,8 @@
 ---
 title: Animism
+tags: Glossary
+created: 2023-08-18T10:08
+updated: 2023-08-18T14:36
 ---
 # Animism
 I do not understand animism an anthropological category, but the philosophical consideration of a category of becoming. Specifically, I see in animism the elevation of material things to non-human persons. These processes can be carried out through a variety of mechanics; animating, attributing consciousness, talking with, and more. These mechanics can be classified as aesthetics from the perspective of design philosophy. In principle, this understanding of animism is very close to New Materialism, but the latter lacks a [Poetics of Animism](notes/Poetics%20of%20Animism.md) poetic dimension that has not been lost to the former.

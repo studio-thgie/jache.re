@@ -7,7 +7,7 @@ FILES:
   BIBTEX: 
 IMAGES:
   OPTIMIZE: true
-  COLORS: 6
+  COLORS: 8
   DIMENSIONS: 960
 BLOG:
   RSS: true

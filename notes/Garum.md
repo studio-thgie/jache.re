@@ -1,6 +1,6 @@
 ---
 created: 2023-09-12T20:25
-updated: 2023-09-12T21:20
+updated: 2023-09-12T21:49
 ---
 # Garum
 
@@ -34,10 +34,13 @@ I'm almost finished with my first batch (2023-09-12).
 ![](assets/garum/IMG_2714.jpeg)
 ![](assets/garum/IMG_2715.jpeg)
 ![](assets/garum/IMG_2716.jpeg)
+
 ![](assets/garum/IMG_2717.jpeg)
 ![](assets/garum/IMG_2738.jpeg)
+
 ![](assets/garum/IMG_2785-20230910_02563014.jpeg)
 ![](assets/garum/IMG_2869.jpeg)
+
 ![](assets/garum/IMG_2908.jpeg)
 
 ## Sources

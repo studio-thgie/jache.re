@@ -30,7 +30,7 @@
         
         <p>&lt;%* const dv = app.plugins.plugins[“dataview”].api; const
         te = await
-        dv.queryMarkdown(<code>TABLE WITHOUT ID         link(file.link, title) AS "Title",         date as Date, join(tag) as Tags     FROM "journal"     SORT date DESC</code>);</p>
+        dv.queryMarkdown(<code>TABLE WITHOUT ID         link(file.link, title) AS "Title",         date as Date, join(tags) as Tags     FROM "journal"     SORT date DESC</code>);</p>
         <p>// replace wikilinks with markdown links let table =
         te.value.replace(/[[([^|]+)\|([^|]+)]]/gm, “<a
         href="$1">$2</a>”);</p>

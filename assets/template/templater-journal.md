@@ -1,9 +1,13 @@
+---
+created: 2023-09-12T21:32
+updated: 2023-09-12T21:32
+---
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const te = await dv.queryMarkdown(`
 	TABLE WITHOUT ID
 		link(file.link, title) AS "Title",
-		date as Date, join(tag) as Tags
+		date as Date, join(tags) as Tags
 	FROM "journal"
 	SORT date DESC
 `);

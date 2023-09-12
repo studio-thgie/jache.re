@@ -1,0 +1,44 @@
+# Black people must smile: A critical reading of Stable Diffusion
+https://miro.com/app/board/uXjVMKxK-1s=/?share_link_id=548832205376
+
+- This poster is the result of a critical reading of Stable Diffusion. It is designated to give an overview of possible issues with this text-to-image generator.
+- Context
+	- What is Stable Diffusion?
+		- "Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input". In essence, a text-to-image model learns a unique relationship between text and image. Depending on the model's area of focus, specific text-prompts will lead to particular outcomes in the form of images. To gain a more profound understanding of such models, it's crucial to examine the individuals responsible for their creation, as well as the training material used. The training of these models requires significant resources, including time, money, and energy. It can be assumed that decisions towards large models need to be taken carefully and will mirror narratives and values behind the project.
+		- https://stability.ai/stable-diffusion
+	- Who is Stability AI?
+		- The company behind Stable Diffusion is Stability AI. They are a venture-capital funded startup that concentrates on "open source generative AI", founded by Emad Mostaque in 2020. In 2022 the company received $101m in funding from five large investor-companies. Venture-capital funding is usually given to smaller businesses, that are believed to have a long-term or great potential for growth. What differentiates Stability AI from its competitors is a focus on open-source practices and employs less than 100 people.
+		- https://stability.ai/about
+		- https://www.investopedia.com/terms/v/venturecapital.asp
+		- https://app.dealroom.co/companies/stability_ai
+		- https://en.wikipedia.org/wiki/Emad_Mostaque
+	- What was the training set?
+		- The dataset was provided by LAION, a German non-profit organization, financed by undisclosed "donations and public research grants". Stable Diffussion was trained on the LAION-Aesthetics dataset. To produce this dataset, LAION trained smaller models that concentrated on how much a person would like an image on a scale of 1 to 10. These models then were used to select material from a larger corpus and generate the LAION-Aesthetics set.
+		- https://laion.ai/about/
+		- https://en.wikipedia.org/wiki/LAION
+- Critical Analysis
+	- Economic and Ecological Sustainability
+		- The term open source has a historical-driven connotation of not-for-profit. Despite this distinction, Stability AI is driven by venture-capital and must operate with longterm profit-generation in mind. Having their models free-of-use, profit must be generated otherwise. Next to their models, they market an API, their own image generation platform as well as plugins for existing software. Since the AI generated content market is competitive, it can be expected that Stability AI has to fall back to harmful business practices, such as dark design patterns or collecting and selling user data.
+		- Like all large model training, Stable Diffusion suffers from an excessive use of energy, resulting in large emissions of CO2. By their own estimates, one training session emits roughly 15t of CO2, or the equivalent of one person's yearly emission in Switzerland.
+		- https://huggingface.co/stabilityai/stable-diffusion-2-1#environmental-impact
+	- Accessibility
+		- Accessibility is on of the strong points of Stable Diffusion, at least on a technical level. Their core-project, the training of models, is licensed under a quite liberal usage-policy and published on huggingface, a platform for the dissemination of machine learning models and datasets. Every model is accompanied by detailed information and reflections on its limitations and bias. This makes critique easier, since they strive to be transparent on their technological basis.
+		- https://huggingface.co/stabilityai/stable-diffusion-2-base
+		- https://www.theverge.com/2022/10/18/23410435/stability-ai-stable-diffusion-ai-art-generator-funding-round-billion-valuation
+	- Responsibility
+		- It could be argued, that going open source is also a strategy to avert responsibility. Traditionally, open source means the creation and maintenance of communities that care collaboratively about a project, accompanied by appropriate licensing. Stability AIs approach focuses mainly on the licensing part. In regard to the model's popularity, a relative small number of people are working on core products, estimated less than 100. Taken together with the handful of investors, the circle of people making essential decisions in the creation and marketing of Stable Diffusion is small, which might create power imbalances. This issue is furthered by not providing feedback- and participation-processes, despite being public on huggingface. 
+		- An interesting insight into the doings of LAION, who provided the dataset for Stable Diffusion, is the case of a photographer who wanted to get his photos removed from the dataset. He received an invoice as answer, for filing an unjustified copyright claim. This is insofar problematic, as the LAION dataset is known for including a lot of copyrighted material.  "Stability AI’s response is again one of claimed neutrality. Mostaque says that scraping public material from the web — even copyrighted content — is legal in both the US and UK"
+		- https://www.vice.com/en/article/pkapb7/a-photographer-tried-to-get-his-photos-removed-from-an-ai-dataset-he-got-an-invoice-instead
+	- Narratives and Values
+		- Open Source, access and responsibility
+			- Similar to other technology startups, Stability AI follows a make and break approach. For Emad Mostaque, technology is neutral, and building things is better than not. Open source has quite a different connotation in the light of this. Following a US-centric free speech approach, Mostaque says that "ultimately, it’s peoples’ responsibility as to whether they are ethical, moral, and legal in how they operate this technology". This offloading of responsibility has a huge impact on what can be generated. Whereas other companies invest a lot in filtering what is produced, Stability AI does forbid harmful material only through their license.
+			- https://www.theverge.com/2022/9/15/23340673/ai-image-generation-stable-diffusion-explained-ethics-copyright-data
+		- Aesthetics
+			- The LAION-Aesthetics data set is of special interest in a critical analysis. Training models that than curate a corpus of aesthetically pleasing images raises questions about for whom and for what reason. The rating models were trained with contributions from users, but the exact process and demographics of these users are unknown. This also means that it is hard to evaluate, what kind of values and world-views are inscribed into the dataset. As all datasets, LAION-Aesthetics is then generalized and takes over an unconscious pedagogic role. It assumes it knows what makes a beautiful picture.
+			- https://laion.ai/blog/laion-aesthetics/
+- Insights
+	- Stable Diffusion, respectively Stability AI, has many of the same problems as its competitors, despite the open-source approach. All things considered, Stability AI needs to be profitable and will strive to attain being so, or else must face bankruptcy. In doing so, they are rather ruthless, as official statements have shown. Through bending open-source to their own interpretation, they offload responsibility towards the generated output.
+	- Working with aesthetical pleasure as a measurement for curating a dataset can lead to bias, despite all measurements by Stability AI to critically reflect the dataset and model. A subtle example provides an insight into this. Repeated attempts at generating images for the following two prompts bring up similar results.
+	- photo of a black person, photo of a white person
+	- Without adding keywords for mood, people of colour are consistently shown smiling, whereas white people have resting mimics. It can be interfered that people of colour showing negative emotions have not found their way into the training set.
+			- https://huggingface.co/stabilityai/stable-diffusion-2-1#limitations-and-bias

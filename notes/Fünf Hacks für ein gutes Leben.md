@@ -1,0 +1,34 @@
+---
+title: Fünf Hacks für ein gutes Leben
+author: Philippe Zweifel
+date: 2023-01-14
+---
+# Fünf Hacks für ein gutes Leben[^1]
+Seit 80 Jahren dauert die legendäre Harvard-Glücksstudie an. Nun ist sie als packendes Buch erschienen. Fünf Tipps daraus, die Sie glücklicher machen.
+
+## Eine fremde Person ansprechen
+Small Talk hat einen schlechten Ruf. Er gilt als oberflächliches Gerede, von Menschen betrieben, die nicht wissen, was miteinander reden. Zwar fragt auch Bob Waldinger seine Leserschaft, wie viele «richtige Freunde» man habe, die man mitten in der Nacht mit einem Problem anrufen könne. Aber die «unwichtigen Beziehungen» sind für ihn ebenfalls wichtig. Ein kurzes Gespräch mit dem Postboten oder der Barista: Laut Bob Waldinger sind das die am meisten übersehenen Beziehungen – die aber zu signifikant mehr Wohlbefinden führen. Entsprechender Tipp: Fragen Sie die Kassiererin im Supermarkt, wie ihr Tag bisher gelaufen ist oder komplimentieren Sie den herzigen Hund eines Fremden. Statistisch – zumindest in den USA – ist Ablehnung auf solchen Small Talk übrigens viel seltener als freudige Überraschung.
+
+## Der Acht-Minuten-Anruf
+Die Zeit verfliegt wieder mal im Fluge – ein Gefühl, das viele kennen und das mit den Jahren stärker wird. Um daran nicht zu verzweifeln, trösten sich die meisten damit, dass es mal anders sein wird, dass wir irgendwann mehr Zeit zur Verfügung haben. Gemeint ist damit nicht die Pensionierung, sondern ein fiktiver Punkt in der nahen Zukunft, wo wir vermeintlich Zeit haben, die Anfrage zu einem Feierabendbier einer Bekannten endlich zu organisieren oder den überfälligen Besuch bei den Eltern zu absolvieren. Bloss: Dieser Zeitpunkt kommt nie – ausser man greift zum Telefon und macht Nägel mit Köpfen. Jetzt, nicht morgen. Psychologen gehen noch einen Schritt weiter und empfehlen den Acht-Minuten-Anruf: Denken Sie an jemanden, den Sie vermissen oder mit dem Sie gern mehr Kontakt hätten. Schicken Sie der Person eine Nachricht: «Hallo, ich musste gerade an dich denken, können wir schnell acht Minuten telefonieren?» Wieso acht Minuten? Weil es ein lustiger Gesprächsauftakt ist und in dieser Zeitspanne so viel gesagt werden kann, dass das Bindungs- und Glückshormon Oxytocin ausgeschüttet wird.
+
+## Sie und die sozialen Medien
+Eine menschliche Eigenart ist es, das eigene Leben mit jenen von anderen zu vergleichen. Weil wir aber nicht genau wissen, wie es in jemand anders aussieht, vergleichen wir eigentlich unser Innenleben mit dem Äusseren von jemand anders. Deshalb haben viele Menschen das Gefühl, das gute Leben sei stets bei den anderen. Auf den sozialen Medien ist dieser Effekt besonders auffällig. Wie die Menschen dort schön aussehen! An welch tollen Orten sie immer sind! Allerdings ist bekannt, dass diejenigen, die sich häufiger mit anderen vergleichen, weniger glücklich sind. Deshalb: selbst aktiv werden! Verschiedene Studien zeigen, dass diejenigen, die Facebook passiv nutzen und nur lesen und scrollen, sich schlechter fühlen als diejenigen, die sich aktiv beteiligen, indem sie mit anderen in Kontakt treten und Beiträge kommentieren.
+
+Überprüfen Sie auch, wie Ihre Nutzung sozialer Medien von den Menschen gesehen wird, die Ihnen wichtig sind. Denken Ihre Kinder, Sie seien zu viel online? Was denkt Ihr Partner? Fragen Sie ihn, was er von der Art und Weise hält, wie Sie Ihr Smartphone nutzen. Und schliesslich: Machen Sie Ferien von der Technik. Eine Stunde, einen Tag, je nachdem, wie oft Sie am Handy hängen. Wenn Sie sich bemühen, es für einen kurzen Zeitraum aus Ihrem Leben zu verbannen, können Sie herausfinden, wie es sich auf Sie auswirkt. Waldinger schreibt: «Der Kampf um unsere Aufmerksamkeit findet nicht auf den sozialen Medien statt, sondern auf unserem Heimplatz: in unseren Köpfen.» Und dort kann er auch gewonnen werden.
+
+## Die Menschen von der Arbeit
+Zwei weitere denkwürdige Statistikbrocken aus Bob Waldingers Buch: Acht Stunden am Tag sind die meisten Menschen am Arbeiten. Mit Kollegen verbringen sie also mehr Zeit als mit Familie und Freunden. Und: Die Daten darüber, warum Menschen bei einem Arbeitgeber bleiben, zeigen, dass der Grund neben ihren beruflichen Aufgaben nicht die Höhe ihres Gehalts ist oder wie gut sie mit ihrem Vorgesetzten auskommen – es ist, wie verbunden sie sich mit den Menschen in ihrem Team fühlen. Fragen Sie sich also: Wie gut kennen Sie Ihre Arbeitskollegen wirklich? Gibt es jemanden, den Sie gern besser kennen lernen würden? Sie könnten sich sogar jene Person aussuchen, mit der Sie am wenigsten gemeinsam zu haben scheinen, und sie nach etwas fragen, das sie zur Schau stellt. Bilder von der Familie oder ein T-Shirt, das sie bei der Arbeit trägt.
+
+Aufmerksames Nachfragen erfreut die meisten Berufskolleginnen und -kollegen ebenfalls. Notieren Sie sich, was jemand sagt, und erkundigen Sie sich eine Woche später danach. «Wie lief die Prüfung deines Kindes?», «Wie wars in Spanien in den Ferien?» Das tun Sie jetzt schon? Dann laden Sie jemanden von der Arbeit zu etwas Ungezwungenem ein: «Ich muss meinen Kopf frei bekommen, hast du Lust, mit mir einen kurzen Spaziergang ums Gebäude zu machen?»
+
+## Verschriftlichen Sie Ihre Dankbarkeit
+Wie oft sehen Sie Freunde und Bekannte, die Ihnen guttun? Einmal pro Monat? Einmal pro Woche? Letzteres klingt nach viel, aber im Vergleich zu den circa zehn Stunden pro Tag, die die meisten Menschen vor einem Bildschirm verbringen, ist es wenig Zeit. Gibt es in Ihrem Leben eine Beziehung, von der Sie beide profitieren würden, wenn Sie mehr Zeit miteinander verbringen könnten? Aktivieren Sie diese ungenutzten Ressourcen. Falls die räumliche Distanz oder fehlende Zeit ein Problem ist, hat Bob Waldinger ebenfalls einen Rat: Angenommen, Sie sähen diese Person nie mehr, wofür würden Sie ihr danken? Schreiben Sie es auf und schicken Sie es ab. Die glücklichsten Menschen, das zeigt die Harvard-Studie, nehmen sich Zeit, die Menschen, die sie mögen, ausdrücklich zu würdigen.
+
+So weit Bob Waldingers Tipps zum Instant-Glück. Doch Beziehungen verbessern ist natürlich keine einmalige Entscheidung, sondern ein Prozess. «Während Sie gehen, können Sie Sekunde für Sekunde entscheiden, wem Sie Ihre Aufmerksamkeit schenken», schreibt Waldinger: «Woche für Woche können Sie Ihre Beziehungen priorisieren und sich dafür entscheiden, mit den Menschen zusammen zu sein, die Ihnen wichtig sind. Jahr für Jahr können Sie durch die Beziehungen, die Sie pflegen, Sinn und Bedeutung finden.»
+
+## Related
+- [Care](notes/Care.md)
+- [What is a good life](notes/What%20is%20a%20good%20life.md)
+
+[^1]: von https://www.derbund.ch/fuenf-hacks-fuer-ein-gutes-leben-116021953609

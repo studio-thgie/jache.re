@@ -1,7 +1,8 @@
 ---
 doc_type: hypothesis-highlights
-url: >-
-  https://www.akademie-solitude.de/de/solitude-journal/soil-times-the-pace-of-ecological-care/
+url: https://www.akademie-solitude.de/de/solitude-journal/soil-times-the-pace-of-ecological-care/
+created: 2023-09-12T21:28
+updated: 2023-09-12T21:28
 ---
 
 # Soil Times The Pace of Ecological Care

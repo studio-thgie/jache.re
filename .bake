@@ -1,13 +1,17 @@
-MAIN_BRANCH: main
-DEPLOY_BRANCH: pages
-TEMPLATE_DIR: assets/template
-DEFAULT_TEMPLATE: default
-BIBTEX_FILE: 
-OPTIMIZE_IMAGES: true
-DITHER_COLORS: 6
-RESIZE_DIMENSIONS: 960
-BLOG_RSS: true
-BLOG_PATH: journal
-BLOG_TITLE: "Jachère, Fallow, Brache"
-BLOG_DESCRIPTION: "A little corner of the internet that is freed of economic reasoning, instead trying to root and entangle itself with the local and being environmentally aware."
-BLOG_URL: "https://jache.re"
+BRANCHES:
+  MAIN: main
+  DEPLOY: pages
+FILES:
+  TEMPLATES: assets/template
+  DEFAULT_TEMPLATE: default
+  BIBTEX: 
+IMAGES:
+  OPTIMIZE: true
+  COLORS: 6
+  DIMENSIONS: 960
+BLOG:
+  RSS: true
+  PATH: journal
+  TITLE: "Jachère, Fallow, Brache"
+  DESCRIPTION: "A little corner of the internet that is freed of economic reasoning, instead trying to root and entangle itself with the local and being environmentally aware."
+  URL: "https://jache.re"

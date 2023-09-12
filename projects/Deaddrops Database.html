@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/"/>
+    <title>Deaddrops Database</title>
+
+    <meta name="generator" content="pancake.sh" />
+        
+    <link rel="stylesheet" href="/assets/template/archive.css">
+
+</head>
+<body>
+
+    <nav role="navigation">
+        <ul class="nav-h">
+            <li><a target="_self" href="/">Home</a></li>
+	        <li><a target="_self" href="/pages/journal.html">Journal</a></li>
+	        <li><a target="_self" href="/pages/texts-and-talks.html">Texts and Talks</a></li>
+	        <li><a target="_self" href="/pages/notes.html">Notes</a></li>
+	        <li><a target="_self" href="/fp1/index.html">Fallow Zine 1</a></li>
+
+        </ul>
+
+    </nav>
+
+    <main role="main">
+        
+        <ul class="task-list">
+        <li><label><input type="checkbox" checked="" />ich habe noch
+        keine genau vorstellungen aber wenn die page und font grösse 
+        schon mal so skalieren würde, dass es auf mobile sinn macht wäre
+        gut. vielleicht liesse sich die liste dann auch einfach
+        runterscrollen mit nachladen und nicht mit diesen old school 1,
+        2, 3 .. 623 pages. und world map könnte sich zb an den vertical
+        screen anpassen usw. was meinst du?</label></li>
+        <li><label><input type="checkbox" checked="" />dieses statistik
+        tab kann raus, das macht ja garnichts.</label></li>
+        <li><label><input type="checkbox" checked="" />und im submit
+        prozess geht die preview nicht mehr, ein blick darauf wäre
+        toll.</label></li>
+        </ul>
+    </main>
+
+    <footer class="text-sm">
+        <p class="flex">
+        </p>
+        <p>All content, where not noted otherwise on <a href="https://dissertation.thgie.ch">dissertation.thgie.ch</a> is released and distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 license</a>.</p>
+    </footer>
+
+    <script>
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('p').forEach(el => {
+                if(el.querySelectorAll('img').length > 1) {
+                    el.classList.add('gallery')
+                }
+            })
+        })
+
+    </script>
+</body>
+</html>

@@ -1,13 +1,14 @@
 ---
 title: Baking
-author: Adrian Demleitner 
+author: Adrian Demleitner
+created: 2023-09-12T21:53
+updated: 2023-09-14T20:32
 ---
 # Baking 
-
 - [Notes](#notes)
 - [Bread](#bread)
 	- [Sourdough starter](#sourdough-starter)
-	- [70% Hydration, no fold sourdough](#hydration-no-fold-sourdough)
+	- [70 percent hydration, no fold sourdough](#70-percent-hydration-no-fold-sourdough)
 - [Journal](#journal)
 	- [Sunday, 15th January 2023](#sunday-15th-january-2023)
 
@@ -29,7 +30,7 @@ If, in this process, you have to much material, don't discard it. Just make some
 - if you keep your starter outside, feed 1 part flour and 1 part water several times a week
 - if you keep your starter in the fridge, whatever… I forgot my starter for month and it was actually moldy on top. I just scraped that off and feed it and it's alive and kicking. sometimes you'll have black fluid collecting on top. That's a kind of alcoholic by product. It's not very tasty I found out…
 
-### 70% Hydration, no fold sourdough
+### 70 percent hydration, no fold sourdough
 - ratio: 5 parts flour, 3.5 parts water, 1.5 parts sourdough starter (100% hydration)
 - for example: 330g flour, 230ml water, 100g sourdough, 5-10g salt
 

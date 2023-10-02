@@ -1,3 +1,7 @@
+---
+created: 2023-09-14T20:34
+updated: 2023-09-15T09:17
+---
 > a four-step qualitative analysis method
 
 I. Formal analysis
@@ -12,7 +16,7 @@ II. Effect analysis & investigation of specific design means in correlation with
 	A. Thematic Analysis
 	B. Technical analysis
 	
-## MA Thesis Lara Kathe
+## MA Thesis Lara Kothe
 Zur visuellen Diskursanalyse
 
 > Schritt 1: Schilderung Der erste Schritt beinhaltet eine Schilderung dessen, was zu sehen ist. Hierbei werden die visuellen (Bildmaterial, Illustrationen, Grafiken) sowie sprachlichen Elemente (Bildunterschriften, Begleittext) der zu untersuchenden Publikationen beschrieben. Dazu muss die Voraussetzung des Bewusstseins um den kulturellen Kontextes gegeben sein. Mithilfe der vorangehenden Methode der Literaturrecherche wird dieser hergestellt. Die Schilderung wird als Grundlage für weitere Fragestellungen genutzt: Gibt es Verweise des Sichtbaren auf Nicht-Sichtbares, was auf der visuellen Ebene nicht oder nicht direkt zu erkennen ist? Ziel ist es, das Zu-Sehende mit dem Unsichtbaren (also dem umfassenderen sozialen Sinn) in Verbindung zu bringen, was entweder nicht für zeigenswert erachtet wurde oder aus technischen Gründen nicht zeigbar ist. Dieser erste Schritt wird mit einer ausgewählten Expert*innengruppe durchgeführt, um eine grosse Bandbreite an Beschreibungen sowie Interpretationen zur Verfügung zu haben. (Fragestellung: Was sieht man? Wie ist der Aufbau? Wer zeigt wen wie? Wie wird dargestellt? Was ist nicht zu sehen? ... )

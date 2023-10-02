@@ -1,5 +1,7 @@
 ---
 title: Entanglements
+created: 2023-09-14T20:34
+updated: 2023-09-18T11:49
 ---
 
 # Entanglements
@@ -14,7 +16,7 @@ title: Entanglements
 - [Zu den Dingen sprechen](notes/Zu%20den%20Dingen%20sprechen.md)
 
 ## Texts
-- [Meditations on Artificial Intelligence](o/v/Meditations%20on%20Artificial%20Intelligence.md)
-- [Rotting Speculations](o/v/Rotting%20Speculations.md)
+- [Meditations on Artificial Intelligence](output/v/Meditations%20on%20Artificial%20Intelligence.md)
+- [Rotting Speculations](output/v/Rotting%20Speculations.md)
 - [things are people too 1](publish/reclaim_futures_2021/things%20are%20people%20too%201.md)
-- [Trees](o/slicr_2020/Trees.md)
+- [Trees](output/slicr_2020/Trees.md)

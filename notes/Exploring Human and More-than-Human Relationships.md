@@ -1,5 +1,7 @@
 ---
 tag: studies/more-than-human
+created: 2023-09-14T20:34
+updated: 2023-09-18T11:49
 ---
 # Exploring Human and More-than-Human Relationships
 *Multimodal Approaches, University of Bern, FS23*
@@ -60,9 +62,9 @@ I will continue with recording and attempt to layer, or weave, the material into
 
 ## Related
 - Some thoughts [on Beavers](notes/On%20Beavers.md)
-- A film review made for the course: [On notes for les sanglières](o/v/On%20notes%20for%20les%20sanglières.md)
-- Presentation Text for the final piece: [Multimodal ethnographies as practices of visiting](o/v/multimodal_ethnographies_as_practices_of_visiting.md)
-- Reflection on the production of the final piece: [Interspecies infrastructure in the becoming](o/v/Interspecies%20infrastructure%20in%20the%20becoming.md)
+- A film review made for the course: [On notes for les sanglières](output/v/On%20notes%20for%20les%20sanglières.md)
+- Presentation Text for the final piece: [Multimodal ethnographies as practices of visiting](output/v/multimodal_ethnographies_as_practices_of_visiting.md)
+- Reflection on the production of the final piece: [Interspecies infrastructure in the becoming](output/v/Interspecies%20infrastructure%20in%20the%20becoming.md)
 
 ## Reading Notes
 - Session 7

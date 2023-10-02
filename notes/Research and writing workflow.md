@@ -1,9 +1,11 @@
 ---
-title: "Research and writing workflow"
-author: "Adrian Demleitner"
+title: Research and writing workflow
+author: Adrian Demleitner
 tags:
-	- research basics
-	- writing basics
+  - research
+  - writing
+created: 2023-09-14T20:34
+updated: 2023-09-15T09:17
 ---
 # Research and writing workflow
 *This is a work in progress and might be heavily expanded upon in the near or far future.*

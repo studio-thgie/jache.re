@@ -1,13 +1,22 @@
 ---
 created: 2023-09-18T11:42
-updated: 2023-09-25T11:53
+updated: 2023-10-09T10:16
 ---
 # Das PTT-Archiv im Zeitalter von Linked Open Data
+
 - [ILIAS](https://ilias.unibe.ch/goto_ilias3_unibe_crs_2760077.html) & [KSL](https://www.ksl.unibe.ch/KSL/kurzansicht?3&stammNr=484302&semester=HS2023&lfdNr=0)
 - [Journal](#journal)
 
 ## Journal
-## 2023-09-25
+### 2023-10-09
+- Heute sprechen wir über Ontologien, vor allem über CIDOC CRM
+
+### 2023-10-02
+- Besuch PTT Archiv
+- Sichtung Material und Bildung von Gruppen: Ich wollte mit den Statistiken arbeiten und haben auch einen Mitstreiter gefunden.
+- Wir haben das relevante Material mit unseren Smartphones digitalisiert und die nächsten Schritte besprochen
+
+### 2023-09-25
 - Textbesprechung von [Mein Computer versteht mich](reading/hypothes.is/Internet%20Mein%20Computer%20versteht%20mich.md)
 	- Wie versteht Lee semantisches Netz?
 	- Unterschiede zum WWW?
@@ -43,4 +52,3 @@ ORDER BY DESC(?sitelinks)
 - Erwähnt wurden die [FAIR and CARE principles](notes/FAIR%20and%20CARE%20principles.md), welche wir in der Einführung schon im Detail durchgegangen sind. Mehr dazu auch [in meinem Kurs Journal](https://github.com/DHBern/einf_2023/blob/main/ftb_Adrian_Demleitner/index.md) und der [Reflexion zum Kurs Projekt](https://github.com/DHBern/einf_2023/blob/main/ftb_Adrian_Demleitner/projektreflexion.md).
 - Im Spiel Züri (1991) hat es ein paar Referenzen zur PTT :)
   ![](assets/Screenshot%202023-09-18%20at%2011.40.09.png)
-  

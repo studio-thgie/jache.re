@@ -1,6 +1,8 @@
 ---
 doc_type: hypothesis-highlights
-url: 'https://www.spektrum.de/magazin/mein-computer-versteht-mich/827866'
+url: https://www.spektrum.de/magazin/mein-computer-versteht-mich/827866
+created: 2023-11-06T09:33
+updated: 2023-11-06T09:33
 ---
 
 # Internet: Mein Computer versteht mich

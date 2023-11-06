@@ -2,13 +2,14 @@
 title: Baking
 author: Adrian Demleitner
 created: 2023-09-12T21:53
-updated: 2023-09-14T20:32
+updated: 2023-11-06T09:25
 ---
 # Baking 
 - [Notes](#notes)
 - [Bread](#bread)
 	- [Sourdough starter](#sourdough-starter)
 	- [70 percent hydration, no fold sourdough](#70-percent-hydration-no-fold-sourdough)
+	- [Rye Cripsbread](#rye-cripsbread)
 - [Journal](#journal)
 	- [Sunday, 15th January 2023](#sunday-15th-january-2023)
 
@@ -54,6 +55,25 @@ If, in this process, you have to much material, don't discard it. Just make some
 	- flip onto baking paper in soup dish, make cuts
 	- 45min at 240° in casserolle with lid
 	- 15min at 200° without lid
+
+### Rye Cripsbread
+I love myself a proper Knäckebröd and rye crispbread is the cusp of this bread-genre. My goto recipe is [Knäckebröd (Swedish Crispbread) ](https://www.nordickitchenstories.co.uk/2017/11/02/swedish-crispbread-knackebrod-recipe/). The only difference is, that I ferment my dough longer, for up to 16h. My sourdough is spelt-based and usually takes a moment or two to accustomize to the rye. I copied the ingredients here and all you have to do is to mix the stuff, let it ferment for 8-16h and then have your cripsbread no thicker then 1-2mm. Bake it once for 8-10min at 200°C, and a second time for 20min at 100°C.
+
+- 300 g Dark Rye Flour
+- 100 g Wholemeal Spelt Flour
+- 190-230 g Water (I find 200g water perfect if I use a rye sourdough starter)
+- 60 g Rye Starter (100% hydration), discard is perfect for this (or 1/2tsp Fast Action Yeast)
+- 6 g Fine Sea Salt
+- 1 Tbls Runny Honey
+- 1 generous tsp caraway (optional)
+
+I also use a bit more sourdough starter, like 100g and caraway is never optional. I love that stuff. The aesthetics are not the best yet, and I have to work a bit on form and colour. But, they taste damn good …
+
+![](assets/20231105_080519_4640.jpeg)
+![](assets/20231105_082634_8670.jpeg)
+
+![](assets/20231105_090903_1480.jpeg)
+![](assets/20231105_123657_1440.jpeg)
 
 ## Journal
 ### Sunday, 15th January 2023

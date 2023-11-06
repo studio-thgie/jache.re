@@ -1,7 +1,3 @@
----
-created: 2023-09-12T21:40
-updated: 2023-09-12T21:40
----
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const te = await dv.queryMarkdown(`

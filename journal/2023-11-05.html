@@ -61,12 +61,13 @@
         working with Obsidian. I love the system’s integration that
         comes with CalDAV based task and event management and how easy
         it is to sync and use different tools for the same sources.</p>
-        <p>Long story short. I had to realise that Obsidian is a great
-        journaling tool, but a mediocre for task management. But, thanks
-        to two other Obsidian plugins, I was able to make my whole setup
-        overly complicated and have the best of both worlds … 🥲</p>
+        <p><del>Long story short. I had to realise that Obsidian is a
+        great journaling tool, but a mediocre for task management. But,
+        thanks to two other Obsidian plugins, I was able to make my
+        whole setup overly complicated and have the best of both worlds
+        … 🥲</del></p>
         <h2 id="tasks">Tasks</h2>
-        <p>Events and tasks go into my CalDAV based calendars that are
+        <p>~~Events and tasks go into my CalDAV based calendars that are
         hosted in the western part of Switzerland. I can use whatever I
         have at hand to do so. A modern web interface provided by the
         hoster, Apple Calendar and Reminders, and, I started to use the
@@ -76,7 +77,10 @@
         database or data structure. The most important thing, which I
         already used in Obsidian Tasks, are tags. Through the tags I’m
         able to create dynamic lists, for example for #deadlines, or a
-        course like #stu/einblicke.</p>
+        course like #stu/einblicke. ~~</p>
+        <p>Delete this part … it didn’t work out. I’m just to accustomed
+        to Obsidian. Moved the tasks back but kept the nice journaling
+        template.</p>
         <h2 id="journaling">Journaling</h2>
         <p>The journaling magic now happens through the Periodic Notes
         and the Templater plugins for Obsidian. I have created a
@@ -115,10 +119,17 @@
 
 &lt;% tp.user.tasks({date:&quot;{{date:YYYY-MM-DD}}&quot;}) %&gt;
 
+Or if you stick with the Tasks plugin … Just remove the backslashes.
+
+\```tasks
+happens on {{date:YYYY-MM-DD}}
+short mode
+\```
+
 ---
 ## 📅 Daily Questions
 
-- 🌜 Last night, after work, I …
+- 🌜 Last night, at the end of the day I …
 - 🙌 One thing I&#39;ve excited about right now is …
 - 🚀 One+ thing I plan to accomplish today is …
 - 👎 One thing I&#39;m struggling with today is …

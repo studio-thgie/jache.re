@@ -1,3 +1,7 @@
+---
+created: 2023-11-09T19:30
+updated: 2023-11-09T19:30
+---
 # How to Research Gap and Question
 
 ## Research Gap

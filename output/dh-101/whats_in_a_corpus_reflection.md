@@ -1,3 +1,7 @@
+---
+created: 2023-11-09T19:30
+updated: 2023-11-09T19:30
+---
 # Reflexion zur Erstellung von Korpora zu digitalen Spielen
 
 *Adrian Demleitner, University of Bern, FS 2023<br>**Einführung in die Digital Humanities***

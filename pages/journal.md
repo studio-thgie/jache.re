@@ -1,12 +1,13 @@
 ---
 title: Journal
 created: 2023-09-12T21:28
-updated: 2023-11-06T09:31
+updated: 2023-11-10T11:55
 ---
 # Journal
 
 | Title                                                                      | Date               | Tags                                             |
 | -------------------------------------------------------------------------- | ------------------ | ------------------------------------------------ |
+| [ChatGPT for expanding and compressing text](journal/2023-11-10.md)      | November 10, 2023  | ChatGPT, writing, presentation                   |
 | [Journaling, Tasks, and Sourdough Rye Crispbread](journal/2023-11-05.md) | November 05, 2023  | baking, journaling, task-management              |
 | [Fermenting fish, fermenting nuts](journal/2023-09-12.md)                | September 12, 2023 | fermentation, more-than-human, coding            |
 | [A post at the end of summer vacation](journal/2023-08-13.md)            | August 13, 2023    | vacation, summer, chill                          |

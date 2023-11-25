@@ -3,7 +3,7 @@ title: "From methods to practice: On the sustainability of archival software in 
 author: Adrian Demleitner
 date: 2022-05-31
 created: 2023-09-14T20:34
-updated: 2023-09-18T11:49
+updated: 2023-11-25T12:30
 ---
 # From methods to practice: On the sustainability of archival software in research settings
 

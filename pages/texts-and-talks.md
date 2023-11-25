@@ -2,13 +2,13 @@
 title: Texts and Talks
 author: Adrian Demleitner
 created: 2023-09-14T20:34
-updated: 2023-11-25T12:28
+updated: 2023-11-25T12:32
 ---
 # Texts and Talks
 ## Things I wrote
 | Date | Title | Where |
 | --- | --- | --- |
-| Sep 2022 | [aneignung-entfremdung-elektroschrott](output/vigia-eletkroschrott/aneignung-entfremdung-elektroschrott.md) | [Vigia Tech Mag](https://vigia.tech/) |
+| Sep 2022 | [Geschichten zur Aneignung und Entfremdung von Elektroschrott](output/vigia-eletkroschrott/Geschichten%20zur%20Aneignung%20und%20Entfremdung%20von%20Elektroschrott.md) | [Vigia Tech Mag](https://vigia.tech/) |
 | Feb 2022 | [Between working repositories and cold-storage long-term archives](output/diai_2021/Between%20working%20repositories%20and%20cold-storage%20long-term%20archives.md)| Uni Seminar |
 | Feb 2022 | [Trees](output/slicr_2020/Trees.md)| Uni Seminar |
 | Jul 2021 | [Häuser besetzen, Strassen bestickern](output/v/Häuser%20besetzen,%20Strassen%20bestickern.md) | [Slap Me Baby Sticker Mag](https://www.slapmebaby.ch/) |

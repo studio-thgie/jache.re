@@ -1,10 +1,11 @@
 ---
 date: 2022-09
-publisher: [Vigia Tech Mag](https://vigia.tech/)
-author: Adrian Demleitner 
+publisher: Vigia Tech Mag
+author: Adrian Demleitner
 tags:
-	- text
-	- "e-waste"
+  - e-waste
+created: 2023-11-25T12:30
+updated: 2023-11-25T12:31
 ---
 *Adrian Demleitner interessiert sich für den neuen Materialismus, poetische Technologien, queere Politik, und archivarische Praktiken. Nach seinem Master-Abschluss in der Designforschung arbeitet er nun als wissenschaftlicher Programmierer im Digital Humanities Lab an der Universität Basel*
 

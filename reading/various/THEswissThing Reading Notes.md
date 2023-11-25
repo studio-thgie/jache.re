@@ -1,0 +1,42 @@
+# Sharing knowledge in the arts: THEswissTHING (1994–98)
+
+terms used
+- radical: 22
+- open: 116
+- access: 104
+
+- page 1:
+	- what are the issues of “openness” and “accessibility”?
+	- how are the two aims correlating? why the need to do both?
+	- maybe introduce FAIR ORD abbreviation
+	- maybe have a brief look at FAIR/CARE, the care part is quite powerful and certainly goes into the direction of this projects aims. fair is more about technical aspects, care is about the ethics and socio-technical dimensions - https://www.gida-global.org/care
+- page 2
+	- susan leigh star is always a nice addition to any infrastructural approaches :) (especially in the digital humanities)
+- page 4
+	- 2.1 Current state of research in the field reads quite strongly and is very precise, I skipped it in parts
+- page 8/9
+	- if you talk about openness, access and audiences, please be specific who these audiences are and what this access entails. maybe I missed it (overread it), in my limited opinion access needs very specific aims (ie being readable by people with limited sight or being better discoverable by students in the arts). otherwise consider a universal design approach. simply catering to critical artist researchers would be limiting the potential of such a project.
+- page 9
+	- 2.2 Current state of own research reads as it should, nothing to add here :) skipped it in parts
+	- first paragraph, line 4: Theit goal
+- page 12
+	- a thing i personally always enjoy is when the main questions are assigned to the roles and WPs through some signifiers (ie Q1 or whatever). it weaves the roles, wps and questions together.
+- page 13
+	- replace checksum verification by checking the integrity of the digital material
+	- WP1: how will you deal with extremely difficult material, ie the display of traumatic experiences
+- page 14
+	- since you considerably change the archive, is there a plan to preserve the as-is state for later research (with different methods and tools of different capabilities)?
+	- how will you deal with limited ressources, ie what if you can only analyse and work through a subset?
+	- maybe move the questions to the main question part
+- page 15
+	- Following a comparison between these oral accounts and the analysis of available archival material - how will the comparison be made
+	- WP3: an expanded understanding of interface could be benefitial. Interface not only as user (graphical) interface, but as the "thing" between the participant and the archive. Having the Digitalisate in wikibase and the DaSCH repositories enables the consumation through application interfaces. An interface is also the way a user is enabled to act within the designed environment. In a socio-cultural network the ethics towards openess and access become part of the interface. A curb-cut is an interface to the sidewalk.
+	- I'm fairly content with the methodological approach of development :D Iterative, testing, and partners!
+	- I'd say it's important to state that WP3 is of equal importance (and not just "designing the UI") as this is the place where research findings of openess and access in the arts are translated from theory into practice
+- page 18 
+	- a bit special in my case: I'm always very interested how interdisciplinary collaboration is looking like in practice. how are you forstering openess and access in-team? others for example have specific retreats or other encounter-based rituals (interfaces?) in their schedule, in order to make team-members be able to take the time to translate their own's discipline discourses and epistemologies into other. Or, at least, to let the others participate in one's own domain/discipline. I understand interdisciplinary as a participatory approach that needs active mediation.
+	- I feel that the latter 2/3 of the first paragraph belong to state of own research. risk should be met with a methodological approach. that the team is able to meet the risks based on their backgrounds is a given I guess?
+	- maybe summarize the risks again to give a quick overview and then point to the longer descriptions in their respective contexts
+- page 19
+	- "There is a lack of shared discussions around topics of openness and accessibility between researchers, **artists** and service provides." ? maybe put the "clients" in their as well
+	- 2.5 Relevance: The interface of WP3 isn't specifically mentioned. I have the feeling it should be referenced here again in order to justify it being in the funding application

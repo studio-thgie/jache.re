@@ -1,0 +1,1 @@
+# We have to get around it, that we’re creatures with very limited sensibilities and a very narrow band of perception. Our imagination is not infinite and our ways of producing and sharing knowledge are crude.

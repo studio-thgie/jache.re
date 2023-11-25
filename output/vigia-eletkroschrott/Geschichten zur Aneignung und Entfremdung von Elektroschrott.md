@@ -5,11 +5,11 @@ author: Adrian Demleitner
 tags:
   - e-waste
 created: 2023-11-25T12:30
-updated: 2023-11-25T12:31
+updated: 2023-11-25T15:23
 ---
 *Adrian Demleitner interessiert sich für den neuen Materialismus, poetische Technologien, queere Politik, und archivarische Praktiken. Nach seinem Master-Abschluss in der Designforschung arbeitet er nun als wissenschaftlicher Programmierer im Digital Humanities Lab an der Universität Basel*
 
-**Geschichten zur Aneignung und Entfremdung von Elektroschrott**
+# Geschichten zur Aneignung und Entfremdung von Elektroschrott
 
 Alles hat eine Geschichte – ich, du, Elektroschrott, die Komponenten und Materialien, aus welchen elektronische Geräte gefertigt sind, und natürlich auch unsere Beziehung zu all diesen Dingen. Die meisten davon haben natürlich mehr als eine Geschichte. Oft dominiert nur eine davon, je nachdem, wer erzählt. Ich möchte dies ansatzweise aufbrechen und in diesem Text durch mehrere Geschichten gleichzeitig führen. Sie stehen alle in Beziehung zu elektronischem Abfall; meine eigene im Recycling von Elektroabfall, die des seltenen Elementes Neodym, das oft in Smartphones verbaut wird, sowie jene unserer emotionalen Beziehung zu elektronischen Geräten, die einmal zu Abfall werden.
 

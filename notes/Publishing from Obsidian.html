@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/"/>
+    <title>Publishing from Obsidian</title>
+
+    <meta name="generator" content="pancake.sh" />
+        
+    <link rel="stylesheet" href="/assets/template/archive.css">
+
+</head>
+<body>
+
+    <nav role="navigation">
+        <ul class="nav-h">
+            <li><a target="_self" href="/">Home</a></li>
+	        <li><a target="_self" href="/pages/journal.html">Journal</a></li>
+	        <li><a target="_self" href="/pages/texts-and-talks.html">Texts and Talks</a></li>
+	        <li><a target="_self" href="/pages/notes.html">Notes</a></li>
+	        <li><a target="_self" href="/fp1/index.html">Fallow Zine 1</a></li>
+
+        </ul>
+
+    </nav>
+
+    <main role="main">
+        
+        <h1 id="publishing-from-obsidian">Publishing from Obsidian</h1>
+        <h3 id="pandoc">pandoc</h3>
+        <p>Just install this one and forget about it. Installation guide
+        can be found here: <a href="https://pandoc.org/installing.html"
+        class="uri">https://pandoc.org/installing.html</a>.</p>
+        <h2 id="exporting-from-obsidian">Exporting from Obsidian…</h2>
+        <h3 id="to-documents">…to documents</h3>
+        <p>First, you need to export a Zotero collection or your whole
+        library (not recommended if you have many items).</p>
+        <ul>
+        <li>Right-click the collection you want to export and chose
+        <strong>Export Collection…</strong></li>
+        </ul>
+        <p><img
+        src="assets/Screenshot%202022-08-19%20at%2020.28.33.png" /></p>
+        <p>The settings you should have ticked are:</p>
+        <ul>
+        <li>Export Notes (enables you to import your notes and
+        annotation into Obsidian)</li>
+        <li>Use Journal Abbreviation (can’t remember why, just do
+        it)</li>
+        <li>Keep updates (when you add another source to that collection
+        in Zotero it will automatically make a new export)</li>
+        </ul>
+        <p>Use the path to the Zotero BibTeX export file and put it into
+        <em>Citation database path</em>. You’re free in using whatever
+        you want for <em>Literature note folder</em>. That is just the
+        place where the notes end up that you import from Zotero.</p>
+        <p>As a last step, go into the <strong>pandoc</strong> plugin
+        settings and put the following preferences:</p>
+        <p><img
+        src="assets/Screenshot%202022-08-19%20at%2020.31.41.png" /></p>
+        <ul>
+        <li>Export files from HTML or markdown:
+        <strong>Markdown</strong></li>
+        <li>Export folder: <strong>Whatever you want</strong>, I like
+        mine in the same place all the time</li>
+        <li>Pandoc path: <strong>Use their guide in the little note to
+        find this value</strong>, you can use mine
+        (<code>/usr/local/bin/pandoc</code>) on macOS</li>
+        <li>Extra Pandoc arguments: <strong>This is
+        important</strong></li>
+        </ul>
+        <div class="sourceCode" id="cb1"><pre
+        class="sourceCode sh"><code class="sourceCode bash"><span id="cb1-1"><a href="/notes/Publishing from Obsidian.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">--bibliography=/Users/adrian/path/to/Export.bib</span> <span class="at">--citeproc</span> <span class="at">--csl</span><span class="op">=</span>/Users/adrian/path/to/Citation-Style.csl</span></code></pre></div>
+        <p>If you don’t know what a citation style is yet, just leave
+        out the
+        <code>--csl=/Users/adrian/path/to/Citation-Style.csl</code>
+        part. This little piece of information will let pandoc know,
+        that you used references in your text, and tries to replace them
+        accordingly during export.</p>
+        <h3 id="to-websites">…to websites</h3>
+        <p>#todo, but I personally use <a
+        href="https://codeberg.org/thgie/pancake.sh">pancake.sh</a> for
+        that. It’s a bunch of scripts I wrote myself to generate a
+        website from an Obsidian vault.</p>
+    </main>
+
+    <footer class="text-sm">
+        <p class="flex">
+        </p>
+        <p>All content, where not noted otherwise on <a href="https://dissertation.thgie.ch">dissertation.thgie.ch</a> is released and distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 license</a>.</p>
+    </footer>
+
+    <script>
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('p').forEach(el => {
+                if(el.querySelectorAll('img').length > 1) {
+                    el.classList.add('gallery')
+                }
+            })
+        })
+
+    </script>
+</body>
+</html>

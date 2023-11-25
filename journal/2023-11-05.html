@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/"/>
+    <title>Journaling, Tasks, and Sourdough Rye Crispbread</title>
+
+    <meta name="generator" content="pancake.sh" />
+        <meta name="author" content="Adrian Demleitner" />
+            <meta name="date" content="2023-11-05" />
+    
+    <link rel="stylesheet" href="/assets/template/archive.css">
+
+</head>
+<body>
+
+    <nav role="navigation">
+        <ul class="nav-h">
+            <li><a target="_self" href="/">Home</a></li>
+	        <li><a target="_self" href="/pages/journal.html">Journal</a></li>
+	        <li><a target="_self" href="/pages/texts-and-talks.html">Texts and Talks</a></li>
+	        <li><a target="_self" href="/pages/notes.html">Notes</a></li>
+	        <li><a target="_self" href="/fp1/index.html">Fallow Zine 1</a></li>
+
+        </ul>
+
+    </nav>
+
+    <main role="main">
+                <p style="font-size: 0.9rem; font-style: italic;">
+            Posted on <span>2023-11-05</span>.
+        </p>
+        
+        <h1
+        id="journaling-tasks-and-sourdough-rye-crispbread">Journaling,
+        Tasks, and Sourdough Rye Crispbread</h1>
+        <p>I’m doing text file based journaling since 2016 and since
+        2020 almost daily. Somewhere along the way, I got the idea, that
+        managing my tasks this way would be a good idea …</p>
+        <p>Obsidian makes journaling a breeze, but I never really got
+        warm with the different ways of managing tasks and calendars. I
+        have been using the <a
+        href="https://publish.obsidian.html/tasks/">Obsidian Tasks</a> for
+        a good two years, and it’s beautiful. It makes creating and
+        working with <em>something</em> like tasks within the given
+        context effortless. But, for me at least, it never felt quite
+        right. It’s a bit of a hassle to get tasks into the system, and
+        there is no easy way to get them out of Obsidian.</p>
+        <p>One of the most important factors for me is that my data
+        stays close and within as-good-as-it-gets data and privacy laws.
+        I’m pretty happy if my data stays in Switzerland. To properly
+        use Obsidian for task management, I had to sync it to my mobile.
+        I didn’t want to pay for Obsidian Sync and iCloud plays right
+        into the data problem, even if Apple is doing an ok job. Sync
+        via WebDAV with a plugin was subpar and I had to stick to
+        iCloud.</p>
+        <p>I’m also a big fan of everything CalDAV based (and CardDAV
+        for that matter), but there was no sane way to have CalDAV
+        working with Obsidian. I love the system’s integration that
+        comes with CalDAV based task and event management and how easy
+        it is to sync and use different tools for the same sources.</p>
+        <p><del>Long story short. I had to realise that Obsidian is a
+        great journaling tool, but a mediocre for task management. But,
+        thanks to two other Obsidian plugins, I was able to make my
+        whole setup overly complicated and have the best of both worlds
+        … 🥲</del></p>
+        <h2 id="tasks">Tasks</h2>
+        <p><del>Events and tasks go into my CalDAV based calendars that
+        are hosted in the western part of Switzerland. I can use
+        whatever I have at hand to do so. A modern web interface
+        provided by the hoster, Apple Calendar and Reminders, and, I
+        started to use the <a
+        href="https://goodtaskapp.com/">GoodTask</a> app for a more
+        expanded task management. What I love about GoodTask is, that
+        it’s built on top of CalDAV. I don’t need to have its own
+        database or data structure. The most important thing, which I
+        already used in Obsidian Tasks, are tags. Through the tags I’m
+        able to create dynamic lists, for example for #deadlines, or a
+        course like #stu/einblicke.</del></p>
+        <p>Delete these parts … it didn’t work out. I’m just to
+        accustomed to Obsidian. Moved the tasks back, but kept the nice
+        journaling template. I’m still pulling the events of the day
+        which is nice to have as a reference point.</p>
+        <h2 id="journaling">Journaling</h2>
+        <p>The journaling magic now happens through the Periodic Notes
+        and the Templater plugins for Obsidian. I have created a
+        template for my daily notes, that automatically pulls the events
+        and tasks for a day. The goal is not to work through them, but
+        to add them to the journal, have them present during the day,
+        and also add them to my growing journal archive. It just works
+        on macOS for the moment …</p>
+        <h3 id="how-to">How-to</h3>
+        <ul>
+        <li>Install <a
+        href="https://hasseg.org/icalBuddy/">icalBuddy</a>, which is a
+        command line tool, that enables you to pull from the macOS
+        calendar and output it as text</li>
+        <li>In the Templater plugin you have to activate
+        <code>Trigger Templater on new file creation</code></li>
+        <li>I also added two <code>User System Command Functions</code>
+        <ul>
+        <li><code>events</code>:
+        <code>/opt/homebrew/opt/ical-buddy/bin/icalBuddy -nc -po "datetime,title,notes,url" -ps "| |\\n\\t|\\n\\t|" -b "-" -ab "-" -npn -stda -nrd -df " " -tf "%H:%M" eventsFrom:$date to:$date</code></li>
+        <li><code>tasks</code>:
+        <code>/opt/homebrew/opt/ical-buddy/bin/icalBuddy -nc -po "title,datetime,notes,url" -ps "||\\n\\t|\\n\\t|" -b "- " -ab "- " -npn -stda -nrd -df " ⏳ %Y-%m-%d" -tf "" tasksDueBefore:$date</code></li>
+        </ul></li>
+        <li>Customize my daily template below to your needs. Important
+        are the two <code>tp.user</code> calls, which Templater
+        recognizes and inserts the events and tasks.</li>
+        </ul>
+        <pre><code># {{date:dddd}} - [[{{date:YYYY[/]YYYY-MM}}|{{date:MMM}}]] [[{{date:YYYY/gggg-[W]ww}}|{{date:DD}}]], [[{{date:YYYY}}]]
+
+## 📅 Events Today
+
+&lt;% tp.user.events({date:&quot;{{date:YYYY-MM-DD}}&quot;}) %&gt;
+
+---
+## ✅ Tasks Today
+
+&lt;% tp.user.tasks({date:&quot;{{date:YYYY-MM-DD}}&quot;}) %&gt;
+
+Or if you stick with the Tasks plugin … Just remove the backslashes.
+
+\```tasks
+happens on {{date:YYYY-MM-DD}}
+short mode
+\```
+
+---
+## 📅 Daily Questions
+
+- 🌜 Last night, at the end of the day I …
+- 🙌 One thing I&#39;ve excited about right now is …
+- 🚀 One+ thing I plan to accomplish today is …
+- 👎 One thing I&#39;m struggling with today is …
+- ✨ One thing I&#39;m grateful today is …
+- 🧑🏻‍⚕️ Today I feel …
+
+---
+## 📝 Journal</code></pre>
+        <h2 id="sourdough-rye-crispbread">Sourdough Rye Crispbread</h2>
+        <p>Another Sunday , another bread. I’m a sucker for all things
+        malty, and I made my favorite Knäckebröd, for which I added some
+        info under <a href="notes/Baking.html#Rye%20Cripsbread">Rye
+        Cripsbread</a>. It’s not the most beautiful thing to look at
+        (I’m working on that), but it’s really, really tasty.</p>
+        <p><img src="assets/20231105_123657_1440.png" /></p>
+    </main>
+
+    <footer class="text-sm">
+        <p class="flex">
+        </p>
+        <p>All content, where not noted otherwise on <a href="https://dissertation.thgie.ch">dissertation.thgie.ch</a> is released and distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 license</a>.</p>
+    </footer>
+
+    <script>
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('p').forEach(el => {
+                if(el.querySelectorAll('img').length > 1) {
+                    el.classList.add('gallery')
+                }
+            })
+        })
+
+    </script>
+</body>
+</html>

@@ -1,12 +1,12 @@
 ---
 title: Journal
 created: 2023-09-12T21:28
-updated: 2023-12-05T14:20
+updated: 2024-01-01T20:23
 ---
 # Journal
-
 | Title                                                                                  | Date               | Tags                                             |
 | -------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------ |
+| [Some notes on organisation and journaling](journal/2024-01-01.md)                   | January 01, 2024   | adhd, journaling, organization, reflection       |
 | [From despair to relieve – Dealing with an ADHD meds fallout](journal/2023-12-05.md) | December 05, 2023  | adhd, medicaments, fallout                       |
 | [ChatGPT for expanding and compressing text](journal/2023-11-10.md)                  | November 10, 2023  | ChatGPT, writing, presentation                   |
 | [Journaling, Tasks, and Sourdough Rye Crispbread](journal/2023-11-05.md)             | November 05, 2023  | baking, journaling, task-management              |
